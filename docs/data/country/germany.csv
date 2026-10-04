@@ -1,0 +1,443 @@
+country,iso3,measure,group,unit,year,value
+Germany,DEU,Households with catastrophic health spending,All,% of households,2003,1.78
+Germany,DEU,Households with catastrophic health spending,All,% of households,2008,3.16
+Germany,DEU,Households with catastrophic health spending,All,% of households,2013,2.36
+Germany,DEU,Households with catastrophic health spending,All,% of households,2018,2.43
+Germany,DEU,Households with impoverishing health spending,All,% of households,2003,0.55
+Germany,DEU,Households with impoverishing health spending,All,% of households,2008,1.53
+Germany,DEU,Households with impoverishing health spending,All,% of households,2013,0.98
+Germany,DEU,Households with impoverishing health spending,All,% of households,2018,1
+Germany,DEU,Unmet need for health care,All,% of people,2008,2.2
+Germany,DEU,Unmet need for health care,All,% of people,2009,2.1
+Germany,DEU,Unmet need for health care,All,% of people,2010,1.8
+Germany,DEU,Unmet need for health care,All,% of people,2011,1.7
+Germany,DEU,Unmet need for health care,All,% of people,2012,1.6
+Germany,DEU,Unmet need for health care,All,% of people,2013,1.6
+Germany,DEU,Unmet need for health care,All,% of people,2014,1.6
+Germany,DEU,Unmet need for health care,All,% of people,2015,0.5
+Germany,DEU,Unmet need for health care,All,% of people,2016,0.3
+Germany,DEU,Unmet need for health care,All,% of people,2017,0.3
+Germany,DEU,Unmet need for health care,All,% of people,2018,0.2
+Germany,DEU,Unmet need for health care,All,% of people,2019,0.3
+Germany,DEU,Unmet need for health care,All,% of people,2020,0.1
+Germany,DEU,Unmet need for health care,All,% of people,2021,0.1
+Germany,DEU,Unmet need for health care,All,% of people,2022,0.3
+Germany,DEU,Unmet need for health care,All,% of people,2023,0.2
+Germany,DEU,Unmet need for health care,All,% of people,2024,0.8
+Germany,DEU,Unmet need for health care,All,% of people,2025,1.2
+Germany,DEU,Unmet need for dental care,All,% of people,2008,2.7
+Germany,DEU,Unmet need for dental care,All,% of people,2009,2.6
+Germany,DEU,Unmet need for dental care,All,% of people,2010,2.3
+Germany,DEU,Unmet need for dental care,All,% of people,2011,2.1
+Germany,DEU,Unmet need for dental care,All,% of people,2012,1.8
+Germany,DEU,Unmet need for dental care,All,% of people,2013,2
+Germany,DEU,Unmet need for dental care,All,% of people,2014,2
+Germany,DEU,Unmet need for dental care,All,% of people,2015,0.6
+Germany,DEU,Unmet need for dental care,All,% of people,2016,0.6
+Germany,DEU,Unmet need for dental care,All,% of people,2017,0.6
+Germany,DEU,Unmet need for dental care,All,% of people,2018,0.5
+Germany,DEU,Unmet need for dental care,All,% of people,2019,0.4
+Germany,DEU,Unmet need for dental care,All,% of people,2020,0.4
+Germany,DEU,Unmet need for dental care,All,% of people,2021,0.4
+Germany,DEU,Unmet need for dental care,All,% of people,2022,0.6
+Germany,DEU,Unmet need for dental care,All,% of people,2023,0.3
+Germany,DEU,Unmet need for dental care,All,% of people,2024,0.4
+Germany,DEU,Unmet need for dental care,All,% of people,2025,1.5
+Germany,DEU,Unmet need for prescribed medicines due to cost,All,% of people needing care,2014,3.7
+Germany,DEU,Unmet need for prescribed medicines due to cost,All,% of people needing care,2019,4.7
+Germany,DEU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2000,11.8
+Germany,DEU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2001,11.78
+Germany,DEU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2002,12.05
+Germany,DEU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2003,12.26
+Germany,DEU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2004,13.49
+Germany,DEU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2005,13.56
+Germany,DEU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2006,13.9
+Germany,DEU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2007,13.76
+Germany,DEU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2008,13.46
+Germany,DEU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2009,13.26
+Germany,DEU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2010,13.3
+Germany,DEU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2011,13.32
+Germany,DEU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2012,13.49
+Germany,DEU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2013,12.69
+Germany,DEU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2014,12.35
+Germany,DEU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2015,12.35
+Germany,DEU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2016,12.19
+Germany,DEU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2017,12.02
+Germany,DEU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2018,12.18
+Germany,DEU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2019,12.38
+Germany,DEU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2020,11.34
+Germany,DEU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2021,11.36
+Germany,DEU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2022,10.43
+Germany,DEU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2023,11.05
+Germany,DEU,Out-of-pocket payments as a share of household spending,All,% of household consumption,2003,3.05
+Germany,DEU,Out-of-pocket payments as a share of household spending,All,% of household consumption,2008,3.39
+Germany,DEU,Out-of-pocket payments as a share of household spending,All,% of household consumption,2013,3.16
+Germany,DEU,Out-of-pocket payments as a share of household spending,All,% of household consumption,2018,3.19
+Germany,DEU,Public spending on health as a share of GDP,All,% of GDP,2000,7.65
+Germany,DEU,Public spending on health as a share of GDP,All,% of GDP,2001,7.66
+Germany,DEU,Public spending on health as a share of GDP,All,% of GDP,2002,7.81
+Germany,DEU,Public spending on health as a share of GDP,All,% of GDP,2003,7.92
+Germany,DEU,Public spending on health as a share of GDP,All,% of GDP,2004,7.56
+Germany,DEU,Public spending on health as a share of GDP,All,% of GDP,2005,7.64
+Germany,DEU,Public spending on health as a share of GDP,All,% of GDP,2006,7.5
+Germany,DEU,Public spending on health as a share of GDP,All,% of GDP,2007,7.4
+Germany,DEU,Public spending on health as a share of GDP,All,% of GDP,2008,7.57
+Germany,DEU,Public spending on health as a share of GDP,All,% of GDP,2009,9.18
+Germany,DEU,Public spending on health as a share of GDP,All,% of GDP,2010,9.05
+Germany,DEU,Public spending on health as a share of GDP,All,% of GDP,2011,8.78
+Germany,DEU,Public spending on health as a share of GDP,All,% of GDP,2012,8.83
+Germany,DEU,Public spending on health as a share of GDP,All,% of GDP,2013,9.04
+Germany,DEU,Public spending on health as a share of GDP,All,% of GDP,2014,9.1
+Germany,DEU,Public spending on health as a share of GDP,All,% of GDP,2015,9.24
+Germany,DEU,Public spending on health as a share of GDP,All,% of GDP,2016,9.3
+Germany,DEU,Public spending on health as a share of GDP,All,% of GDP,2017,9.38
+Germany,DEU,Public spending on health as a share of GDP,All,% of GDP,2018,9.47
+Germany,DEU,Public spending on health as a share of GDP,All,% of GDP,2019,9.67
+Germany,DEU,Public spending on health as a share of GDP,All,% of GDP,2020,10.69
+Germany,DEU,Public spending on health as a share of GDP,All,% of GDP,2021,10.92
+Germany,DEU,Public spending on health as a share of GDP,All,% of GDP,2022,10.79
+Germany,DEU,Public spending on health as a share of GDP,All,% of GDP,2023,10.09
+Germany,DEU,Public spending on health as a share of GDP,All,% of GDP,2024,10.58
+Germany,DEU,Public spending on health as a share of government spending,All,% of government spending,2000,15.94
+Germany,DEU,Public spending on health as a share of government spending,All,% of government spending,2001,16.11
+Germany,DEU,Public spending on health as a share of government spending,All,% of government spending,2002,16.24
+Germany,DEU,Public spending on health as a share of government spending,All,% of government spending,2003,16.39
+Germany,DEU,Public spending on health as a share of government spending,All,% of government spending,2004,16.18
+Germany,DEU,Public spending on health as a share of government spending,All,% of government spending,2005,16.39
+Germany,DEU,Public spending on health as a share of government spending,All,% of government spending,2006,16.62
+Germany,DEU,Public spending on health as a share of government spending,All,% of government spending,2007,17.07
+Germany,DEU,Public spending on health as a share of government spending,All,% of government spending,2008,17.09
+Germany,DEU,Public spending on health as a share of government spending,All,% of government spending,2009,17.27
+Germany,DEU,Public spending on health as a share of government spending,All,% of government spending,2010,17.12
+Germany,DEU,Public spending on health as a share of government spending,All,% of government spending,2011,17.61
+Germany,DEU,Public spending on health as a share of government spending,All,% of government spending,2012,17.82
+Germany,DEU,Public spending on health as a share of government spending,All,% of government spending,2013,18.26
+Germany,DEU,Public spending on health as a share of government spending,All,% of government spending,2014,18.73
+Germany,DEU,Public spending on health as a share of government spending,All,% of government spending,2015,19
+Germany,DEU,Public spending on health as a share of government spending,All,% of government spending,2016,19.08
+Germany,DEU,Public spending on health as a share of government spending,All,% of government spending,2017,19.38
+Germany,DEU,Public spending on health as a share of government spending,All,% of government spending,2018,19.49
+Germany,DEU,Public spending on health as a share of government spending,All,% of government spending,2019,19.53
+Germany,DEU,Public spending on health as a share of government spending,All,% of government spending,2020,19.31
+Germany,DEU,Public spending on health as a share of government spending,All,% of government spending,2021,19.96
+Germany,DEU,Public spending on health as a share of government spending,All,% of government spending,2022,20.44
+Germany,DEU,Public spending on health as a share of government spending,All,% of government spending,2023,19.21
+Germany,DEU,Public spending as a share of current spending on health,All,% of current spending on health,2000,78.36
+Germany,DEU,Public spending as a share of current spending on health,All,% of current spending on health,2001,78.33
+Germany,DEU,Public spending as a share of current spending on health,All,% of current spending on health,2002,77.92
+Germany,DEU,Public spending as a share of current spending on health,All,% of current spending on health,2003,77.44
+Germany,DEU,Public spending as a share of current spending on health,All,% of current spending on health,2004,75.83
+Germany,DEU,Public spending as a share of current spending on health,All,% of current spending on health,2005,75.63
+Germany,DEU,Public spending as a share of current spending on health,All,% of current spending on health,2006,75.27
+Germany,DEU,Public spending as a share of current spending on health,All,% of current spending on health,2007,75.28
+Germany,DEU,Public spending as a share of current spending on health,All,% of current spending on health,2008,75.41
+Germany,DEU,Public spending as a share of current spending on health,All,% of current spending on health,2009,83.69
+Germany,DEU,Public spending as a share of current spending on health,All,% of current spending on health,2010,83.59
+Germany,DEU,Public spending as a share of current spending on health,All,% of current spending on health,2011,83.46
+Germany,DEU,Public spending as a share of current spending on health,All,% of current spending on health,2012,83.34
+Germany,DEU,Public spending as a share of current spending on health,All,% of current spending on health,2013,84.15
+Germany,DEU,Public spending as a share of current spending on health,All,% of current spending on health,2014,84.55
+Germany,DEU,Public spending as a share of current spending on health,All,% of current spending on health,2015,84.58
+Germany,DEU,Public spending as a share of current spending on health,All,% of current spending on health,2016,84.77
+Germany,DEU,Public spending as a share of current spending on health,All,% of current spending on health,2017,84.9
+Germany,DEU,Public spending as a share of current spending on health,All,% of current spending on health,2018,84.72
+Germany,DEU,Public spending as a share of current spending on health,All,% of current spending on health,2019,84.65
+Germany,DEU,Public spending as a share of current spending on health,All,% of current spending on health,2020,85.75
+Germany,DEU,Public spending as a share of current spending on health,All,% of current spending on health,2021,85.86
+Germany,DEU,Public spending as a share of current spending on health,All,% of current spending on health,2022,86.72
+Germany,DEU,Public spending as a share of current spending on health,All,% of current spending on health,2023,85.94
+Germany,DEU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2000,8.41
+Germany,DEU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2001,8.5
+Germany,DEU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2002,8.63
+Germany,DEU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2003,8.85
+Germany,DEU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2004,9.17
+Germany,DEU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2005,9.27
+Germany,DEU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2006,9.26
+Germany,DEU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2007,9.36
+Germany,DEU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2008,9.51
+Germany,DEU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2009,1.4
+Germany,DEU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2010,1.39
+Germany,DEU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2011,1.44
+Germany,DEU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2012,1.47
+Germany,DEU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2013,1.56
+Germany,DEU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2014,1.49
+Germany,DEU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2015,1.49
+Germany,DEU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2016,1.45
+Germany,DEU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2017,1.43
+Germany,DEU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2018,1.45
+Germany,DEU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2019,1.39
+Germany,DEU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2020,1.3
+Germany,DEU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2021,1.26
+Germany,DEU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2022,1.26
+Germany,DEU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2023,1.32
+Germany,DEU,Population entitled to publicly financed health care,All,% of the population,2000,90.6
+Germany,DEU,Population entitled to publicly financed health care,All,% of the population,2001,90.3
+Germany,DEU,Population entitled to publicly financed health care,All,% of the population,2002,90.1
+Germany,DEU,Population entitled to publicly financed health care,All,% of the population,2003,89.8
+Germany,DEU,Population entitled to publicly financed health care,All,% of the population,2004,89.6
+Germany,DEU,Population entitled to publicly financed health care,All,% of the population,2005,89.5
+Germany,DEU,Population entitled to publicly financed health care,All,% of the population,2006,89.3
+Germany,DEU,Population entitled to publicly financed health care,All,% of the population,2007,89.2
+Germany,DEU,Population entitled to publicly financed health care,All,% of the population,2008,89.3
+Germany,DEU,Population entitled to publicly financed health care,All,% of the population,2009,99.8
+Germany,DEU,Population entitled to publicly financed health care,All,% of the population,2010,99.8
+Germany,DEU,Population entitled to publicly financed health care,All,% of the population,2011,99.8
+Germany,DEU,Population entitled to publicly financed health care,All,% of the population,2012,99.9
+Germany,DEU,Population entitled to publicly financed health care,All,% of the population,2013,99.9
+Germany,DEU,Population entitled to publicly financed health care,All,% of the population,2014,99.9
+Germany,DEU,Population entitled to publicly financed health care,All,% of the population,2015,99.9
+Germany,DEU,Population entitled to publicly financed health care,All,% of the population,2016,99.9
+Germany,DEU,Population entitled to publicly financed health care,All,% of the population,2017,99.9
+Germany,DEU,Population entitled to publicly financed health care,All,% of the population,2018,99.9
+Germany,DEU,Population entitled to publicly financed health care,All,% of the population,2019,99.9
+Germany,DEU,Population entitled to publicly financed health care,All,% of the population,2020,99.9
+Germany,DEU,Population entitled to publicly financed health care,All,% of the population,2021,99.9
+Germany,DEU,Population entitled to publicly financed health care,All,% of the population,2022,99.9
+Germany,DEU,Population entitled to publicly financed health care,All,% of the population,2023,99.9
+Germany,DEU,Population entitled to publicly financed health care,All,% of the population,2025,100
+Germany,DEU,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2003,4.6
+Germany,DEU,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2008,11.05
+Germany,DEU,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2013,7.4
+Germany,DEU,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2018,7.5
+Germany,DEU,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2003,0.55
+Germany,DEU,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2008,1.05
+Germany,DEU,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2013,0.9
+Germany,DEU,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2018,0.95
+Germany,DEU,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2003,0.8
+Germany,DEU,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2008,0.65
+Germany,DEU,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2013,0.7
+Germany,DEU,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2018,0.75
+Germany,DEU,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2003,1.1
+Germany,DEU,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2008,1.2
+Germany,DEU,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2013,0.85
+Germany,DEU,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2018,0.95
+Germany,DEU,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2003,1.8
+Germany,DEU,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2008,1.9
+Germany,DEU,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2013,1.95
+Germany,DEU,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2018,2
+Germany,DEU,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2003,8.81
+Germany,DEU,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2008,7.77
+Germany,DEU,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2013,8.27
+Germany,DEU,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2018,6.52
+Germany,DEU,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2003,19.04
+Germany,DEU,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2008,16.65
+Germany,DEU,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2013,12.76
+Germany,DEU,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2018,17.8
+Germany,DEU,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2003,8.08
+Germany,DEU,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2008,8.48
+Germany,DEU,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2013,7.28
+Germany,DEU,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2018,9.73
+Germany,DEU,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2003,53.19
+Germany,DEU,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2008,54.19
+Germany,DEU,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2013,62.89
+Germany,DEU,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2018,58.65
+Germany,DEU,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2003,2.71
+Germany,DEU,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2008,2.54
+Germany,DEU,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2013,1.55
+Germany,DEU,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2018,4.27
+Germany,DEU,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2003,8.16
+Germany,DEU,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2008,10.37
+Germany,DEU,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2013,7.26
+Germany,DEU,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2018,3.03
+Germany,DEU,Share of Impoverished households (all households),All,%,2003,0.08
+Germany,DEU,Share of Impoverished households (all households),All,%,2008,0.33
+Germany,DEU,Share of Impoverished households (all households),All,%,2013,0.17
+Germany,DEU,Share of Impoverished households (all households),All,%,2018,0.17
+Germany,DEU,Share of further impoverished households (total),All,%,2003,0.47
+Germany,DEU,Share of further impoverished households (total),All,%,2008,1.2
+Germany,DEU,Share of further impoverished households (total),All,%,2013,0.81
+Germany,DEU,Share of further impoverished households (total),All,%,2018,0.83
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2008,5.6
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2009,5.3
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2010,4.2
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2011,4.8
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2012,3.6
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2013,3.3
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2014,3
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2015,1
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2016,0.6
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2017,0.8
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2018,0.4
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2019,0.7
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2020,0.3
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2021,0.3
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2022,0.3
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2023,0.2
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2024,1.2
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2025,1.4
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2008,1
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2009,0.6
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2010,0.7
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2011,0.6
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2012,0.7
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2013,0.8
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2014,0.8
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2015,0.1
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2016,0
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2017,0.1
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2018,0
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2019,0.2
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2020,0.1
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2021,0
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2022,0.2
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2023,0.1
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2024,0.7
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2025,0.9
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2008,5.9
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2009,5.7
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2010,5.9
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2011,5.5
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2012,4.5
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2013,4.3
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2014,4
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2015,1.4
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2016,1.7
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2017,1.6
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2018,0.9
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2019,0.8
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2020,0.8
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2021,0.8
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2022,1.1
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2023,0.6
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2024,0.9
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2025,2.9
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2008,1.2
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2009,0.7
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2010,0.4
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2011,0.2
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2012,0.4
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2013,0.4
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2014,0.6
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2015,0.1
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2016,0.2
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2017,0.2
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2018,0.1
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2019,0.2
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2020,0.2
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2021,0.1
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2022,0.2
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2023,0.1
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2024,0.1
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2025,0.6
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2008,1.7
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2009,1.3
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2010,1
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2011,0.6
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2012,0.5
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2013,0.7
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2014,0.9
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2015,0.1
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2016,0.2
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2017,0.1
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2018,0.2
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2019,0.1
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2020,0
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2021,0.1
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2022,0.2
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2023,0.2
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2024,0.8
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2025,0.7
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2008,1.3
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2009,1.6
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2010,1.7
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2011,1.5
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2012,1.2
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2013,1.6
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2014,1.6
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2015,0.3
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2016,0.2
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2017,0.3
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2018,0
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2019,0.2
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2020,0.2
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2021,0.1
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2022,0.1
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2023,0.1
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2024,0.6
+Germany,DEU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2025,0.9
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2008,1.1
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2009,1.5
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2010,1.4
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2011,0.9
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2012,0.6
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2013,0.5
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2014,0.9
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2015,0.2
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2016,0.7
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2017,0.3
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2018,0
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2019,0
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2020,0.1
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2021,0.2
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2022,0.3
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2023,0.4
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2024,0.4
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2025,1.2
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2008,1.8
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2009,1.5
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2010,1.5
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2011,1.6
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2012,1.3
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2013,1.3
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2014,1.3
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2015,0.3
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2016,0.4
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2017,0.3
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2018,0.3
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2019,0.3
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2020,0.3
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2021,0.3
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2022,0.5
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2023,0.3
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2024,0.3
+Germany,DEU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2025,1.7
+Germany,DEU,Self-reported unmet need for prescribed medicines due to cost (poorest),All,%,2019,9.4
+Germany,DEU,Self-reported unmet need for prescribed medicines due to cost (richest),All,%,2019,2.6
+Germany,DEU,Self-reported unmet need for prescribed medicines due to cost (<25 years),All,%,2014,6.3
+Germany,DEU,Self-reported unmet need for prescribed medicines due to cost (<25 years),All,%,2019,3.8
+Germany,DEU,Self-reported unmet need for prescribed medicines due to cost (65+ years),All,%,2014,2.7
+Germany,DEU,Self-reported unmet need for prescribed medicines due to cost (65+ years),All,%,2019,4.7
+Germany,DEU,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2003,2.07
+Germany,DEU,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2008,2.54
+Germany,DEU,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2013,2.25
+Germany,DEU,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2018,2.31
+Germany,DEU,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2003,2.42
+Germany,DEU,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2008,2.85
+Germany,DEU,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2013,2.65
+Germany,DEU,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2018,2.71
+Germany,DEU,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2003,2.85
+Germany,DEU,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2008,3.11
+Germany,DEU,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2013,2.96
+Germany,DEU,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2018,2.94
+Germany,DEU,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2003,3.42
+Germany,DEU,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2008,3.55
+Germany,DEU,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2013,3.26
+Germany,DEU,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2018,3.38
+Germany,DEU,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2003,3.58
+Germany,DEU,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2008,3.99
+Germany,DEU,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2013,3.75
+Germany,DEU,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2018,3.7
+Germany,DEU,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2003,27.28
+Germany,DEU,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2008,26.85
+Germany,DEU,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2013,29.07
+Germany,DEU,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2018,27.27
+Germany,DEU,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2003,28.58
+Germany,DEU,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2008,24.94
+Germany,DEU,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2013,24.77
+Germany,DEU,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2018,27.28
+Germany,DEU,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2003,6.38
+Germany,DEU,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2008,13.85
+Germany,DEU,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2013,6.51
+Germany,DEU,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2018,7.16
+Germany,DEU,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2003,27.55
+Germany,DEU,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2008,25
+Germany,DEU,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2013,30.37
+Germany,DEU,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2018,29.23
+Germany,DEU,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2003,5.26
+Germany,DEU,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2008,4.96
+Germany,DEU,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2013,5.29
+Germany,DEU,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2018,6.03
+Germany,DEU,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2003,4.96
+Germany,DEU,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2008,4.4
+Germany,DEU,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2013,3.99
+Germany,DEU,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2018,3.03

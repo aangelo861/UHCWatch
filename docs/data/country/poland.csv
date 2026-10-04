@@ -1,0 +1,777 @@
+country,iso3,measure,group,unit,year,value
+Poland,POL,Households with catastrophic health spending,All,% of households,2005,10.37
+Poland,POL,Households with catastrophic health spending,All,% of households,2006,9.85
+Poland,POL,Households with catastrophic health spending,All,% of households,2007,9.96
+Poland,POL,Households with catastrophic health spending,All,% of households,2008,9.77
+Poland,POL,Households with catastrophic health spending,All,% of households,2009,9.63
+Poland,POL,Households with catastrophic health spending,All,% of households,2010,9.4
+Poland,POL,Households with catastrophic health spending,All,% of households,2011,9.48
+Poland,POL,Households with catastrophic health spending,All,% of households,2012,9.65
+Poland,POL,Households with catastrophic health spending,All,% of households,2013,9.31
+Poland,POL,Households with catastrophic health spending,All,% of households,2014,8.64
+Poland,POL,Households with catastrophic health spending,All,% of households,2015,8.89
+Poland,POL,Households with catastrophic health spending,All,% of households,2016,8.59
+Poland,POL,Households with catastrophic health spending,All,% of households,2017,9.01
+Poland,POL,Households with catastrophic health spending,All,% of households,2018,8.53
+Poland,POL,Households with catastrophic health spending,All,% of households,2019,8.56
+Poland,POL,Households with catastrophic health spending,All,% of households,2020,9.79
+Poland,POL,Households with catastrophic health spending,All,% of households,2021,9.36
+Poland,POL,Households with impoverishing health spending,All,% of households,2005,4.52
+Poland,POL,Households with impoverishing health spending,All,% of households,2006,4.26
+Poland,POL,Households with impoverishing health spending,All,% of households,2007,4.11
+Poland,POL,Households with impoverishing health spending,All,% of households,2008,4.16
+Poland,POL,Households with impoverishing health spending,All,% of households,2009,3.99
+Poland,POL,Households with impoverishing health spending,All,% of households,2010,4.15
+Poland,POL,Households with impoverishing health spending,All,% of households,2011,4.32
+Poland,POL,Households with impoverishing health spending,All,% of households,2012,4.06
+Poland,POL,Households with impoverishing health spending,All,% of households,2013,4.06
+Poland,POL,Households with impoverishing health spending,All,% of households,2014,3.76
+Poland,POL,Households with impoverishing health spending,All,% of households,2015,3.77
+Poland,POL,Households with impoverishing health spending,All,% of households,2016,3.58
+Poland,POL,Households with impoverishing health spending,All,% of households,2017,3.46
+Poland,POL,Households with impoverishing health spending,All,% of households,2018,3.49
+Poland,POL,Households with impoverishing health spending,All,% of households,2019,3.12
+Poland,POL,Households with impoverishing health spending,All,% of households,2020,3.75
+Poland,POL,Households with impoverishing health spending,All,% of households,2021,3.3
+Poland,POL,Unmet need for health care,All,% of people,2008,6
+Poland,POL,Unmet need for health care,All,% of people,2009,7.6
+Poland,POL,Unmet need for health care,All,% of people,2010,8.3
+Poland,POL,Unmet need for health care,All,% of people,2011,7.9
+Poland,POL,Unmet need for health care,All,% of people,2012,9
+Poland,POL,Unmet need for health care,All,% of people,2013,8.8
+Poland,POL,Unmet need for health care,All,% of people,2014,7.8
+Poland,POL,Unmet need for health care,All,% of people,2015,7.3
+Poland,POL,Unmet need for health care,All,% of people,2016,6.6
+Poland,POL,Unmet need for health care,All,% of people,2017,3.3
+Poland,POL,Unmet need for health care,All,% of people,2018,4.2
+Poland,POL,Unmet need for health care,All,% of people,2019,4.2
+Poland,POL,Unmet need for health care,All,% of people,2020,1.9
+Poland,POL,Unmet need for health care,All,% of people,2021,2.7
+Poland,POL,Unmet need for health care,All,% of people,2022,2.3
+Poland,POL,Unmet need for health care,All,% of people,2023,3.6
+Poland,POL,Unmet need for health care,All,% of people,2024,3.8
+Poland,POL,Unmet need for dental care,All,% of people,2008,5.1
+Poland,POL,Unmet need for dental care,All,% of people,2009,5.1
+Poland,POL,Unmet need for dental care,All,% of people,2010,5.2
+Poland,POL,Unmet need for dental care,All,% of people,2011,5.2
+Poland,POL,Unmet need for dental care,All,% of people,2012,5.1
+Poland,POL,Unmet need for dental care,All,% of people,2013,5
+Poland,POL,Unmet need for dental care,All,% of people,2014,4.8
+Poland,POL,Unmet need for dental care,All,% of people,2015,4.2
+Poland,POL,Unmet need for dental care,All,% of people,2016,3.7
+Poland,POL,Unmet need for dental care,All,% of people,2017,2.1
+Poland,POL,Unmet need for dental care,All,% of people,2018,2.1
+Poland,POL,Unmet need for dental care,All,% of people,2019,1.9
+Poland,POL,Unmet need for dental care,All,% of people,2020,0.8
+Poland,POL,Unmet need for dental care,All,% of people,2021,1
+Poland,POL,Unmet need for dental care,All,% of people,2022,1
+Poland,POL,Unmet need for dental care,All,% of people,2023,1.5
+Poland,POL,Unmet need for dental care,All,% of people,2024,1.3
+Poland,POL,Unmet need for prescribed medicines due to cost,All,% of people needing care,2014,9.4
+Poland,POL,Unmet need for prescribed medicines due to cost,All,% of people needing care,2019,5.9
+Poland,POL,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2000,31.12
+Poland,POL,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2001,28.98
+Poland,POL,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2002,26.45
+Poland,POL,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2003,27.58
+Poland,POL,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2004,29.44
+Poland,POL,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2005,27.75
+Poland,POL,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2006,27.11
+Poland,POL,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2007,26.29
+Poland,POL,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2008,24.43
+Poland,POL,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2009,24.36
+Poland,POL,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2010,23.71
+Poland,POL,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2011,23.95
+Poland,POL,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2012,24.26
+Poland,POL,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2013,23.65
+Poland,POL,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2014,22.74
+Poland,POL,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2015,23.04
+Poland,POL,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2016,22.75
+Poland,POL,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2017,22.74
+Poland,POL,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2018,20.42
+Poland,POL,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2019,20.09
+Poland,POL,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2020,19.53
+Poland,POL,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2021,19.85
+Poland,POL,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2022,18.43
+Poland,POL,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2023,15.85
+Poland,POL,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2024,16.21
+Poland,POL,Out-of-pocket payments as a share of household spending,All,% of household consumption,2005,5.26
+Poland,POL,Out-of-pocket payments as a share of household spending,All,% of household consumption,2006,5.13
+Poland,POL,Out-of-pocket payments as a share of household spending,All,% of household consumption,2007,5.16
+Poland,POL,Out-of-pocket payments as a share of household spending,All,% of household consumption,2008,5.05
+Poland,POL,Out-of-pocket payments as a share of household spending,All,% of household consumption,2009,5.24
+Poland,POL,Out-of-pocket payments as a share of household spending,All,% of household consumption,2010,5.01
+Poland,POL,Out-of-pocket payments as a share of household spending,All,% of household consumption,2011,5.19
+Poland,POL,Out-of-pocket payments as a share of household spending,All,% of household consumption,2012,5.24
+Poland,POL,Out-of-pocket payments as a share of household spending,All,% of household consumption,2013,5.28
+Poland,POL,Out-of-pocket payments as a share of household spending,All,% of household consumption,2014,5.21
+Poland,POL,Out-of-pocket payments as a share of household spending,All,% of household consumption,2015,5.5
+Poland,POL,Out-of-pocket payments as a share of household spending,All,% of household consumption,2016,5.57
+Poland,POL,Out-of-pocket payments as a share of household spending,All,% of household consumption,2017,5.73
+Poland,POL,Out-of-pocket payments as a share of household spending,All,% of household consumption,2018,5.21
+Poland,POL,Out-of-pocket payments as a share of household spending,All,% of household consumption,2019,5.34
+Poland,POL,Out-of-pocket payments as a share of household spending,All,% of household consumption,2020,5.49
+Poland,POL,Out-of-pocket payments as a share of household spending,All,% of household consumption,2021,5.8
+Poland,POL,Public spending on health as a share of GDP,All,% of GDP,2000,3.63
+Poland,POL,Public spending on health as a share of GDP,All,% of GDP,2001,4.01
+Poland,POL,Public spending on health as a share of GDP,All,% of GDP,2002,4.26
+Poland,POL,Public spending on health as a share of GDP,All,% of GDP,2003,4.1
+Poland,POL,Public spending on health as a share of GDP,All,% of GDP,2004,3.96
+Poland,POL,Public spending on health as a share of GDP,All,% of GDP,2005,3.98
+Poland,POL,Public spending on health as a share of GDP,All,% of GDP,2006,4
+Poland,POL,Public spending on health as a share of GDP,All,% of GDP,2007,4.11
+Poland,POL,Public spending on health as a share of GDP,All,% of GDP,2008,4.55
+Poland,POL,Public spending on health as a share of GDP,All,% of GDP,2009,4.71
+Poland,POL,Public spending on health as a share of GDP,All,% of GDP,2010,4.61
+Poland,POL,Public spending on health as a share of GDP,All,% of GDP,2011,4.43
+Poland,POL,Public spending on health as a share of GDP,All,% of GDP,2012,4.36
+Poland,POL,Public spending on health as a share of GDP,All,% of GDP,2013,4.56
+Poland,POL,Public spending on health as a share of GDP,All,% of GDP,2014,4.49
+Poland,POL,Public spending on health as a share of GDP,All,% of GDP,2015,4.44
+Poland,POL,Public spending on health as a share of GDP,All,% of GDP,2016,4.52
+Poland,POL,Public spending on health as a share of GDP,All,% of GDP,2017,4.53
+Poland,POL,Public spending on health as a share of GDP,All,% of GDP,2018,4.47
+Poland,POL,Public spending on health as a share of GDP,All,% of GDP,2019,4.59
+Poland,POL,Public spending on health as a share of GDP,All,% of GDP,2020,4.64
+Poland,POL,Public spending on health as a share of GDP,All,% of GDP,2021,4.61
+Poland,POL,Public spending on health as a share of GDP,All,% of GDP,2022,4.8
+Poland,POL,Public spending on health as a share of GDP,All,% of GDP,2023,5.54
+Poland,POL,Public spending on health as a share of GDP,All,% of GDP,2024,6.29
+Poland,POL,Public spending on health as a share of government spending,All,% of government spending,2000,8.38
+Poland,POL,Public spending on health as a share of government spending,All,% of government spending,2001,8.89
+Poland,POL,Public spending on health as a share of government spending,All,% of government spending,2002,9.39
+Poland,POL,Public spending on health as a share of government spending,All,% of government spending,2003,8.95
+Poland,POL,Public spending on health as a share of government spending,All,% of government spending,2004,9.11
+Poland,POL,Public spending on health as a share of government spending,All,% of government spending,2005,8.99
+Poland,POL,Public spending on health as a share of government spending,All,% of government spending,2006,9
+Poland,POL,Public spending on health as a share of government spending,All,% of government spending,2007,9.54
+Poland,POL,Public spending on health as a share of government spending,All,% of government spending,2008,10.27
+Poland,POL,Public spending on health as a share of government spending,All,% of government spending,2009,10.5
+Poland,POL,Public spending on health as a share of government spending,All,% of government spending,2010,9.98
+Poland,POL,Public spending on health as a share of government spending,All,% of government spending,2011,10.05
+Poland,POL,Public spending on health as a share of government spending,All,% of government spending,2012,10.07
+Poland,POL,Public spending on health as a share of government spending,All,% of government spending,2013,10.49
+Poland,POL,Public spending on health as a share of government spending,All,% of government spending,2014,10.47
+Poland,POL,Public spending on health as a share of government spending,All,% of government spending,2015,10.63
+Poland,POL,Public spending on health as a share of government spending,All,% of government spending,2016,10.95
+Poland,POL,Public spending on health as a share of government spending,All,% of government spending,2017,10.94
+Poland,POL,Public spending on health as a share of government spending,All,% of government spending,2018,10.83
+Poland,POL,Public spending on health as a share of government spending,All,% of government spending,2019,11.01
+Poland,POL,Public spending on health as a share of government spending,All,% of government spending,2020,9.68
+Poland,POL,Public spending on health as a share of government spending,All,% of government spending,2021,10.53
+Poland,POL,Public spending on health as a share of government spending,All,% of government spending,2022,11.04
+Poland,POL,Public spending on health as a share of government spending,All,% of government spending,2023,11.75
+Poland,POL,Public spending as a share of current spending on health,All,% of current spending on health,2000,68.88
+Poland,POL,Public spending as a share of current spending on health,All,% of current spending on health,2001,71.02
+Poland,POL,Public spending as a share of current spending on health,All,% of current spending on health,2002,70.44
+Poland,POL,Public spending as a share of current spending on health,All,% of current spending on health,2003,69.16
+Poland,POL,Public spending as a share of current spending on health,All,% of current spending on health,2004,67.74
+Poland,POL,Public spending as a share of current spending on health,All,% of current spending on health,2005,68.67
+Poland,POL,Public spending as a share of current spending on health,All,% of current spending on health,2006,69.24
+Poland,POL,Public spending as a share of current spending on health,All,% of current spending on health,2007,70.07
+Poland,POL,Public spending as a share of current spending on health,All,% of current spending on health,2008,71.67
+Poland,POL,Public spending as a share of current spending on health,All,% of current spending on health,2009,71.65
+Poland,POL,Public spending as a share of current spending on health,All,% of current spending on health,2010,71.68
+Poland,POL,Public spending as a share of current spending on health,All,% of current spending on health,2011,70.87
+Poland,POL,Public spending as a share of current spending on health,All,% of current spending on health,2012,70.04
+Poland,POL,Public spending as a share of current spending on health,All,% of current spending on health,2013,70.66
+Poland,POL,Public spending as a share of current spending on health,All,% of current spending on health,2014,70.32
+Poland,POL,Public spending as a share of current spending on health,All,% of current spending on health,2015,69.74
+Poland,POL,Public spending as a share of current spending on health,All,% of current spending on health,2016,69.1
+Poland,POL,Public spending as a share of current spending on health,All,% of current spending on health,2017,69.29
+Poland,POL,Public spending as a share of current spending on health,All,% of current spending on health,2018,71.49
+Poland,POL,Public spending as a share of current spending on health,All,% of current spending on health,2019,71.78
+Poland,POL,Public spending as a share of current spending on health,All,% of current spending on health,2020,72.27
+Poland,POL,Public spending as a share of current spending on health,All,% of current spending on health,2021,72.46
+Poland,POL,Public spending as a share of current spending on health,All,% of current spending on health,2022,74.28
+Poland,POL,Public spending as a share of current spending on health,All,% of current spending on health,2023,77.57
+Poland,POL,Public spending as a share of current spending on health,All,% of current spending on health,2024,78.02
+Poland,POL,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2002,0.59
+Poland,POL,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2003,0.59
+Poland,POL,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2004,0.62
+Poland,POL,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2005,0.59
+Poland,POL,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2006,0.59
+Poland,POL,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2007,0.59
+Poland,POL,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2008,0.61
+Poland,POL,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2009,0.63
+Poland,POL,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2010,0.71
+Poland,POL,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2011,0.74
+Poland,POL,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2012,0.75
+Poland,POL,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2013,4.01
+Poland,POL,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2014,4.46
+Poland,POL,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2015,4.99
+Poland,POL,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2016,5.35
+Poland,POL,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2017,5.64
+Poland,POL,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2018,6.11
+Poland,POL,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2019,6.2
+Poland,POL,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2020,5.94
+Poland,POL,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2021,5.75
+Poland,POL,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2022,5.3
+Poland,POL,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2023,4.78
+Poland,POL,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2024,4.22
+Poland,POL,Population entitled to publicly financed health care,All,% of the population,2005,97.3
+Poland,POL,Population entitled to publicly financed health care,All,% of the population,2006,99.3
+Poland,POL,Population entitled to publicly financed health care,All,% of the population,2007,98.1
+Poland,POL,Population entitled to publicly financed health care,All,% of the population,2008,97.8
+Poland,POL,Population entitled to publicly financed health care,All,% of the population,2009,97.6
+Poland,POL,Population entitled to publicly financed health care,All,% of the population,2010,97.5
+Poland,POL,Population entitled to publicly financed health care,All,% of the population,2011,96.6
+Poland,POL,Population entitled to publicly financed health care,All,% of the population,2012,91
+Poland,POL,Population entitled to publicly financed health care,All,% of the population,2013,91.6
+Poland,POL,Population entitled to publicly financed health care,All,% of the population,2014,91.3
+Poland,POL,Population entitled to publicly financed health care,All,% of the population,2015,91
+Poland,POL,Population entitled to publicly financed health care,All,% of the population,2016,91.5
+Poland,POL,Population entitled to publicly financed health care,All,% of the population,2017,92.6
+Poland,POL,Population entitled to publicly financed health care,All,% of the population,2018,92.9
+Poland,POL,Population entitled to publicly financed health care,All,% of the population,2019,93.4
+Poland,POL,Population entitled to publicly financed health care,All,% of the population,2020,93.3
+Poland,POL,Population entitled to publicly financed health care,All,% of the population,2021,94
+Poland,POL,Population entitled to publicly financed health care,All,% of the population,2022,96.7
+Poland,POL,Population entitled to publicly financed health care,All,% of the population,2023,96.9
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2005,31.85
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2006,31.35
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2007,31.95
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2008,31.75
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2009,31.5
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2010,32.05
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2011,32.45
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2012,31.5
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2013,31.4
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2014,29.65
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2015,30.25
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2016,30
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2017,30.6
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2018,28.5
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2019,27.45
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2020,30.8
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2021,28.6
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2005,8.75
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2006,8.3
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2007,8.4
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2008,8.55
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2009,8.25
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2010,7.65
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2011,7.6
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2012,8.4
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2013,7.3
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2014,6.8
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2015,6.75
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2016,6.15
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2017,6.2
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2018,5.8
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2019,6.25
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2020,7.85
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2021,7.45
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2005,5.7
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2006,4.65
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2007,4.45
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2008,4.45
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2009,4.4
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2010,4
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2011,3.85
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2012,4.2
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2013,3.9
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2014,3.1
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2015,3.25
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2016,3
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2017,3.3
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2018,3.45
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2019,3.95
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2020,4.25
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2021,3.8
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2005,3.65
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2006,3.15
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2007,2.95
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2008,2.35
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2009,2.4
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2010,1.8
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2011,1.85
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2012,2.3
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2013,2.2
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2014,1.9
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2015,2.3
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2016,1.75
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2017,2.5
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2018,2.4
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2019,2.45
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2020,3
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2021,3.55
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2005,1.95
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2006,1.8
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2007,2.05
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2008,1.7
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2009,1.6
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2010,1.5
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2011,1.65
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2012,1.9
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2013,1.8
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2014,1.75
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2015,1.85
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2016,2.05
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2017,2.45
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2018,2.5
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2019,2.7
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2020,2.95
+Poland,POL,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2021,3.4
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2005,66.81
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2006,63.78
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2007,59.3
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2008,57.05
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2009,59.63
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2010,57.37
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2011,55.55
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2012,58.02
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2013,57.39
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2014,55.17
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2015,51.52
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2016,49.97
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2017,44.22
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2018,47.93
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2019,46.83
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2020,52.64
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2021,43.51
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2005,8.33
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2006,9.43
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2007,9.3
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2008,12.04
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2009,10.98
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2010,11.87
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2011,11.62
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2012,11.46
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2013,11.72
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2014,13.98
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2015,11.89
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2016,13.08
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2017,15.2
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2018,13.87
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2019,14.71
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2020,14.86
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2021,16
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2005,10.12
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2006,10.38
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2007,9.1
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2008,8.44
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2009,10.16
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2010,8.55
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2011,9.43
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2012,10.99
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2013,9.74
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2014,10.21
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2015,13.22
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2016,11.77
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2017,11.86
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2018,8.2
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2019,8.51
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2020,8.3
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2021,8.88
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2005,9.28
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2006,10.17
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2007,14.44
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2008,15.29
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2009,9.5
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2010,13.12
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2011,15.93
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2012,11.49
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2013,11.11
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2014,10.76
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2015,11.77
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2016,13.7
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2017,15.55
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2018,11.86
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2019,12.17
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2020,10.48
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2021,16.98
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2005,1.82
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2006,1.86
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2007,1.87
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2008,2.2
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2009,2.79
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2010,2.5
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2011,2.61
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2012,3.75
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2013,3.35
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2014,3.44
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2015,3.36
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2016,3.74
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2017,4.08
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2018,5.88
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2019,5.63
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2020,6.07
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2021,5.44
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2005,3.64
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2006,4.38
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2007,5.99
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2008,4.98
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2009,6.94
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2010,6.57
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2011,4.87
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2012,4.29
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2013,6.69
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2014,6.44
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2015,8.23
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2016,7.75
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2017,9.09
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2018,12.26
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2019,12.15
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2020,7.65
+Poland,POL,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2021,9.19
+Poland,POL,Share of Impoverished households (all households),All,%,2005,1.32
+Poland,POL,Share of Impoverished households (all households),All,%,2006,1.26
+Poland,POL,Share of Impoverished households (all households),All,%,2007,1.29
+Poland,POL,Share of Impoverished households (all households),All,%,2008,1.28
+Poland,POL,Share of Impoverished households (all households),All,%,2009,1.34
+Poland,POL,Share of Impoverished households (all households),All,%,2010,1.3
+Poland,POL,Share of Impoverished households (all households),All,%,2011,1.33
+Poland,POL,Share of Impoverished households (all households),All,%,2012,1.27
+Poland,POL,Share of Impoverished households (all households),All,%,2013,1.22
+Poland,POL,Share of Impoverished households (all households),All,%,2014,1.14
+Poland,POL,Share of Impoverished households (all households),All,%,2015,1.15
+Poland,POL,Share of Impoverished households (all households),All,%,2016,1.14
+Poland,POL,Share of Impoverished households (all households),All,%,2017,1.19
+Poland,POL,Share of Impoverished households (all households),All,%,2018,1.06
+Poland,POL,Share of Impoverished households (all households),All,%,2019,1.02
+Poland,POL,Share of Impoverished households (all households),All,%,2020,1.16
+Poland,POL,Share of Impoverished households (all households),All,%,2021,1.17
+Poland,POL,Share of further impoverished households (total),All,%,2005,3.2
+Poland,POL,Share of further impoverished households (total),All,%,2006,3
+Poland,POL,Share of further impoverished households (total),All,%,2007,2.82
+Poland,POL,Share of further impoverished households (total),All,%,2008,2.88
+Poland,POL,Share of further impoverished households (total),All,%,2009,2.65
+Poland,POL,Share of further impoverished households (total),All,%,2010,2.85
+Poland,POL,Share of further impoverished households (total),All,%,2011,2.99
+Poland,POL,Share of further impoverished households (total),All,%,2012,2.79
+Poland,POL,Share of further impoverished households (total),All,%,2013,2.83
+Poland,POL,Share of further impoverished households (total),All,%,2014,2.62
+Poland,POL,Share of further impoverished households (total),All,%,2015,2.62
+Poland,POL,Share of further impoverished households (total),All,%,2016,2.44
+Poland,POL,Share of further impoverished households (total),All,%,2017,2.27
+Poland,POL,Share of further impoverished households (total),All,%,2018,2.43
+Poland,POL,Share of further impoverished households (total),All,%,2019,2.1
+Poland,POL,Share of further impoverished households (total),All,%,2020,2.58
+Poland,POL,Share of further impoverished households (total),All,%,2021,2.13
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2008,8.4
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2009,10.3
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2010,12.8
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2011,10.5
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2012,11.2
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2013,11.8
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2014,10.9
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2015,10.8
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2016,9.8
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2017,4.7
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2018,6.2
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2019,5.6
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2020,2.8
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2021,4.1
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2022,3.1
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2023,4
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2024,4.7
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2008,4.2
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2009,5.2
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2010,4.8
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2011,4.9
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2012,5.9
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2013,6.5
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2014,4.8
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2015,4.3
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2016,4.5
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2017,2.7
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2018,2.9
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2019,3.5
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2020,1.4
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2021,2.2
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2022,2.4
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2023,3
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2024,3.1
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2008,7.6
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2009,7.9
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2010,8.5
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2011,8.2
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2012,8.2
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2013,8.1
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2014,7.2
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2015,7.5
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2016,6.6
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2017,3.4
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2018,3.7
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2019,2.5
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2020,1.5
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2021,1.7
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2022,1.3
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2023,1.7
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2024,1.6
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2008,3
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2009,2.9
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2010,2.8
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2011,2.5
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2012,2.5
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2013,2.9
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2014,2.4
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2015,2.4
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2016,1.7
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2017,0.8
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2018,1.2
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2019,1.4
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2020,0.6
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2021,0.8
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2022,0.8
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2023,1.3
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2024,0.7
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2008,2.1
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2009,2.3
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2010,2.5
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2011,1.7
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2012,2.3
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2013,2.6
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2014,2.6
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2015,2.2
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2016,2.2
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2017,1.5
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2018,1.2
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2019,1.5
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2020,0.8
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2021,0.7
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2022,0.6
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2023,0.7
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2024,1.5
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2008,10.1
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2009,11.7
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2010,14.6
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2011,14
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2012,16.2
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2013,14.5
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2014,11.6
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2015,10.3
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2016,8.7
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2017,4
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2018,5.3
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2019,5.6
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2020,2.9
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2021,3.8
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2022,3.1
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2023,4.7
+Poland,POL,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2024,5.3
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2008,3
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2009,3.1
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2010,3.1
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2011,3.1
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2012,3.1
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2013,3.6
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2014,3
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2015,2.6
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2016,4.1
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2017,1.2
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2018,1.5
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2019,1.3
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2020,1.1
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2021,0.8
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2022,0.5
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2023,0.6
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2024,1.7
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2008,3.4
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2009,3.5
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2010,4.1
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2011,3.6
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2012,3.9
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2013,3.4
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2014,3.4
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2015,3.3
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2016,2.5
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2017,1.4
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2018,1.1
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2019,1.1
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2020,0.4
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2021,0.9
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2022,0.7
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2023,1.2
+Poland,POL,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2024,0.7
+Poland,POL,Self-reported unmet need for prescribed medicines due to cost (poorest),All,%,2019,17.1
+Poland,POL,Self-reported unmet need for prescribed medicines due to cost (richest),All,%,2019,3.1
+Poland,POL,Self-reported unmet need for prescribed medicines due to cost (<25 years),All,%,2014,4.3
+Poland,POL,Self-reported unmet need for prescribed medicines due to cost (<25 years),All,%,2019,2.2
+Poland,POL,Self-reported unmet need for prescribed medicines due to cost (65+ years),All,%,2014,14.5
+Poland,POL,Self-reported unmet need for prescribed medicines due to cost (65+ years),All,%,2019,9.9
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2005,3.52
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2006,3.68
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2007,3.96
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2008,3.98
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2009,4.27
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2010,3.99
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2011,4.03
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2012,4.05
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2013,4.07
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2014,4.06
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2015,4.25
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2016,4.56
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2017,4.76
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2018,4.07
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2019,4.15
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2020,3.97
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2021,4.07
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2005,4.86
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2006,4.85
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2007,4.99
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2008,5.04
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2009,5.18
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2010,4.84
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2011,4.97
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2012,5.08
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2013,5.06
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2014,5.04
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2015,5.31
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2016,5.41
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2017,5.45
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2018,4.96
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2019,4.95
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2020,4.94
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2021,5.2
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2005,5.7
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2006,5.39
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2007,5.48
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2008,5.33
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2009,5.68
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2010,5.37
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2011,5.47
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2012,5.49
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2014,5.55
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2015,5.71
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2016,5.64
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2017,5.77
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2018,5.37
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2019,5.44
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2020,5.36
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2021,5.49
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2005,6.17
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2006,5.88
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2007,5.67
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2008,5.46
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2009,5.59
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2010,5.36
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2011,5.57
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2012,5.59
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2013,5.7
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2014,5.56
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2015,5.87
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2017,6.04
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2018,5.48
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2019,5.65
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2020,5.73
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2021,6.02
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2005,5.21
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2006,5.12
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2007,5.13
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2008,4.99
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2009,5.14
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2010,5.01
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2011,5.27
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2012,5.34
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2013,5.4
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2014,5.27
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2015,5.65
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2016,5.75
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2017,5.94
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2018,5.44
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2019,5.66
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2020,6.21
+Poland,POL,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2021,6.7
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2005,65.2
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2006,63.85
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2007,61.4
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2008,60.48
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2009,60.29
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2010,60.06
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2011,59.34
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2012,59.76
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2013,61.05
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2014,60.06
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2015,57.87
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2016,57.79
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2017,54.99
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2018,62.4
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2019,61.17
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2020,63.54
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2021,59.43
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2005,5.85
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2006,5.88
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2007,6.42
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2008,6.93
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2009,6.79
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2010,6.59
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2011,6.61
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2012,6.57
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2013,6.73
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2014,7.15
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2015,7.06
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2016,7.29
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2017,8
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2018,8.09
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2019,8.24
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2020,8.63
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2021,8.69
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2005,10.73
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2006,11.16
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2007,11.05
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2008,10.84
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2009,12.22
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2010,11.75
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2011,11.88
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2012,12.48
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2013,12.1
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2014,12.21
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2015,13.8
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2016,13.08
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2017,13.58
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2018,10.18
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2019,10.58
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2020,9.29
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2021,9.72
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2005,13.82
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2006,14.3
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2007,16.05
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2008,16.67
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2009,14.99
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2010,15.84
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2011,16.61
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2012,15.53
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2013,13.92
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2014,14.33
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2015,14.4
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2016,14.48
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2017,15.59
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2018,9.58
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2019,9.94
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2020,9.66
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2021,11.8
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2005,2.34
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2006,2.51
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2007,2.42
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2008,2.88
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2009,3.14
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2010,3.13
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2011,3.38
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2012,3.73
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2013,3.77
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2014,4.06
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2015,4.25
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2016,4.58
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2017,4.75
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2018,5.76
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2019,5.86
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2020,6.23
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2021,7.05
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2005,2.06
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2006,2.3
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2007,2.67
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2008,2.2
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2009,2.57
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2010,2.63
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2011,2.19
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2012,1.94
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2013,2.42
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2014,2.19
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2015,2.62
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2016,2.78
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2017,3.1
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2018,3.99
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2019,4.22
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2020,2.65
+Poland,POL,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2021,3.31

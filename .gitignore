@@ -1,0 +1,8 @@
+# Dependencies
+node_modules/
+
+# OS files
+.DS_Store
+
+# Playwright screenshots taken during checks
+.playwright-mcp/

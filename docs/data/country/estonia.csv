@@ -1,0 +1,735 @@
+country,iso3,measure,group,unit,year,value
+Estonia,EST,Households with catastrophic health spending,All,% of households,2000,6.45
+Estonia,EST,Households with catastrophic health spending,All,% of households,2001,6.49
+Estonia,EST,Households with catastrophic health spending,All,% of households,2002,7.44
+Estonia,EST,Households with catastrophic health spending,All,% of households,2003,8.43
+Estonia,EST,Households with catastrophic health spending,All,% of households,2004,9.31
+Estonia,EST,Households with catastrophic health spending,All,% of households,2005,9.07
+Estonia,EST,Households with catastrophic health spending,All,% of households,2006,12.26
+Estonia,EST,Households with catastrophic health spending,All,% of households,2007,10.27
+Estonia,EST,Households with catastrophic health spending,All,% of households,2010,7.01
+Estonia,EST,Households with catastrophic health spending,All,% of households,2011,6.41
+Estonia,EST,Households with catastrophic health spending,All,% of households,2012,6.15
+Estonia,EST,Households with catastrophic health spending,All,% of households,2015,7.38
+Estonia,EST,Households with catastrophic health spending,All,% of households,2016,8.09
+Estonia,EST,Households with catastrophic health spending,All,% of households,2019,7.15
+Estonia,EST,Households with catastrophic health spending,All,% of households,2020,7.2
+Estonia,EST,Households with impoverishing health spending,All,% of households,2000,3.42
+Estonia,EST,Households with impoverishing health spending,All,% of households,2001,2.85
+Estonia,EST,Households with impoverishing health spending,All,% of households,2002,3.56
+Estonia,EST,Households with impoverishing health spending,All,% of households,2003,4.7
+Estonia,EST,Households with impoverishing health spending,All,% of households,2004,4.41
+Estonia,EST,Households with impoverishing health spending,All,% of households,2005,4.36
+Estonia,EST,Households with impoverishing health spending,All,% of households,2006,6.11
+Estonia,EST,Households with impoverishing health spending,All,% of households,2007,4.48
+Estonia,EST,Households with impoverishing health spending,All,% of households,2010,3.42
+Estonia,EST,Households with impoverishing health spending,All,% of households,2011,2.57
+Estonia,EST,Households with impoverishing health spending,All,% of households,2012,2.65
+Estonia,EST,Households with impoverishing health spending,All,% of households,2015,2.56
+Estonia,EST,Households with impoverishing health spending,All,% of households,2016,2.79
+Estonia,EST,Households with impoverishing health spending,All,% of households,2019,2.55
+Estonia,EST,Households with impoverishing health spending,All,% of households,2020,2.21
+Estonia,EST,Unmet need for health care,All,% of people,2008,7.3
+Estonia,EST,Unmet need for health care,All,% of people,2009,4.3
+Estonia,EST,Unmet need for health care,All,% of people,2010,4.8
+Estonia,EST,Unmet need for health care,All,% of people,2011,7.3
+Estonia,EST,Unmet need for health care,All,% of people,2012,8.3
+Estonia,EST,Unmet need for health care,All,% of people,2013,8.4
+Estonia,EST,Unmet need for health care,All,% of people,2014,11.3
+Estonia,EST,Unmet need for health care,All,% of people,2015,12.7
+Estonia,EST,Unmet need for health care,All,% of people,2016,15.3
+Estonia,EST,Unmet need for health care,All,% of people,2017,11.8
+Estonia,EST,Unmet need for health care,All,% of people,2018,16.4
+Estonia,EST,Unmet need for health care,All,% of people,2019,15.5
+Estonia,EST,Unmet need for health care,All,% of people,2020,13
+Estonia,EST,Unmet need for health care,All,% of people,2021,8.1
+Estonia,EST,Unmet need for health care,All,% of people,2022,9.1
+Estonia,EST,Unmet need for health care,All,% of people,2023,12.9
+Estonia,EST,Unmet need for health care,All,% of people,2024,8.5
+Estonia,EST,Unmet need for health care,All,% of people,2025,7.7
+Estonia,EST,Unmet need for dental care,All,% of people,2008,7.9
+Estonia,EST,Unmet need for dental care,All,% of people,2009,4.6
+Estonia,EST,Unmet need for dental care,All,% of people,2010,5.7
+Estonia,EST,Unmet need for dental care,All,% of people,2011,7.8
+Estonia,EST,Unmet need for dental care,All,% of people,2012,8.1
+Estonia,EST,Unmet need for dental care,All,% of people,2013,8.3
+Estonia,EST,Unmet need for dental care,All,% of people,2014,8.6
+Estonia,EST,Unmet need for dental care,All,% of people,2015,11.1
+Estonia,EST,Unmet need for dental care,All,% of people,2016,10
+Estonia,EST,Unmet need for dental care,All,% of people,2017,6.7
+Estonia,EST,Unmet need for dental care,All,% of people,2018,6.5
+Estonia,EST,Unmet need for dental care,All,% of people,2019,4.8
+Estonia,EST,Unmet need for dental care,All,% of people,2020,2.9
+Estonia,EST,Unmet need for dental care,All,% of people,2021,2.5
+Estonia,EST,Unmet need for dental care,All,% of people,2022,2.6
+Estonia,EST,Unmet need for dental care,All,% of people,2023,3.2
+Estonia,EST,Unmet need for dental care,All,% of people,2024,4.9
+Estonia,EST,Unmet need for dental care,All,% of people,2025,5.5
+Estonia,EST,Unmet need for prescribed medicines due to cost,All,% of people needing care,2014,6.6
+Estonia,EST,Unmet need for prescribed medicines due to cost,All,% of people needing care,2019,4.1
+Estonia,EST,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2000,20.34
+Estonia,EST,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2001,19.25
+Estonia,EST,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2002,20.56
+Estonia,EST,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2003,21.1
+Estonia,EST,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2004,22.94
+Estonia,EST,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2005,23.02
+Estonia,EST,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2006,23.61
+Estonia,EST,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2007,22.97
+Estonia,EST,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2008,21.39
+Estonia,EST,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2009,21.23
+Estonia,EST,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2010,22.81
+Estonia,EST,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2011,22.53
+Estonia,EST,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2012,22.54
+Estonia,EST,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2013,23.61
+Estonia,EST,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2014,23.52
+Estonia,EST,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2015,23.72
+Estonia,EST,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2016,23.74
+Estonia,EST,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2017,24.81
+Estonia,EST,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2018,24.51
+Estonia,EST,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2019,23.92
+Estonia,EST,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2020,21.43
+Estonia,EST,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2021,22.15
+Estonia,EST,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2022,23.14
+Estonia,EST,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2023,22.1
+Estonia,EST,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2024,21.38
+Estonia,EST,Out-of-pocket payments as a share of household spending,All,% of household consumption,2000,2.73
+Estonia,EST,Out-of-pocket payments as a share of household spending,All,% of household consumption,2001,2.62
+Estonia,EST,Out-of-pocket payments as a share of household spending,All,% of household consumption,2002,2.8
+Estonia,EST,Out-of-pocket payments as a share of household spending,All,% of household consumption,2003,3.38
+Estonia,EST,Out-of-pocket payments as a share of household spending,All,% of household consumption,2004,3.56
+Estonia,EST,Out-of-pocket payments as a share of household spending,All,% of household consumption,2005,3.29
+Estonia,EST,Out-of-pocket payments as a share of household spending,All,% of household consumption,2006,4.35
+Estonia,EST,Out-of-pocket payments as a share of household spending,All,% of household consumption,2007,3.93
+Estonia,EST,Out-of-pocket payments as a share of household spending,All,% of household consumption,2010,3.72
+Estonia,EST,Out-of-pocket payments as a share of household spending,All,% of household consumption,2011,3.54
+Estonia,EST,Out-of-pocket payments as a share of household spending,All,% of household consumption,2012,3.66
+Estonia,EST,Out-of-pocket payments as a share of household spending,All,% of household consumption,2015,4.34
+Estonia,EST,Out-of-pocket payments as a share of household spending,All,% of household consumption,2016,4.52
+Estonia,EST,Out-of-pocket payments as a share of household spending,All,% of household consumption,2019,4.42
+Estonia,EST,Out-of-pocket payments as a share of household spending,All,% of household consumption,2020,4.44
+Estonia,EST,Public spending on health as a share of GDP,All,% of GDP,2000,3.98
+Estonia,EST,Public spending on health as a share of GDP,All,% of GDP,2001,3.75
+Estonia,EST,Public spending on health as a share of GDP,All,% of GDP,2002,3.6
+Estonia,EST,Public spending on health as a share of GDP,All,% of GDP,2003,3.91
+Estonia,EST,Public spending on health as a share of GDP,All,% of GDP,2004,3.97
+Estonia,EST,Public spending on health as a share of GDP,All,% of GDP,2005,3.94
+Estonia,EST,Public spending on health as a share of GDP,All,% of GDP,2006,3.74
+Estonia,EST,Public spending on health as a share of GDP,All,% of GDP,2007,3.92
+Estonia,EST,Public spending on health as a share of GDP,All,% of GDP,2008,4.55
+Estonia,EST,Public spending on health as a share of GDP,All,% of GDP,2009,5.27
+Estonia,EST,Public spending on health as a share of GDP,All,% of GDP,2010,4.97
+Estonia,EST,Public spending on health as a share of GDP,All,% of GDP,2011,4.59
+Estonia,EST,Public spending on health as a share of GDP,All,% of GDP,2012,4.57
+Estonia,EST,Public spending on health as a share of GDP,All,% of GDP,2013,4.62
+Estonia,EST,Public spending on health as a share of GDP,All,% of GDP,2014,4.69
+Estonia,EST,Public spending on health as a share of GDP,All,% of GDP,2015,4.87
+Estonia,EST,Public spending on health as a share of GDP,All,% of GDP,2016,4.9
+Estonia,EST,Public spending on health as a share of GDP,All,% of GDP,2017,4.76
+Estonia,EST,Public spending on health as a share of GDP,All,% of GDP,2018,4.84
+Estonia,EST,Public spending on health as a share of GDP,All,% of GDP,2019,4.95
+Estonia,EST,Public spending on health as a share of GDP,All,% of GDP,2020,5.76
+Estonia,EST,Public spending on health as a share of GDP,All,% of GDP,2021,5.69
+Estonia,EST,Public spending on health as a share of GDP,All,% of GDP,2022,5.19
+Estonia,EST,Public spending on health as a share of GDP,All,% of GDP,2023,5.67
+Estonia,EST,Public spending on health as a share of GDP,All,% of GDP,2024,6
+Estonia,EST,Public spending on health as a share of government spending,All,% of government spending,2000,10.78
+Estonia,EST,Public spending on health as a share of government spending,All,% of government spending,2001,10.57
+Estonia,EST,Public spending on health as a share of government spending,All,% of government spending,2002,9.97
+Estonia,EST,Public spending on health as a share of government spending,All,% of government spending,2003,11.08
+Estonia,EST,Public spending on health as a share of government spending,All,% of government spending,2004,11.51
+Estonia,EST,Public spending on health as a share of government spending,All,% of government spending,2005,11.58
+Estonia,EST,Public spending on health as a share of government spending,All,% of government spending,2006,11.04
+Estonia,EST,Public spending on health as a share of government spending,All,% of government spending,2007,11.45
+Estonia,EST,Public spending on health as a share of government spending,All,% of government spending,2008,11.39
+Estonia,EST,Public spending on health as a share of government spending,All,% of government spending,2009,11.34
+Estonia,EST,Public spending on health as a share of government spending,All,% of government spending,2010,11.89
+Estonia,EST,Public spending on health as a share of government spending,All,% of government spending,2011,11.93
+Estonia,EST,Public spending on health as a share of government spending,All,% of government spending,2012,11.52
+Estonia,EST,Public spending on health as a share of government spending,All,% of government spending,2013,12.05
+Estonia,EST,Public spending on health as a share of government spending,All,% of government spending,2014,12.43
+Estonia,EST,Public spending on health as a share of government spending,All,% of government spending,2015,12.36
+Estonia,EST,Public spending on health as a share of government spending,All,% of government spending,2016,12.56
+Estonia,EST,Public spending on health as a share of government spending,All,% of government spending,2017,12.23
+Estonia,EST,Public spending on health as a share of government spending,All,% of government spending,2018,12.44
+Estonia,EST,Public spending on health as a share of government spending,All,% of government spending,2019,12.64
+Estonia,EST,Public spending on health as a share of government spending,All,% of government spending,2020,12.86
+Estonia,EST,Public spending on health as a share of government spending,All,% of government spending,2021,13.51
+Estonia,EST,Public spending on health as a share of government spending,All,% of government spending,2022,12.98
+Estonia,EST,Public spending on health as a share of government spending,All,% of government spending,2023,12.96
+Estonia,EST,Public spending as a share of current spending on health,All,% of current spending on health,2000,77.02
+Estonia,EST,Public spending as a share of current spending on health,All,% of current spending on health,2001,78.36
+Estonia,EST,Public spending as a share of current spending on health,All,% of current spending on health,2002,76.56
+Estonia,EST,Public spending as a share of current spending on health,All,% of current spending on health,2003,76.18
+Estonia,EST,Public spending as a share of current spending on health,All,% of current spending on health,2004,74.44
+Estonia,EST,Public spending as a share of current spending on health,All,% of current spending on health,2005,74.46
+Estonia,EST,Public spending as a share of current spending on health,All,% of current spending on health,2006,75.25
+Estonia,EST,Public spending as a share of current spending on health,All,% of current spending on health,2007,75.61
+Estonia,EST,Public spending as a share of current spending on health,All,% of current spending on health,2008,76.37
+Estonia,EST,Public spending as a share of current spending on health,All,% of current spending on health,2009,77.01
+Estonia,EST,Public spending as a share of current spending on health,All,% of current spending on health,2010,75.44
+Estonia,EST,Public spending as a share of current spending on health,All,% of current spending on health,2011,75.74
+Estonia,EST,Public spending as a share of current spending on health,All,% of current spending on health,2012,75.65
+Estonia,EST,Public spending as a share of current spending on health,All,% of current spending on health,2013,74.59
+Estonia,EST,Public spending as a share of current spending on health,All,% of current spending on health,2014,74.81
+Estonia,EST,Public spending as a share of current spending on health,All,% of current spending on health,2015,74.69
+Estonia,EST,Public spending as a share of current spending on health,All,% of current spending on health,2016,74.65
+Estonia,EST,Public spending as a share of current spending on health,All,% of current spending on health,2017,73.57
+Estonia,EST,Public spending as a share of current spending on health,All,% of current spending on health,2018,73.68
+Estonia,EST,Public spending as a share of current spending on health,All,% of current spending on health,2019,74.45
+Estonia,EST,Public spending as a share of current spending on health,All,% of current spending on health,2020,77.1
+Estonia,EST,Public spending as a share of current spending on health,All,% of current spending on health,2021,76.12
+Estonia,EST,Public spending as a share of current spending on health,All,% of current spending on health,2022,74.84
+Estonia,EST,Public spending as a share of current spending on health,All,% of current spending on health,2023,75.84
+Estonia,EST,Public spending as a share of current spending on health,All,% of current spending on health,2024,76.59
+Estonia,EST,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2003,0.03
+Estonia,EST,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2004,0.09
+Estonia,EST,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2005,0.28
+Estonia,EST,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2006,0.32
+Estonia,EST,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2007,0.31
+Estonia,EST,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2008,0.28
+Estonia,EST,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2009,0.26
+Estonia,EST,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2010,0.25
+Estonia,EST,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2011,0.27
+Estonia,EST,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2012,0.27
+Estonia,EST,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2013,0.26
+Estonia,EST,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2014,0.23
+Estonia,EST,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2015,0.28
+Estonia,EST,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2016,0.27
+Estonia,EST,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2017,0.26
+Estonia,EST,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2018,0.32
+Estonia,EST,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2019,0.31
+Estonia,EST,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2020,0.22
+Estonia,EST,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2021,0.37
+Estonia,EST,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2022,0.72
+Estonia,EST,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2023,0.86
+Estonia,EST,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2024,0.87
+Estonia,EST,Population entitled to publicly financed health care,All,% of the population,2004,93.6
+Estonia,EST,Population entitled to publicly financed health care,All,% of the population,2005,94.1
+Estonia,EST,Population entitled to publicly financed health care,All,% of the population,2006,95.2
+Estonia,EST,Population entitled to publicly financed health care,All,% of the population,2007,96.2
+Estonia,EST,Population entitled to publicly financed health care,All,% of the population,2008,96
+Estonia,EST,Population entitled to publicly financed health care,All,% of the population,2009,95.7
+Estonia,EST,Population entitled to publicly financed health care,All,% of the population,2010,94.5
+Estonia,EST,Population entitled to publicly financed health care,All,% of the population,2011,94
+Estonia,EST,Population entitled to publicly financed health care,All,% of the population,2012,93.7
+Estonia,EST,Population entitled to publicly financed health care,All,% of the population,2013,93.6
+Estonia,EST,Population entitled to publicly financed health care,All,% of the population,2014,93.9
+Estonia,EST,Population entitled to publicly financed health care,All,% of the population,2015,94
+Estonia,EST,Population entitled to publicly financed health care,All,% of the population,2016,94
+Estonia,EST,Population entitled to publicly financed health care,All,% of the population,2017,94.1
+Estonia,EST,Population entitled to publicly financed health care,All,% of the population,2018,94.5
+Estonia,EST,Population entitled to publicly financed health care,All,% of the population,2019,95
+Estonia,EST,Population entitled to publicly financed health care,All,% of the population,2020,95.2
+Estonia,EST,Population entitled to publicly financed health care,All,% of the population,2021,95.9
+Estonia,EST,Population entitled to publicly financed health care,All,% of the population,2022,96.1
+Estonia,EST,Population entitled to publicly financed health care,All,% of the population,2023,94.8
+Estonia,EST,Population entitled to publicly financed health care,All,% of the population,2024,93.9
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2000,22.3
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2001,19.65
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2002,23.9
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2003,27.4
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2004,28.3
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2005,28.25
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2006,40.8
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2007,33.15
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2010,18.95
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2011,16.75
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2012,16.6
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2015,20.5
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2016,22.75
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2019,18.5
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2020,18.95
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2000,5.7
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2001,7.45
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2002,6.85
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2003,8.35
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2004,10.85
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2005,10.4
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2006,11.05
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2007,11.1
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2010,7.8
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2011,9.5
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2012,6.25
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2015,7.4
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2016,7.7
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2019,8.8
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2020,9.65
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2000,1.7
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2001,3.1
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2002,3.75
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2003,3.15
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2004,3.05
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2005,3.75
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2006,5.85
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2007,4
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2010,4.1
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2011,3.25
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2012,3.8
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2015,4.1
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2016,6.55
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2019,4.4
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2020,4.6
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2000,1.2
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2001,1.3
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2002,1.65
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2003,1.85
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2004,2.05
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2005,1.6
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2006,2.3
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2007,1.75
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2010,3.05
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2011,2.1
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2012,3.55
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2015,3.25
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2016,3.1
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2019,2.9
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2020,2.45
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2000,1.3
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2001,0.95
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2002,1.05
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2003,1.3
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2004,2.25
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2005,1.4
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2006,1.3
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2007,1.35
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2010,1.15
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2011,0.45
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2012,0.55
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2015,1.6
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2016,0.25
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2019,1.1
+Estonia,EST,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2020,0.35
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2000,39.11
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2001,52.09
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2002,46.15
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2003,49.41
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2004,44.95
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2005,60.44
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2006,55.23
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2007,45.51
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2010,64.11
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2011,71.68
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2012,65.02
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2015,64.79
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2016,63.11
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2019,48.08
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2020,58.6
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2000,11.05
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2001,16.99
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2002,30.07
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2003,17.23
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2004,24.68
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2005,22.45
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2006,13.4
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2007,30.22
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2010,10.81
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2011,6.14
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2012,7.71
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2015,10.74
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2016,10.23
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2019,16.71
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2020,15.56
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2000,9.88
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2001,1.17
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2002,3.2
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2003,1.66
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2004,2.35
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2005,1.67
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2006,8.05
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2007,5.77
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2010,6.34
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2011,3.61
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2012,2.76
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2015,8.78
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2016,7.47
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2019,8.13
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2020,7.95
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2000,28.54
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2001,17.99
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2002,19.09
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2003,23.25
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2004,14.12
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2005,9.81
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2006,20.4
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2007,14.79
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2010,16.57
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2011,14.58
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2012,20.15
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2015,13.97
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2016,16.59
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2019,14.42
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2020,16.47
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2000,1.43
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2001,0.54
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2002,0.15
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2003,3.93
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2004,0
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2005,0.05
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2006,0.25
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2007,0.47
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2010,0.89
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2011,0.19
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2012,3.27
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2015,1.21
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2016,2.32
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2019,4.37
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2020,0.81
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2000,9.99
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2001,11.22
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2002,1.34
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2003,4.52
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2004,13.9
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2005,5.59
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2006,2.67
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2007,3.24
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2010,1.27
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2011,3.81
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2012,1.09
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2015,0.52
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2016,0.27
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2019,8.3
+Estonia,EST,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2020,0.62
+Estonia,EST,Share of Impoverished households (all households),All,%,2000,0.99
+Estonia,EST,Share of Impoverished households (all households),All,%,2001,0.97
+Estonia,EST,Share of Impoverished households (all households),All,%,2002,1.29
+Estonia,EST,Share of Impoverished households (all households),All,%,2003,1.69
+Estonia,EST,Share of Impoverished households (all households),All,%,2004,1.99
+Estonia,EST,Share of Impoverished households (all households),All,%,2005,1.13
+Estonia,EST,Share of Impoverished households (all households),All,%,2006,2.58
+Estonia,EST,Share of Impoverished households (all households),All,%,2007,1.49
+Estonia,EST,Share of Impoverished households (all households),All,%,2010,1.45
+Estonia,EST,Share of Impoverished households (all households),All,%,2011,0.75
+Estonia,EST,Share of Impoverished households (all households),All,%,2012,1.07
+Estonia,EST,Share of Impoverished households (all households),All,%,2015,1.48
+Estonia,EST,Share of Impoverished households (all households),All,%,2016,1.32
+Estonia,EST,Share of Impoverished households (all households),All,%,2019,0.88
+Estonia,EST,Share of Impoverished households (all households),All,%,2020,1.03
+Estonia,EST,Share of further impoverished households (total),All,%,2000,2.43
+Estonia,EST,Share of further impoverished households (total),All,%,2001,1.88
+Estonia,EST,Share of further impoverished households (total),All,%,2002,2.28
+Estonia,EST,Share of further impoverished households (total),All,%,2003,3.01
+Estonia,EST,Share of further impoverished households (total),All,%,2004,2.42
+Estonia,EST,Share of further impoverished households (total),All,%,2005,3.23
+Estonia,EST,Share of further impoverished households (total),All,%,2006,3.53
+Estonia,EST,Share of further impoverished households (total),All,%,2007,2.99
+Estonia,EST,Share of further impoverished households (total),All,%,2010,1.97
+Estonia,EST,Share of further impoverished households (total),All,%,2011,1.82
+Estonia,EST,Share of further impoverished households (total),All,%,2012,1.58
+Estonia,EST,Share of further impoverished households (total),All,%,2015,1.09
+Estonia,EST,Share of further impoverished households (total),All,%,2016,1.47
+Estonia,EST,Share of further impoverished households (total),All,%,2019,1.66
+Estonia,EST,Share of further impoverished households (total),All,%,2020,1.18
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2008,10.1
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2009,5.3
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2010,6.6
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2011,7.3
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2012,10.8
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2013,10.9
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2014,12.3
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2015,16.1
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2016,19
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2017,14.8
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2018,16
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2019,15.4
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2020,14.5
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2021,10.3
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2022,12.6
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2023,15.6
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2024,10.8
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2025,8.3
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2008,4.9
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2009,3.4
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2010,4.3
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2011,7.2
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2012,7.8
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2013,6.2
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2014,9.7
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2015,11.3
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2016,13.4
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2017,10.5
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2018,14.4
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2019,16.5
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2020,15
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2021,7.4
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2022,7.7
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2023,11.1
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2024,7.1
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2025,7.3
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2008,17
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2009,9.3
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2010,12.2
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2011,14.8
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2012,16
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2013,16.1
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2014,15.9
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2015,20.7
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2016,17.4
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2017,12.6
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2018,9.4
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2019,7
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2020,3.9
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2021,4.3
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2022,3.9
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2023,4.7
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2024,9.7
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2025,8.9
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2008,2.3
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2009,1.4
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2010,1.2
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2011,1.3
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2012,1.4
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2013,1.3
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2014,3.6
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2015,3.6
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2016,3.2
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2017,2.6
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2018,3.2
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2019,3.1
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2020,2.2
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2021,1.1
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2022,1.4
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2023,2.4
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2024,1.9
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2025,3.4
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2008,2.6
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2009,2.2
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2010,1.6
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2011,3.2
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2012,4.4
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2013,4.5
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2014,5.1
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2015,6
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2016,8.4
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2017,6.3
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2018,9.3
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2019,7.5
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2020,5.2
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2021,4.3
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2022,5.3
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2023,7.3
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2024,5.5
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2025,4.6
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2008,12.1
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2009,5.5
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2010,5.1
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2011,9.3
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2012,10
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2013,11.3
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2014,16
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2015,16.2
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2016,19.2
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2017,15.6
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2018,19.6
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2019,17.8
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2020,14.8
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2021,10.7
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2022,11.7
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2023,14.9
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2024,9.6
+Estonia,EST,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2025,7.1
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2008,1.9
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2009,2
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2010,2.4
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2011,3.2
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2012,2.3
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2013,1.7
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2014,3
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2015,3.3
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2016,10.3
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2017,1.8
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2018,3.5
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2019,3.8
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2020,1.2
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2021,2
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2022,2
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2023,1.4
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2024,2.6
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2025,1.8
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2008,10.9
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2009,4.4
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2010,3.4
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2011,7.4
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2012,8.6
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2013,8.5
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2014,9.1
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2015,11.7
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2016,8.6
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2017,7
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2018,4.5
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2019,4
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2020,1.7
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2021,1.9
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2022,2.1
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2023,2.7
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2024,6
+Estonia,EST,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2025,4.7
+Estonia,EST,Self-reported unmet need for prescribed medicines due to cost (poorest),All,%,2019,8.6
+Estonia,EST,Self-reported unmet need for prescribed medicines due to cost (richest),All,%,2019,1.5
+Estonia,EST,Self-reported unmet need for prescribed medicines due to cost (<25 years),All,%,2014,7.7
+Estonia,EST,Self-reported unmet need for prescribed medicines due to cost (<25 years),All,%,2019,2.3
+Estonia,EST,Self-reported unmet need for prescribed medicines due to cost (65+ years),All,%,2014,5.2
+Estonia,EST,Self-reported unmet need for prescribed medicines due to cost (65+ years),All,%,2019,3.8
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2000,2.29
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2001,2.25
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2002,2.69
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2003,3.52
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2004,3.54
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2005,3.29
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2006,6.01
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2007,4.81
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2010,2.54
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2011,2.15
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2012,2.41
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2015,3.78
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2016,3.93
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2019,3.36
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2020,3.64
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2000,2.79
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2001,2.85
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2002,2.83
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2003,3.38
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2004,4.17
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2005,4.36
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2006,5.32
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2007,5.57
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2010,3.29
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2011,3.4
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2012,2.99
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2015,4.12
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2016,4.72
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2019,5.07
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2020,5.41
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2000,2.61
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2001,2.57
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2002,3.41
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2003,3.59
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2004,3.9
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2005,3.94
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2006,5.17
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2007,4.09
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2010,3.86
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2011,3.9
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2012,3.82
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2015,4.73
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2016,5.47
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2019,5.27
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2020,5.37
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2000,2.83
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2001,2.54
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2002,3.02
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2003,3.58
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2004,3.53
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2005,3.33
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2006,4.79
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2007,4.07
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2010,4.59
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2011,4.14
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2012,4.29
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2015,4.86
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2016,5.04
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2019,5.03
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2000,2.79
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2001,2.69
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2002,2.48
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2003,3.16
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2004,3.29
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2005,2.76
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2006,3.32
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2007,3.27
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2010,3.5
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2011,3.36
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2012,3.69
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2015,4.07
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2016,3.88
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2019,3.7
+Estonia,EST,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2020,3.56
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2000,49.96
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2001,53.55
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2002,55.04
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2003,54.75
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2004,56.55
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2005,62.25
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2006,56.16
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2007,56.66
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2010,56.61
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2011,60.03
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2012,58.22
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2015,57.11
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2016,55.29
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2019,52.35
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2020,57.83
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2000,14.93
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2001,14.95
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2002,14.79
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2003,13.22
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2004,15.04
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2005,12.13
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2006,13.67
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2007,18.64
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2010,8.02
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2011,7.32
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2012,8.67
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2015,11.17
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2016,11.14
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2019,11.47
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2020,12.5
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2000,5.94
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2001,3.23
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2002,4.61
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2003,5.42
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2004,4.37
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2005,4.92
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2006,6.61
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2007,5.67
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2010,7.93
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2011,6.04
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2012,6.6
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2015,6.96
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2016,8.55
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2019,9.24
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2020,7.9
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2000,24.31
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2001,23.7
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2002,22.7
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2003,23.14
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2004,18.1
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2005,15.84
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2006,20.5
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2007,14.84
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2010,24.94
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2011,22.79
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2012,20.84
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2015,19.06
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2016,20.49
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2019,20.81
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2020,18.33
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2000,1.32
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2001,0.68
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2002,1.06
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2003,1.79
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2004,0.55
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2005,0.31
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2006,0.41
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2007,0.41
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2010,0.91
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2011,1.29
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2012,3.38
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2015,4.03
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2016,3.87
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2019,3.7
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2020,2.71
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2000,3.53
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2001,3.88
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2002,1.79
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2003,1.68
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2004,5.39
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2005,4.55
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2006,2.65
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2007,3.77
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2010,1.59
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2011,2.52
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2012,2.29
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2015,1.66
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2016,0.66
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2019,2.43
+Estonia,EST,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2020,0.73

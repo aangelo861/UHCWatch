@@ -1,0 +1,477 @@
+<!DOCTYPE html>
+<html lang="en" class="app-html">
+<head>
+  <meta charset="utf-8">
+  <title>Voluntary health insurance as a share of current spending on health – UHC Watch dashboards</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#005eb8">
+  <meta name="description" content="The part of current spending on health paid through voluntary health insurance. A larger share is neither good nor bad in itself; what matters is who it covers and what gaps it fills.">
+  <link rel="icon" href="../assets/images/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../stylesheets/app.css?v=bf77a4fccd">
+</head>
+<body class="app-body" data-root="../">
+<script>document.body.className += ' js-enabled' + ('noModule' in HTMLScriptElement.prototype ? ' nhsuk-frontend-supported' : '');</script>
+<a class="nhsuk-skip-link" href="#maincontent" data-module="nhsuk-skip-link">Skip to main content</a>
+<header class="nhsuk-header nhsuk-header--white nhsuk-header--organisation app-header" role="banner" data-module="nhsuk-header">
+  <div class="nhsuk-header__container nhsuk-width-container">
+    <div class="nhsuk-header__service">
+      <a class="nhsuk-header__service-logo app-header__brand" href="../index.html" aria-label="UHC Watch dashboards homepage">
+        <img class="app-header__mark" src="../assets/images/mark.svg" width="44" height="44" alt="">
+        <span class="app-header__names"><span class="app-header__service-name">UHC Watch dashboards</span><span class="app-header__service-descriptor">Can people afford health care? Europe and central Asia</span></span>
+      </a>
+    </div>
+  </div>
+  <nav class="nhsuk-header__navigation nhsuk-header__navigation--white app-header__nav" aria-label="Menu">
+    <div class="nhsuk-header__navigation-container nhsuk-width-container">
+      <ul class="nhsuk-header__navigation-list">
+          <li class="nhsuk-header__navigation-item"><a class="nhsuk-header__navigation-link" href="../index.html">Where do I start?</a></li>
+          <li class="nhsuk-header__navigation-item"><a class="nhsuk-header__navigation-link" href="../countries.html">Countries</a></li>
+          <li class="nhsuk-header__navigation-item nhsuk-header__navigation-item--current"><a class="nhsuk-header__navigation-link" href="../indicators.html" aria-current="page"><strong class="nhsuk-header__navigation-item-current-fallback">Indicators</strong></a></li>
+          <li class="nhsuk-header__navigation-item"><a class="nhsuk-header__navigation-link" href="../compare.html">Compare countries</a></li>
+          <li class="nhsuk-header__navigation-item"><a class="nhsuk-header__navigation-link" href="../about.html">About the data</a></li>
+        <li class="nhsuk-header__menu" hidden>
+          <button class="nhsuk-header__menu-toggle nhsuk-header__navigation-link" id="toggle-menu" aria-expanded="false"><span class="nhsuk-u-visually-hidden">Browse </span>More</button>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</header>
+<div class="app-status" role="note" aria-label="Status of this site">
+  <div class="nhsuk-width-container">
+    <p class="app-status__text"><strong class="nhsuk-tag app-status__tag">Unofficial</strong> <span class="app-status__label">Not a WHO product.</span> <span class="app-status__scope">Data read from WHO/Europe UHC Watch on 4 October 2026.</span></p>
+  </div>
+</div>
+<div class="nhsuk-width-container">
+  <nav class="nhsuk-breadcrumb" aria-label="Breadcrumb">
+  <ol class="nhsuk-breadcrumb__list">
+    <li class="nhsuk-breadcrumb__list-item"><a class="nhsuk-breadcrumb__link" href="../indicators.html">Indicators</a></li>
+  </ol>
+  <a class="nhsuk-back-link" href="../indicators.html"><span class="nhsuk-u-visually-hidden">Back to </span>Indicators</a>
+</nav>
+
+  <main class="nhsuk-main-wrapper app-main" id="maincontent">
+    <div class="app-content">
+<h1 class="nhsuk-heading-l"><span class="app-page-caption">Public spending on health</span>Voluntary health insurance as a share of current spending on health</h1>
+<p class="app-lead">The part of current spending on health paid through voluntary health insurance. A larger share is neither good nor bad in itself; what matters is who it covers and what gaps it fills.</p>
+
+
+<form class="app-picker">
+  <div class="nhsuk-form-group">
+    <label class="nhsuk-label nhsuk-label--s" for="focus">Put a country in focus</label>
+    <select class="nhsuk-select app-picker__control" id="focus" data-focus-select>
+      <option value="">No country</option>
+      <option value="ALB">Albania</option>
+      <option value="AND">Andorra</option>
+      <option value="ARM">Armenia</option>
+      <option value="AUT">Austria</option>
+      <option value="AZE">Azerbaijan</option>
+      <option value="BLR">Belarus</option>
+      <option value="BEL">Belgium</option>
+      <option value="BIH">Bosnia and Herzegovina</option>
+      <option value="BGR">Bulgaria</option>
+      <option value="HRV">Croatia</option>
+      <option value="CYP">Cyprus</option>
+      <option value="CZE">Czechia</option>
+      <option value="DNK">Denmark</option>
+      <option value="EST">Estonia</option>
+      <option value="FIN">Finland</option>
+      <option value="FRA">France</option>
+      <option value="GEO">Georgia</option>
+      <option value="DEU">Germany</option>
+      <option value="GRC">Greece</option>
+      <option value="HUN">Hungary</option>
+      <option value="ISL">Iceland</option>
+      <option value="IRL">Ireland</option>
+      <option value="ISR">Israel</option>
+      <option value="ITA">Italy</option>
+      <option value="KAZ">Kazakhstan</option>
+      <option value="KGZ">Kyrgyzstan</option>
+      <option value="LVA">Latvia</option>
+      <option value="LTU">Lithuania</option>
+      <option value="LUX">Luxembourg</option>
+      <option value="MLT">Malta</option>
+      <option value="MCO">Monaco</option>
+      <option value="MNE">Montenegro</option>
+      <option value="NLD">Netherlands</option>
+      <option value="MKD">North Macedonia</option>
+      <option value="NOR">Norway</option>
+      <option value="POL">Poland</option>
+      <option value="PRT">Portugal</option>
+      <option value="MDA">Republic of Moldova</option>
+      <option value="ROU">Romania</option>
+      <option value="RUS">Russian Federation</option>
+      <option value="SRB">Serbia</option>
+      <option value="SVN">Slovenia</option>
+      <option value="ESP">Spain</option>
+      <option value="SWE">Sweden</option>
+      <option value="CHE">Switzerland</option>
+      <option value="TJK">Tajikistan</option>
+      <option value="TUR">Türkiye</option>
+      <option value="TKM">Turkmenistan</option>
+      <option value="UKR">Ukraine</option>
+      <option value="GBR">United Kingdom</option>
+      <option value="UZB">Uzbekistan</option>
+    </select>
+  </div>
+</form>
+<p class="app-takeaway" data-focus-summary role="status" hidden></p>
+<script type="application/json" id="focus-sentences">{"AND":"Andorra: 18.1% of current spending on health in 2023, highest of 51 countries. Median: 2.4%.","ISR":"Israel: 12.1% of current spending on health in 2023, 2nd highest of 51 countries. Median: 2.4%.","IRL":"Ireland: 10.6% of current spending on health in 2023, 3rd highest of 51 countries. Median: 2.4%.","PRT":"Portugal: 8.6% of current spending on health in 2024, 4th highest of 51 countries. Median: 2.4%.","GEO":"Georgia: 7.3% of current spending on health in 2023, 5th highest of 51 countries. Median: 2.4%.","CHE":"Switzerland: 6.7% of current spending on health in 2023, 6th highest of 51 countries. Median: 2.4%.","MCO":"Monaco: 5.9% of current spending on health in 2023, 7th highest of 51 countries. Median: 2.4%.","FRA":"France: 5.8% of current spending on health in 2024, 8th highest of 51 countries. Median: 2.4%.","HRV":"Croatia: 5.7% of current spending on health in 2023, 9th highest of 51 countries. Median: 2.4%.","ESP":"Spain: 5.5% of current spending on health in 2023, 10th highest of 51 countries. Median: 2.4%.","LVA":"Latvia: 5.3% of current spending on health in 2023, 11th highest of 51 countries. Median: 2.4%.","TKM":"Turkmenistan: 5.2% of current spending on health in 2023, 12th highest of 51 countries. Median: 2.4%.","AUT":"Austria: 4.8% of current spending on health in 2023, 13th highest of 51 countries. Median: 2.4%.","BEL":"Belgium: 4.8% of current spending on health in 2023, 14th highest of 51 countries. Median: 2.4%.","GRC":"Greece: 4.3% of current spending on health in 2023, 15th highest of 51 countries. Median: 2.4%.","POL":"Poland: 4.2% of current spending on health in 2024, 16th highest of 51 countries. Median: 2.4%.","NLD":"Netherlands: 3.8% of current spending on health in 2024, 17th highest of 51 countries. Median: 2.4%.","CYP":"Cyprus: 3.6% of current spending on health in 2023, 18th highest of 51 countries. Median: 2.4%.","LUX":"Luxembourg: 3.3% of current spending on health in 2024, 19th highest of 51 countries. Median: 2.4%.","MLT":"Malta: 3.1% of current spending on health in 2023, 20th highest of 51 countries. Median: 2.4%.","TUR":"Türkiye: 2.9% of current spending on health in 2023, 21st highest of 51 countries. Median: 2.4%.","GBR":"United Kingdom: 2.6% of current spending on health in 2024, 22nd highest of 51 countries. Median: 2.4%.","DNK":"Denmark: 2.6% of current spending on health in 2024, 23rd highest of 51 countries. Median: 2.4%.","ITA":"Italy: 2.6% of current spending on health in 2024, 24th highest of 51 countries. Median: 2.4%.","MKD":"North Macedonia: 2.5% of current spending on health in 2023, 25th highest of 51 countries. Median: 2.4%.","ARM":"Armenia: 2.4% of current spending on health in 2023, 26th highest of 51 countries. Median: 2.4%.","AZE":"Azerbaijan: 2.3% of current spending on health in 2023, 25th lowest of 51 countries. Median: 2.4%.","FIN":"Finland: 2.1% of current spending on health in 2023, 24th lowest of 51 countries. Median: 2.4%.","HUN":"Hungary: 1.8% of current spending on health in 2023, 23rd lowest of 51 countries. Median: 2.4%.","BLR":"Belarus: 1.7% of current spending on health in 2023, 22nd lowest of 51 countries. Median: 2.4%.","UKR":"Ukraine: 1.6% of current spending on health in 2021, 21st lowest of 51 countries. Median: 2.4%.","LTU":"Lithuania: 1.6% of current spending on health in 2023, 20th lowest of 51 countries. Median: 2.4%.","RUS":"Russian Federation: 1.4% of current spending on health in 2023, 19th lowest of 51 countries. Median: 2.4%.","DEU":"Germany: 1.3% of current spending on health in 2023, 18th lowest of 51 countries. Median: 2.4%.","SRB":"Serbia: 1.2% of current spending on health in 2023, 17th lowest of 51 countries. Median: 2.4%.","KAZ":"Kazakhstan: 1.2% of current spending on health in 2023, 16th lowest of 51 countries. Median: 2.4%.","MNE":"Montenegro: 1.1% of current spending on health in 2023, 15th lowest of 51 countries. Median: 2.4%.","EST":"Estonia: 0.9% of current spending on health in 2024, 14th lowest of 51 countries. Median: 2.4%.","BGR":"Bulgaria: 0.8% of current spending on health in 2023, 13th lowest of 51 countries. Median: 2.4%.","ALB":"Albania: 0.8% of current spending on health in 2023, 12th lowest of 51 countries. Median: 2.4%.","ROU":"Romania: 0.6% of current spending on health in 2023, joint 10th lowest of 51 countries. Median: 2.4%.","SWE":"Sweden: 0.6% of current spending on health in 2024, joint 10th lowest of 51 countries. Median: 2.4%.","SVN":"Slovenia: 0.5% of current spending on health in 2024, 9th lowest of 51 countries. Median: 2.4%.","BIH":"Bosnia and Herzegovina: 0.5% of current spending on health in 2023, 8th lowest of 51 countries. Median: 2.4%.","MDA":"Republic of Moldova: 0.3% of current spending on health in 2023, 7th lowest of 51 countries. Median: 2.4%.","CZE":"Czechia: 0.1% of current spending on health in 2024, 6th lowest of 51 countries. Median: 2.4%.","UZB":"Uzbekistan: 0.1% of current spending on health in 2023, 5th lowest of 51 countries. Median: 2.4%.","KGZ":"Kyrgyzstan: 0.0% of current spending on health in 2023, 4th lowest of 51 countries. Median: 2.4%.","TJK":"Tajikistan: 0.0% of current spending on health in 2023, 3rd lowest of 51 countries. Median: 2.4%.","ISL":"Iceland: 0.0% of current spending on health in 2021, joint lowest of 51 countries. Median: 2.4%.","NOR":"Norway: 0.0% of current spending on health in 2022, joint lowest of 51 countries. Median: 2.4%."}</script>
+
+<h2 class="nhsuk-heading-m">Latest figure for each country</h2>
+<p>51 countries, highest first. The year of each figure is under the country name (2021 to 2024).</p>
+
+<p class="app-bars__reference"><span class="app-bars__reference-key" aria-hidden="true"></span>Median of 51 countries: 2.4%</p>
+<ol class="app-bars app-bars--reference" data-focusable aria-label="Voluntary health insurance as a share of current spending on health, latest year, highest first" style="--ref:13.24%">
+  <li class="app-bars__row" data-iso="AND">
+    <span class="app-bars__label"><a href="../country/andorra.html">Andorra</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:100.00%"></span></span>
+    <span class="app-bars__value">18.1</span>
+  </li>
+  <li class="app-bars__row" data-iso="ISR">
+    <span class="app-bars__label"><a href="../country/israel.html">Israel</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:67.04%"></span></span>
+    <span class="app-bars__value">12.1</span>
+  </li>
+  <li class="app-bars__row" data-iso="IRL">
+    <span class="app-bars__label"><a href="../country/ireland.html">Ireland</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:58.61%"></span></span>
+    <span class="app-bars__value">10.6</span>
+  </li>
+  <li class="app-bars__row" data-iso="PRT">
+    <span class="app-bars__label"><a href="../country/portugal.html">Portugal</a> <span class="app-bars__note">2024</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:47.70%"></span></span>
+    <span class="app-bars__value">8.6</span>
+  </li>
+  <li class="app-bars__row" data-iso="GEO">
+    <span class="app-bars__label"><a href="../country/georgia.html">Georgia</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:40.28%"></span></span>
+    <span class="app-bars__value">7.3</span>
+  </li>
+  <li class="app-bars__row" data-iso="CHE">
+    <span class="app-bars__label"><a href="../country/switzerland.html">Switzerland</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:37.06%"></span></span>
+    <span class="app-bars__value">6.7</span>
+  </li>
+  <li class="app-bars__row" data-iso="MCO">
+    <span class="app-bars__label"><a href="../country/monaco.html">Monaco</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:32.69%"></span></span>
+    <span class="app-bars__value">5.9</span>
+  </li>
+  <li class="app-bars__row" data-iso="FRA">
+    <span class="app-bars__label"><a href="../country/france.html">France</a> <span class="app-bars__note">2024</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:32.19%"></span></span>
+    <span class="app-bars__value">5.8</span>
+  </li>
+  <li class="app-bars__row" data-iso="HRV">
+    <span class="app-bars__label"><a href="../country/croatia.html">Croatia</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:31.47%"></span></span>
+    <span class="app-bars__value">5.7</span>
+  </li>
+  <li class="app-bars__row" data-iso="ESP">
+    <span class="app-bars__label"><a href="../country/spain.html">Spain</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:30.64%"></span></span>
+    <span class="app-bars__value">5.5</span>
+  </li>
+  <li class="app-bars__row" data-iso="LVA">
+    <span class="app-bars__label"><a href="../country/latvia.html">Latvia</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:29.09%"></span></span>
+    <span class="app-bars__value">5.3</span>
+  </li>
+  <li class="app-bars__row" data-iso="TKM">
+    <span class="app-bars__label"><a href="../country/turkmenistan.html">Turkmenistan</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:28.59%"></span></span>
+    <span class="app-bars__value">5.2</span>
+  </li>
+  <li class="app-bars__row" data-iso="AUT">
+    <span class="app-bars__label"><a href="../country/austria.html">Austria</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:26.87%"></span></span>
+    <span class="app-bars__value">4.8</span>
+  </li>
+  <li class="app-bars__row" data-iso="BEL">
+    <span class="app-bars__label"><a href="../country/belgium.html">Belgium</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:26.37%"></span></span>
+    <span class="app-bars__value">4.8</span>
+  </li>
+  <li class="app-bars__row" data-iso="GRC">
+    <span class="app-bars__label"><a href="../country/greece.html">Greece</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:23.99%"></span></span>
+    <span class="app-bars__value">4.3</span>
+  </li>
+  <li class="app-bars__row" data-iso="POL">
+    <span class="app-bars__label"><a href="../country/poland.html">Poland</a> <span class="app-bars__note">2024</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:23.38%"></span></span>
+    <span class="app-bars__value">4.2</span>
+  </li>
+  <li class="app-bars__row" data-iso="NLD">
+    <span class="app-bars__label"><a href="../country/netherlands.html">Netherlands</a> <span class="app-bars__note">2024</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:21.27%"></span></span>
+    <span class="app-bars__value">3.8</span>
+  </li>
+  <li class="app-bars__row" data-iso="CYP">
+    <span class="app-bars__label"><a href="../country/cyprus.html">Cyprus</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:19.94%"></span></span>
+    <span class="app-bars__value">3.6</span>
+  </li>
+  <li class="app-bars__row" data-iso="LUX">
+    <span class="app-bars__label"><a href="../country/luxembourg.html">Luxembourg</a> <span class="app-bars__note">2024</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:18.06%"></span></span>
+    <span class="app-bars__value">3.3</span>
+  </li>
+  <li class="app-bars__row" data-iso="MLT">
+    <span class="app-bars__label"><a href="../country/malta.html">Malta</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:16.95%"></span></span>
+    <span class="app-bars__value">3.1</span>
+  </li>
+  <li class="app-bars__row" data-iso="TUR">
+    <span class="app-bars__label"><a href="../country/turkiye.html">Türkiye</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:15.90%"></span></span>
+    <span class="app-bars__value">2.9</span>
+  </li>
+  <li class="app-bars__row" data-iso="GBR">
+    <span class="app-bars__label"><a href="../country/united-kingdom.html">United Kingdom</a> <span class="app-bars__note">2024</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:14.57%"></span></span>
+    <span class="app-bars__value">2.6</span>
+  </li>
+  <li class="app-bars__row" data-iso="DNK">
+    <span class="app-bars__label"><a href="../country/denmark.html">Denmark</a> <span class="app-bars__note">2024</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:14.35%"></span></span>
+    <span class="app-bars__value">2.6</span>
+  </li>
+  <li class="app-bars__row" data-iso="ITA">
+    <span class="app-bars__label"><a href="../country/italy.html">Italy</a> <span class="app-bars__note">2024</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:14.18%"></span></span>
+    <span class="app-bars__value">2.6</span>
+  </li>
+  <li class="app-bars__row" data-iso="MKD">
+    <span class="app-bars__label"><a href="../country/north-macedonia.html">North Macedonia</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:13.96%"></span></span>
+    <span class="app-bars__value">2.5</span>
+  </li>
+  <li class="app-bars__row" data-iso="ARM">
+    <span class="app-bars__label"><a href="../country/armenia.html">Armenia</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:13.24%"></span></span>
+    <span class="app-bars__value">2.4</span>
+  </li>
+  <li class="app-bars__row" data-iso="AZE">
+    <span class="app-bars__label"><a href="../country/azerbaijan.html">Azerbaijan</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:12.74%"></span></span>
+    <span class="app-bars__value">2.3</span>
+  </li>
+  <li class="app-bars__row" data-iso="FIN">
+    <span class="app-bars__label"><a href="../country/finland.html">Finland</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:11.91%"></span></span>
+    <span class="app-bars__value">2.1</span>
+  </li>
+  <li class="app-bars__row" data-iso="HUN">
+    <span class="app-bars__label"><a href="../country/hungary.html">Hungary</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:9.86%"></span></span>
+    <span class="app-bars__value">1.8</span>
+  </li>
+  <li class="app-bars__row" data-iso="BLR">
+    <span class="app-bars__label"><a href="../country/belarus.html">Belarus</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:9.47%"></span></span>
+    <span class="app-bars__value">1.7</span>
+  </li>
+  <li class="app-bars__row" data-iso="UKR">
+    <span class="app-bars__label"><a href="../country/ukraine.html">Ukraine</a> <span class="app-bars__note">2021</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:8.81%"></span></span>
+    <span class="app-bars__value">1.6</span>
+  </li>
+  <li class="app-bars__row" data-iso="LTU">
+    <span class="app-bars__label"><a href="../country/lithuania.html">Lithuania</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:8.70%"></span></span>
+    <span class="app-bars__value">1.6</span>
+  </li>
+  <li class="app-bars__row" data-iso="RUS">
+    <span class="app-bars__label"><a href="../country/russian-federation.html">Russian Federation</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:7.59%"></span></span>
+    <span class="app-bars__value">1.4</span>
+  </li>
+  <li class="app-bars__row" data-iso="DEU">
+    <span class="app-bars__label"><a href="../country/germany.html">Germany</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:7.31%"></span></span>
+    <span class="app-bars__value">1.3</span>
+  </li>
+  <li class="app-bars__row" data-iso="SRB">
+    <span class="app-bars__label"><a href="../country/serbia.html">Serbia</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:6.59%"></span></span>
+    <span class="app-bars__value">1.2</span>
+  </li>
+  <li class="app-bars__row" data-iso="KAZ">
+    <span class="app-bars__label"><a href="../country/kazakhstan.html">Kazakhstan</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:6.48%"></span></span>
+    <span class="app-bars__value">1.2</span>
+  </li>
+  <li class="app-bars__row" data-iso="MNE">
+    <span class="app-bars__label"><a href="../country/montenegro.html">Montenegro</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:5.87%"></span></span>
+    <span class="app-bars__value">1.1</span>
+  </li>
+  <li class="app-bars__row" data-iso="EST">
+    <span class="app-bars__label"><a href="../country/estonia.html">Estonia</a> <span class="app-bars__note">2024</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:4.82%"></span></span>
+    <span class="app-bars__value">0.9</span>
+  </li>
+  <li class="app-bars__row" data-iso="BGR">
+    <span class="app-bars__label"><a href="../country/bulgaria.html">Bulgaria</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:4.21%"></span></span>
+    <span class="app-bars__value">0.8</span>
+  </li>
+  <li class="app-bars__row" data-iso="ALB">
+    <span class="app-bars__label"><a href="../country/albania.html">Albania</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:4.16%"></span></span>
+    <span class="app-bars__value">0.8</span>
+  </li>
+  <li class="app-bars__row" data-iso="ROU">
+    <span class="app-bars__label"><a href="../country/romania.html">Romania</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:3.49%"></span></span>
+    <span class="app-bars__value">0.6</span>
+  </li>
+  <li class="app-bars__row" data-iso="SWE">
+    <span class="app-bars__label"><a href="../country/sweden.html">Sweden</a> <span class="app-bars__note">2024</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:3.49%"></span></span>
+    <span class="app-bars__value">0.6</span>
+  </li>
+  <li class="app-bars__row" data-iso="SVN">
+    <span class="app-bars__label"><a href="../country/slovenia.html">Slovenia</a> <span class="app-bars__note">2024</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:2.99%"></span></span>
+    <span class="app-bars__value">0.5</span>
+  </li>
+  <li class="app-bars__row" data-iso="BIH">
+    <span class="app-bars__label"><a href="../country/bosnia-and-herzegovina.html">Bosnia and Herzegovina</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:2.49%"></span></span>
+    <span class="app-bars__value">0.5</span>
+  </li>
+  <li class="app-bars__row" data-iso="MDA">
+    <span class="app-bars__label"><a href="../country/republic-of-moldova.html">Republic of Moldova</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:1.94%"></span></span>
+    <span class="app-bars__value">0.3</span>
+  </li>
+  <li class="app-bars__row" data-iso="CZE">
+    <span class="app-bars__label"><a href="../country/czechia.html">Czechia</a> <span class="app-bars__note">2024</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:0.83%"></span></span>
+    <span class="app-bars__value">0.1</span>
+  </li>
+  <li class="app-bars__row" data-iso="UZB">
+    <span class="app-bars__label"><a href="../country/uzbekistan.html">Uzbekistan</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:0.33%"></span></span>
+    <span class="app-bars__value">0.1</span>
+  </li>
+  <li class="app-bars__row" data-iso="KGZ">
+    <span class="app-bars__label"><a href="../country/kyrgyzstan.html">Kyrgyzstan</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:0.11%"></span></span>
+    <span class="app-bars__value">0.0</span>
+  </li>
+  <li class="app-bars__row" data-iso="TJK">
+    <span class="app-bars__label"><a href="../country/tajikistan.html">Tajikistan</a> <span class="app-bars__note">2023</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:0.06%"></span></span>
+    <span class="app-bars__value">0.0</span>
+  </li>
+  <li class="app-bars__row" data-iso="ISL">
+    <span class="app-bars__label"><a href="../country/iceland.html">Iceland</a> <span class="app-bars__note">2021</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:0.00%"></span></span>
+    <span class="app-bars__value">0.0</span>
+  </li>
+  <li class="app-bars__row" data-iso="NOR">
+    <span class="app-bars__label"><a href="../country/norway.html">Norway</a> <span class="app-bars__note">2022</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:0.00%"></span></span>
+    <span class="app-bars__value">0.0</span>
+  </li>
+</ol>
+
+
+<h2 class="nhsuk-heading-m">Change over time</h2>
+<figure class="app-chart">
+  <figcaption class="app-chart__caption">
+    <h3 class="app-chart__title">Voluntary health insurance as a share of current spending on health, every country</h3>
+    <p class="app-chart__unit">% of current spending on health</p>
+  </figcaption>
+  <ul class="app-legend" aria-label="Series">
+    <li class="app-legend__item" data-focus-legend hidden><span class="app-legend__key" style="--c:#005eb8" aria-hidden="true"></span><span data-focus-name></span></li>
+    <li class="app-legend__item"><span class="app-legend__key" style="--c:#212b32" aria-hidden="true"></span>Median of countries with data</li>
+    <li class="app-legend__item"><span class="app-legend__key app-legend__key--context" style="--c:#aeb7bd" aria-hidden="true"></span>Each other country</li>
+  </ul>
+  <div class="app-chart__plot" data-chart tabindex="0" role="img" aria-label="Voluntary health insurance as a share of current spending on health over time, one line per country. The figures are in the CSV download below."></div>
+  <script type="application/json" class="app-chart__data">{"kind":"focus","unit":"% of current spending on health","countries":[{"iso":"ALB","name":"Albania","points":[[2004,0],[2005,0.01],[2006,0],[2007,0],[2008,0.01],[2009,0.01],[2010,0.02],[2011,0.02],[2012,0.01],[2013,0.01],[2014,0.01],[2015,0],[2016,0],[2017,0],[2018,0],[2019,0],[2020,0],[2021,0],[2022,0.95],[2023,0.75]],"comparable":true},{"iso":"AND","name":"Andorra","points":[[2000,19.14],[2001,19.25],[2002,18.64],[2003,19.9],[2004,21.01],[2005,19.82],[2006,22.22],[2007,22.22],[2008,19.27],[2009,17.79],[2010,14.39],[2011,14.62],[2012,16.87],[2013,16.52],[2014,16.19],[2015,14.96],[2016,15.41],[2017,15.97],[2018,16.91],[2019,15.94],[2020,16.24],[2021,17.36],[2022,17.54],[2023,18.05]],"comparable":true},{"iso":"ARM","name":"Armenia","points":[[2001,0.07],[2002,0.09],[2003,0.11],[2004,0.14],[2005,0.05],[2006,0.07],[2007,0.1],[2008,0.13],[2009,0.16],[2010,0.19],[2011,0.29],[2012,0.83],[2013,1.02],[2014,0.94],[2015,1.01],[2016,0.67],[2017,0.8],[2018,1.16],[2019,1.1],[2020,0.99],[2021,1.91],[2022,2.14],[2023,2.39]],"comparable":true},{"iso":"AUT","name":"Austria","points":[[2000,5.55],[2001,5.51],[2002,5.54],[2003,5.58],[2004,5.75],[2005,5.25],[2006,5.1],[2007,4.99],[2008,4.93],[2009,4.93],[2010,4.88],[2011,4.9],[2012,4.93],[2013,5.08],[2014,5.11],[2015,5.04],[2016,5.05],[2017,5.03],[2018,5.06],[2019,5.1],[2020,4.62],[2021,4.45],[2022,4.51],[2023,4.85]],"comparable":true},{"iso":"AZE","name":"Azerbaijan","points":[[2016,3.17],[2017,2.9],[2018,2.83],[2019,2.8],[2020,2.13],[2021,2.35],[2022,2.45],[2023,2.3]],"comparable":true},{"iso":"BLR","name":"Belarus","points":[[2000,0.03],[2001,0.03],[2002,0.03],[2003,0.02],[2004,0.03],[2005,0.02],[2006,0.02],[2007,0.03],[2008,0.04],[2009,0.04],[2010,0.16],[2011,0.23],[2012,0.23],[2013,0.42],[2014,0.46],[2015,0.7],[2016,0.98],[2017,1.22],[2018,1.41],[2019,1.63],[2020,1.46],[2021,1.67],[2022,1.63],[2023,1.71]],"comparable":true},{"iso":"BEL","name":"Belgium","points":[[2000,5.17],[2001,5],[2002,5.33],[2003,5.04],[2004,4.98],[2005,5.11],[2006,5.14],[2007,5.19],[2008,4.28],[2009,3.88],[2010,3.9],[2011,4.12],[2012,3.98],[2013,4.18],[2014,4.27],[2015,4.52],[2016,4.68],[2017,4.78],[2018,4.8],[2019,4.89],[2020,4.52],[2021,4.38],[2022,4.63],[2023,4.76]],"comparable":true},{"iso":"BIH","name":"Bosnia and Herzegovina","points":[[2000,6.8],[2001,1.5],[2002,1.8],[2003,1.3],[2004,0.3],[2006,0.2],[2007,0.4],[2008,0.2],[2009,0.69],[2010,0.33],[2011,0.57],[2012,0.24],[2013,0.27],[2014,0.24],[2015,0.28],[2016,0.29],[2017,0.38],[2018,0.38],[2019,0.38],[2020,0.27],[2021,0.3],[2022,0.4],[2023,0.45]],"comparable":true},{"iso":"BGR","name":"Bulgaria","points":[[2001,0.03],[2002,0.04],[2003,0.1],[2004,0.2],[2005,0.29],[2006,0.36],[2007,0.39],[2008,0.46],[2009,0.45],[2010,0.46],[2011,0.42],[2012,0.43],[2013,0.38],[2014,0.37],[2015,0.44],[2016,0.43],[2017,0.58],[2018,0.69],[2019,0.8],[2020,0.62],[2021,0.65],[2022,0.67],[2023,0.76]],"comparable":true},{"iso":"HRV","name":"Croatia","points":[[2000,0],[2001,2.33],[2002,1.32],[2003,0.71],[2004,0.77],[2005,0.57],[2006,0.57],[2007,0.53],[2008,0.62],[2009,0.58],[2010,0.59],[2011,7.72],[2012,6.92],[2013,6.3],[2014,5.78],[2015,6.4],[2016,6.48],[2017,6.47],[2018,6.58],[2019,6.59],[2020,5.34],[2021,5.05],[2022,5.45],[2023,5.68]],"comparable":true},{"iso":"CYP","name":"Cyprus","points":[[2000,2.49],[2001,2.46],[2002,2.25],[2003,5.82],[2004,6.28],[2005,6.59],[2006,6.44],[2007,5.56],[2008,5.21],[2009,5.97],[2010,9.15],[2011,9.52],[2012,9.9],[2013,10],[2014,10.71],[2015,12.07],[2016,12],[2017,12.06],[2018,11.92],[2019,10.47],[2020,5.57],[2021,3.42],[2022,3.45],[2023,3.6]],"comparable":true},{"iso":"CZE","name":"Czechia","points":[[2003,0.25],[2004,0.24],[2005,0.25],[2006,0.22],[2007,0.22],[2008,0.16],[2009,0.22],[2010,0.14],[2011,0.16],[2012,0.17],[2013,0.15],[2014,0.16],[2015,0.14],[2016,0.14],[2017,0.14],[2018,0.15],[2019,0.16],[2020,0.1],[2021,0.06],[2022,0.11],[2023,0.15],[2024,0.15]],"comparable":true},{"iso":"DNK","name":"Denmark","points":[[2000,1.48],[2001,1.42],[2002,1.41],[2003,1.47],[2004,1.52],[2005,1.49],[2006,1.54],[2007,1.66],[2008,1.79],[2009,1.79],[2010,1.88],[2011,2.01],[2012,1.97],[2013,2.04],[2014,2.08],[2015,2.14],[2016,2.17],[2017,2.2],[2018,2.25],[2019,2.36],[2020,2.16],[2021,2.08],[2022,2.27],[2023,2.62],[2024,2.59]],"comparable":true},{"iso":"EST","name":"Estonia","points":[[2003,0.03],[2004,0.09],[2005,0.28],[2006,0.32],[2007,0.31],[2008,0.28],[2009,0.26],[2010,0.25],[2011,0.27],[2012,0.27],[2013,0.26],[2014,0.23],[2015,0.28],[2016,0.27],[2017,0.26],[2018,0.32],[2019,0.31],[2020,0.22],[2021,0.37],[2022,0.72],[2023,0.86],[2024,0.87]],"comparable":true},{"iso":"FIN","name":"Finland","points":[[2000,1.79],[2001,1.72],[2002,1.64],[2003,1.58],[2004,1.52],[2005,1.67],[2006,1.41],[2007,1.25],[2008,1.41],[2009,1.48],[2010,1.48],[2011,1.55],[2012,1.61],[2013,1.59],[2014,1.69],[2015,1.68],[2016,1.78],[2017,1.85],[2018,1.95],[2019,2],[2020,1.83],[2021,1.68],[2022,1.9],[2023,2.15]],"comparable":true},{"iso":"FRA","name":"France","points":[[2000,13.13],[2001,13.04],[2002,12.97],[2003,13.12],[2004,13.25],[2005,13.24],[2006,12.72],[2007,12.77],[2008,12.8],[2009,12.65],[2010,12.5],[2011,12.69],[2012,12.71],[2013,13.19],[2014,12.5],[2015,12.54],[2016,6.48],[2017,6.33],[2018,6.32],[2019,6.19],[2020,5.71],[2021,5.71],[2022,5.67],[2023,5.75],[2024,5.81]],"comparable":true},{"iso":"GEO","name":"Georgia","points":[[2000,0.89],[2001,0.81],[2002,0.67],[2003,0.71],[2004,1.1],[2005,1.24],[2006,1.76],[2007,3.46],[2008,9.48],[2009,13.96],[2010,11.76],[2011,9.97],[2012,11.73],[2013,15.35],[2014,7.18],[2015,4.98],[2016,5.1],[2017,4.98],[2018,5.69],[2019,6],[2020,5.57],[2021,4.57],[2022,5.91],[2023,7.27]],"comparable":true},{"iso":"DEU","name":"Germany","points":[[2000,8.41],[2001,8.5],[2002,8.63],[2003,8.85],[2004,9.17],[2005,9.27],[2006,9.26],[2007,9.36],[2008,9.51],[2009,1.4],[2010,1.39],[2011,1.44],[2012,1.47],[2013,1.56],[2014,1.49],[2015,1.49],[2016,1.45],[2017,1.43],[2018,1.45],[2019,1.39],[2020,1.3],[2021,1.26],[2022,1.26],[2023,1.32]],"comparable":true},{"iso":"GRC","name":"Greece","points":[[2000,2.1],[2001,2.02],[2002,2.16],[2003,2.24],[2004,2.41],[2005,2.29],[2006,2.35],[2007,2.44],[2008,2.46],[2009,1.94],[2010,2.5],[2011,2.86],[2012,3.13],[2013,3.26],[2014,3.83],[2015,3.73],[2016,3.85],[2017,4.02],[2018,4.32],[2019,4.47],[2020,4.32],[2021,4.16],[2022,4.06],[2023,4.33]],"comparable":true},{"iso":"HUN","name":"Hungary","points":[[2000,0.6],[2001,0.6],[2002,0.58],[2003,0.61],[2004,1.14],[2005,1.13],[2006,1.59],[2007,2.11],[2008,2.18],[2009,2.78],[2010,2.82],[2011,2.67],[2012,2.75],[2013,2.74],[2014,2.56],[2015,2.35],[2016,2.25],[2017,2.01],[2018,1.9],[2019,1.75],[2020,1.54],[2021,1.51],[2022,1.57],[2023,1.78]],"comparable":true},{"iso":"ISL","name":"Iceland","points":[[2000,0],[2001,0],[2002,0],[2003,0],[2004,0],[2005,0],[2006,0],[2007,0],[2008,0],[2009,0],[2010,0],[2011,0],[2012,0],[2013,0],[2014,0],[2015,0],[2016,0],[2017,0],[2018,0],[2019,0],[2020,0],[2021,0]],"comparable":true},{"iso":"IRL","name":"Ireland","points":[[2000,8.9],[2001,9.37],[2002,9.05],[2003,6.94],[2004,7.61],[2005,6.51],[2006,7.08],[2007,7.89],[2008,7.57],[2009,8.78],[2010,8.61],[2011,12.23],[2012,12.44],[2013,13.14],[2014,12.68],[2015,12.78],[2016,12.43],[2017,12.37],[2018,11.84],[2019,11.77],[2020,9.44],[2021,10.33],[2022,10.41],[2023,10.58]],"comparable":true},{"iso":"ISR","name":"Israel","points":[[2000,4.19],[2001,4.11],[2002,4.89],[2003,5.65],[2004,5.97],[2005,6.42],[2006,8.56],[2007,9.51],[2008,9.92],[2009,10.34],[2010,10.49],[2011,10.71],[2012,11.01],[2013,11.21],[2014,11.33],[2015,11.54],[2016,11.46],[2017,11.38],[2018,11.3],[2019,11.58],[2020,10.67],[2021,10.16],[2022,11.82],[2023,12.1]],"comparable":true},{"iso":"ITA","name":"Italy","points":[[2000,0.9],[2001,0.9],[2002,0.92],[2003,0.95],[2004,0.92],[2005,0.91],[2006,0.93],[2007,1],[2008,0.99],[2009,1.03],[2010,1],[2011,0.96],[2012,1.58],[2013,1.53],[2014,1.49],[2015,1.53],[2016,1.68],[2017,1.81],[2018,1.91],[2019,2.08],[2020,1.99],[2021,1.92],[2022,2.14],[2023,2.4],[2024,2.56]],"comparable":true},{"iso":"KAZ","name":"Kazakhstan","points":[[2000,0.11],[2001,0.12],[2002,0.11],[2003,0.1],[2004,0.1],[2005,0.09],[2006,0.1],[2007,0.12],[2008,0.26],[2009,0.35],[2010,1.82],[2011,1.69],[2012,1.57],[2013,1.88],[2014,1.67],[2015,1.66],[2016,1.29],[2017,1.36],[2018,1.4],[2019,1.6],[2020,1.1],[2021,0.96],[2022,1],[2023,1.17]],"comparable":true},{"iso":"KGZ","name":"Kyrgyzstan","points":[[2015,0.03],[2016,0.01],[2017,0.03],[2018,0.04],[2019,0.07],[2020,0.06],[2021,0.02],[2022,0.03],[2023,0.02]],"comparable":true},{"iso":"LVA","name":"Latvia","points":[[2000,1.59],[2001,2.42],[2002,2.84],[2003,1.61],[2004,2.74],[2005,2.28],[2006,2.61],[2007,2.21],[2008,2.02],[2009,0.84],[2010,2.47],[2011,2.09],[2012,1.73],[2013,1.33],[2014,0.88],[2015,0.79],[2016,0.63],[2017,0.61],[2018,0.75],[2019,4.65],[2020,4.29],[2021,3.53],[2022,4.21],[2023,5.25]],"comparable":true},{"iso":"LTU","name":"Lithuania","points":[[2000,0.1],[2001,0.07],[2002,0.12],[2003,0.13],[2004,0.41],[2005,0.37],[2006,0.43],[2007,0.42],[2008,0.52],[2009,0.66],[2010,0.57],[2011,0.63],[2012,0.76],[2013,0.82],[2014,0.83],[2015,0.9],[2016,0.99],[2017,1.12],[2018,1.22],[2019,1.26],[2020,1.09],[2021,1.2],[2022,1.56],[2023,1.57]],"comparable":true},{"iso":"LUX","name":"Luxembourg","points":[[2000,2.37],[2001,2.15],[2002,2.06],[2003,2.76],[2004,2.6],[2005,2.82],[2006,2.74],[2007,4.21],[2008,2.23],[2009,3.28],[2010,3.72],[2011,4.66],[2012,3.27],[2013,3.36],[2014,3.14],[2015,3.28],[2016,3.39],[2017,3.07],[2018,3.11],[2019,3.11],[2020,2.9],[2021,2.94],[2022,3.06],[2023,3.33],[2024,3.26]],"comparable":true},{"iso":"MLT","name":"Malta","points":[[2000,0.73],[2001,0.67],[2002,0.57],[2003,1.32],[2004,2.03],[2005,1.79],[2006,1.68],[2007,1.69],[2008,1.84],[2009,2.22],[2010,2.03],[2011,2.05],[2012,1.94],[2013,1.78],[2014,1.92],[2015,1.96],[2016,1.83],[2017,1.88],[2018,2.21],[2019,3.35],[2020,2.99],[2021,2.93],[2022,2.97],[2023,3.06]],"comparable":true},{"iso":"MCO","name":"Monaco","points":[[2000,12.96],[2001,12.97],[2002,12.98],[2003,13.11],[2004,13.13],[2005,13.13],[2006,13.09],[2007,12.98],[2008,13.04],[2009,13.17],[2010,13.18],[2011,13.14],[2012,13.16],[2013,13.13],[2014,13.11],[2015,13.09],[2016,7.02],[2017,6.84],[2018,6.74],[2019,7.17],[2020,5.99],[2021,3.36],[2022,5.78],[2023,5.9]],"comparable":true},{"iso":"MNE","name":"Montenegro","points":[[2011,0.23],[2012,0.14],[2013,0.11],[2014,0.16],[2015,0.19],[2016,0.25],[2017,0.32],[2018,0.38],[2019,0.4],[2020,0.28],[2021,0.27],[2022,0.87],[2023,1.06]],"comparable":true},{"iso":"NLD","name":"Netherlands","points":[[2000,17.69],[2001,17.77],[2002,18.26],[2003,18.39],[2004,19.68],[2005,19.94],[2006,6.42],[2007,6.52],[2008,6.11],[2009,6.31],[2010,6.14],[2011,6.52],[2012,6.47],[2013,6.08],[2014,6.06],[2015,5.93],[2016,5.93],[2017,5.84],[2018,5.62],[2019,5.28],[2020,4.3],[2021,4.16],[2022,4.15],[2023,4.1],[2024,3.84]],"comparable":true},{"iso":"MKD","name":"North Macedonia","points":[[2013,0],[2014,0],[2015,0],[2016,0.01],[2017,0.03],[2018,0.09],[2019,0.26],[2020,0.31],[2021,2.68],[2022,2.56],[2023,2.52]],"comparable":true},{"iso":"NOR","name":"Norway","points":[[2018,0],[2019,0],[2020,0],[2021,0],[2022,0]],"comparable":true},{"iso":"POL","name":"Poland","points":[[2002,0.59],[2003,0.59],[2004,0.62],[2005,0.59],[2006,0.59],[2007,0.59],[2008,0.61],[2009,0.63],[2010,0.71],[2011,0.74],[2012,0.75],[2013,4.01],[2014,4.46],[2015,4.99],[2016,5.35],[2017,5.64],[2018,6.11],[2019,6.2],[2020,5.94],[2021,5.75],[2022,5.3],[2023,4.78],[2024,4.22]],"comparable":true},{"iso":"PRT","name":"Portugal","points":[[2000,3.58],[2001,3.75],[2002,3.94],[2003,4.78],[2004,5.01],[2005,4.53],[2006,10.14],[2007,10.49],[2008,10.13],[2009,10.15],[2010,7.76],[2011,7.79],[2012,8.1],[2013,7.96],[2014,7.98],[2015,7.81],[2016,7.99],[2017,8.16],[2018,7.96],[2019,7.64],[2020,6.79],[2021,7.39],[2022,7.51],[2023,8.2],[2024,8.61]],"comparable":true},{"iso":"MDA","name":"Republic of Moldova","points":[[2002,1.5],[2003,1.6],[2004,0.38],[2005,0.13],[2006,0.12],[2007,0.14],[2008,0.09],[2009,0.18],[2010,0.03],[2011,0.19],[2012,0.2],[2013,0.15],[2014,0.16],[2015,0.2],[2016,0.22],[2017,0.22],[2018,0.11],[2019,0.25],[2020,0.14],[2021,0.19],[2022,0.26],[2023,0.35]],"comparable":true},{"iso":"ROU","name":"Romania","points":[[2003,0.15],[2004,0.11],[2005,0.09],[2006,0.14],[2007,0.14],[2008,0.08],[2009,0.1],[2010,0.07],[2011,0.15],[2012,0.22],[2013,0.18],[2014,0.23],[2015,0.28],[2016,0.47],[2017,0.54],[2018,0.54],[2019,0.44],[2020,0.5],[2021,0.49],[2022,0.59],[2023,0.63]],"comparable":true},{"iso":"RUS","name":"Russian Federation","points":[[2000,3.26],[2001,4.72],[2002,4.15],[2003,4.27],[2004,3.58],[2005,3.19],[2006,3.88],[2007,3.62],[2008,3.25],[2009,2.76],[2010,2.69],[2011,2.58],[2012,2.45],[2013,2.42],[2014,2.05],[2015,2.3],[2016,2.25],[2017,2.15],[2018,2],[2019,2.03],[2020,1.37],[2021,1.51],[2022,1.46],[2023,1.37]],"comparable":true},{"iso":"SRB","name":"Serbia","points":[[2005,0.53],[2006,0.68],[2007,0.73],[2008,0.77],[2009,0.73],[2010,0.33],[2011,0.3],[2012,0.3],[2013,0.3],[2014,0.34],[2015,0.42],[2016,0.58],[2017,0.73],[2018,0.8],[2019,0.77],[2020,0.75],[2021,0.55],[2022,0.83],[2023,1.19]],"comparable":true},{"iso":"SVN","name":"Slovenia","points":[[2000,13.05],[2001,14.71],[2002,13.29],[2003,13.88],[2004,13.54],[2005,12.59],[2006,13.61],[2007,13.85],[2008,12.89],[2009,13.24],[2010,13.04],[2011,13.34],[2012,14.53],[2013,15],[2014,14.75],[2015,14.48],[2016,14.01],[2017,14.25],[2018,14],[2019,14.3],[2020,13.41],[2021,12.33],[2022,12.62],[2023,13.25],[2024,0.54]],"comparable":true},{"iso":"ESP","name":"Spain","points":[[2000,4.32],[2001,4.12],[2002,4.36],[2003,5.32],[2004,5.38],[2005,5.44],[2006,5.62],[2007,5.65],[2008,5.19],[2009,5.07],[2010,4.56],[2011,5.25],[2012,5.19],[2013,5.29],[2014,5.64],[2015,5.45],[2016,6.13],[2017,6.07],[2018,6.31],[2019,6.35],[2020,5.84],[2021,5.69],[2022,5.6],[2023,5.53]],"comparable":true},{"iso":"SWE","name":"Sweden","points":[[2001,0.22],[2002,0.21],[2003,0.26],[2004,0.29],[2005,0.31],[2006,0.33],[2007,0.38],[2008,0.43],[2009,0.49],[2010,0.55],[2011,0.48],[2012,0.49],[2013,0.56],[2014,0.55],[2015,0.58],[2016,0.63],[2017,0.65],[2018,0.64],[2019,0.65],[2020,0.62],[2021,0.64],[2022,0.66],[2023,0.62],[2024,0.63]],"comparable":true},{"iso":"CHE","name":"Switzerland","points":[[2000,9.21],[2001,8.93],[2002,8.4],[2003,8.26],[2004,8.16],[2005,8.78],[2006,8.98],[2007,9.1],[2008,8.81],[2009,8.64],[2010,8.58],[2011,8.57],[2012,7.09],[2013,6.95],[2014,6.96],[2015,7],[2016,7.12],[2017,6.95],[2018,6.8],[2019,7.01],[2020,6.54],[2021,6.24],[2022,6.25],[2023,6.69]],"comparable":true},{"iso":"TJK","name":"Tajikistan","points":[[2000,0],[2001,0],[2002,0],[2003,0.45],[2004,0.34],[2005,1.07],[2006,1.07],[2007,0.14],[2008,0.1],[2009,0.08],[2010,0.07],[2011,0.06],[2012,0.05],[2013,0.04],[2014,0.18],[2015,0.14],[2016,0.07],[2017,0.06],[2018,0.05],[2019,0.01],[2020,0.01],[2021,0.01],[2022,0.01],[2023,0.01]],"comparable":true},{"iso":"TUR","name":"Türkiye","points":[[2005,1.88],[2006,1.85],[2007,1.93],[2008,1.99],[2009,2.24],[2010,1.94],[2011,2.06],[2012,2.06],[2013,2.11],[2014,2.21],[2015,2.4],[2016,2.45],[2017,2.47],[2018,2.56],[2019,2.71],[2020,2.3],[2021,2.34],[2022,2.74],[2023,2.87]],"comparable":true},{"iso":"TKM","name":"Turkmenistan","points":[[2000,3.33],[2001,4.08],[2002,4.08],[2003,4.25],[2004,4.81],[2005,4.92],[2006,5.09],[2007,4.6],[2008,5.23],[2009,4.72],[2010,4.73],[2011,4.6],[2012,4.55],[2013,4.46],[2014,4.55],[2015,4.74],[2016,5.08],[2017,4.87],[2018,5.11],[2019,5.11],[2020,5.09],[2021,5.17],[2022,5.28],[2023,5.16]],"comparable":true},{"iso":"UKR","name":"Ukraine","points":[[2000,0.54],[2001,0.33],[2002,0.21],[2003,0.1],[2004,0.1],[2005,0.69],[2006,0.83],[2007,0.88],[2008,1.01],[2009,1.07],[2010,1.01],[2011,0.99],[2012,0.98],[2013,1.06],[2014,1],[2015,0.87],[2016,0.73],[2017,0.74],[2018,0.9],[2019,1.06],[2020,1.81],[2021,1.59]],"comparable":true},{"iso":"GBR","name":"United Kingdom","points":[[2000,4.25],[2001,4.43],[2002,4.23],[2003,3.99],[2004,3.81],[2005,3.96],[2006,3.92],[2007,3.84],[2008,3.98],[2009,3.66],[2010,3.55],[2011,3.54],[2012,3.49],[2013,3.4],[2014,3.36],[2015,3.22],[2016,2.77],[2017,2.95],[2018,2.91],[2019,2.84],[2020,2.36],[2021,2.22],[2022,2.52],[2023,2.59],[2024,2.63]],"comparable":true},{"iso":"UZB","name":"Uzbekistan","points":[[2000,0],[2004,0.09],[2005,0.09],[2006,0.09],[2007,0.09],[2008,0.09],[2009,0.09],[2010,0.09],[2011,0.09],[2012,0.09],[2013,0.08],[2014,0.11],[2015,0.1],[2016,0.09],[2017,0.12],[2018,0.06],[2019,0.09],[2020,0.08],[2021,0.06],[2022,0.06],[2023,0.06]],"comparable":true}],"median":[[2000,2.49],[2001,2.33],[2002,2.06],[2003,1.59],[2004,1.52],[2005,1.67],[2006,1.64],[2007,1.81],[2008,1.92],[2009,1.64],[2010,1.91],[2011,2.05],[2012,1.94],[2013,1.96],[2014,1.98],[2015,1.96],[2016,2],[2017,1.94],[2018,1.95],[2019,2.08],[2020,1.99],[2021,2.08],[2022,2.45],[2023,2.55]],"focus":null}</script>
+  
+  <p class="app-chart__source">Source: WHO Global Health Expenditure Database, through UHC Watch. <a href="../data/indicator/voluntary-health-insurance-share-of-health-spending.csv" download>Download every year for every country (CSV)</a></p>
+</figure>
+<details class="nhsuk-details">
+  <summary class="nhsuk-details__summary"><span class="nhsuk-details__summary-text">UHC Watch’s note on this indicator</span></summary>
+  <div class="nhsuk-details__text">
+<div class="app-quoted"><p>Data are based on the System of Health Accounts (SHA) classification.</p>
+<p>Voluntary health insurance (SHA code HF 2.1) includes government subsidies for voluntary health insurance in Croatia, Georgia and Portugal.</p>
+<p>Current spending on health (HF).</p>
+<p>Source: WHO Global Health Expenditure Database.</p>
+</div>
+  </div>
+</details>
+
+
+<div class="app-source" id="source">
+  <h2 class="nhsuk-heading-s">Sources</h2>
+  <ul class="nhsuk-list">
+    <li>WHO Global Health Expenditure Database, published by <a href="https://apps.who.int/dhis2/uhcwatch/indicator-explorer">UHC Watch</a>, WHO Regional Office for Europe. Data read on 4 October 2026.</li>
+    <li><a href="../about.html">About the data: how figures are chosen, ranked and compared</a></li>
+  </ul>
+</div>
+
+<nav class="nhsuk-pagination" role="navigation" aria-label="Pagination">
+  <ul class="nhsuk-list nhsuk-pagination__list">
+  <li class="nhsuk-pagination-item--previous">
+    <a class="nhsuk-pagination__link nhsuk-pagination__link--prev" href="public-share-of-health-spending.html" rel="prev">
+      <span class="nhsuk-pagination__title">Previous<span class="nhsuk-u-visually-hidden"> page</span></span>
+      <span class="nhsuk-u-visually-hidden">:</span>
+      <span class="nhsuk-pagination__page">Public share of health spending</span>
+      <svg class="nhsuk-icon nhsuk-icon--arrow-left" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16" focusable="false" aria-hidden="true"><path d="M10.7 6.3c.4.4.4 1 0 1.4L7.4 11H19a1 1 0 0 1 0 2H7.4l3.3 3.3c.4.4.4 1 0 1.4a1 1 0 0 1-1.4 0l-5-5A1 1 0 0 1 4 12c0-.3.1-.5.3-.7l5-5a1 1 0 0 1 1.4 0Z"/></svg>
+    </a>
+  </li>
+  <li class="nhsuk-pagination-item--next">
+    <a class="nhsuk-pagination__link nhsuk-pagination__link--next" href="population-entitled-to-publicly-financed-care.html" rel="next">
+      <span class="nhsuk-pagination__title">Next<span class="nhsuk-u-visually-hidden"> page</span></span>
+      <span class="nhsuk-u-visually-hidden">:</span>
+      <span class="nhsuk-pagination__page">Population coverage</span>
+      <svg class="nhsuk-icon nhsuk-icon--arrow-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16" focusable="false" aria-hidden="true"><path d="m14.7 6.3 5 5c.2.2.3.4.3.7 0 .3-.1.5-.3.7l-5 5a1 1 0 0 1-1.4-1.4l3.3-3.3H5a1 1 0 0 1 0-2h11.6l-3.3-3.3a1 1 0 1 1 1.4-1.4Z"/></svg>
+    </a>
+  </li>
+  </ul>
+</nav>
+
+</div>
+  </main>
+</div>
+<footer class="nhsuk-footer" role="contentinfo">
+  <div class="nhsuk-width-container">
+    <div class="app-footer__brand">
+      <img class="app-footer__mark" src="../assets/images/mark.svg" width="40" height="40" alt="">
+      <p class="nhsuk-body-s app-footer__trust">UHC Watch dashboards</p>
+    </div>
+    <div class="nhsuk-footer__meta">
+      <h2 class="nhsuk-u-visually-hidden">Support links</h2>
+      <ul class="nhsuk-footer__list">
+        <li class="nhsuk-footer__list-item"><a class="nhsuk-footer__list-item-link" href="../index.html">Where do I start?</a></li>
+        <li class="nhsuk-footer__list-item"><a class="nhsuk-footer__list-item-link" href="../countries.html">Countries</a></li>
+        <li class="nhsuk-footer__list-item"><a class="nhsuk-footer__list-item-link" href="../indicators.html">Indicators</a></li>
+        <li class="nhsuk-footer__list-item"><a class="nhsuk-footer__list-item-link" href="../compare.html">Compare countries</a></li>
+        <li class="nhsuk-footer__list-item"><a class="nhsuk-footer__list-item-link" href="../about.html">About the data</a></li>
+      </ul>
+      <p class="nhsuk-body-s">Figures come from <a class="nhsuk-footer__list-item-link" href="https://apps.who.int/dhis2/uhcwatch">UHC Watch</a>, WHO Regional Office for Europe, read on 4 October 2026. This site is not produced or endorsed by WHO. Check a figure against UHC Watch before you cite it.</p>
+    </div>
+  </div>
+</footer>
+<nav class="app-bottom-bar" aria-label="Quick links">
+    <a class="app-bottom-bar__link" href="../index.html"><svg class="nhsuk-icon nhsuk-icon--list" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16" focusable="false" aria-hidden="true"><path d="M4 6h16v2H4zm0 5h16v2H4zm0 5h16v2H4z"/></svg><span class="app-bottom-bar__label">Start</span></a>
+    <a class="app-bottom-bar__link" href="../countries.html"><svg class="nhsuk-icon nhsuk-icon--globe" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16" focusable="false" aria-hidden="true"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zm6.93 6h-2.95c-.32-1.25-.78-2.45-1.38-3.56 1.84.63 3.37 1.91 4.33 3.56zM12 4.04c.83 1.2 1.48 2.53 1.91 3.96h-3.82c.43-1.43 1.08-2.76 1.91-3.96zM4.26 14C4.1 13.36 4 12.69 4 12s.1-1.36.26-2h3.38c-.08.66-.14 1.32-.14 2 0 .68.06 1.34.14 2H4.26zm.82 2h2.95c.32 1.25.78 2.45 1.38 3.56-1.84-.63-3.37-1.9-4.33-3.56zm2.95-8H5.08c.96-1.66 2.49-2.93 4.33-3.56C8.81 5.55 8.35 6.75 8.03 8zM12 19.96c-.83-1.2-1.48-2.53-1.91-3.96h3.82c-.43 1.43-1.08 2.76-1.91 3.96zM14.34 14H9.66c-.09-.66-.16-1.32-.16-2 0-.68.07-1.35.16-2h4.68c.09.65.16 1.32.16 2 0 .68-.07 1.34-.16 2zm.25 5.56c.6-1.11 1.06-2.31 1.38-3.56h2.95c-.96 1.65-2.49 2.93-4.33 3.56zM16.36 14c.08-.66.14-1.32.14-2 0-.68-.06-1.34-.14-2h3.38c.16.64.26 1.31.26 2s-.1 1.36-.26 2h-3.38z"/></svg><span class="app-bottom-bar__label">Countries</span></a>
+    <a class="app-bottom-bar__link app-bottom-bar__link--current" href="../indicators.html" aria-current="page"><svg class="nhsuk-icon nhsuk-icon--chart" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16" focusable="false" aria-hidden="true"><path d="M4 20V11h4v9H4Zm6 0V4h4v16h-4Zm6 0v-6h4v6h-4Z"/></svg><span class="app-bottom-bar__label">Indicators</span></a>
+    <a class="app-bottom-bar__link" href="../compare.html"><svg class="nhsuk-icon nhsuk-icon--compare" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16" focusable="false" aria-hidden="true"><path d="M9 3H4v18h5V3Zm-2 16H6V5h1v14Zm8-12h5v14h-5V7Zm2 12h1V9h-1v10ZM11 1h2v22h-2V1Z"/></svg><span class="app-bottom-bar__label">Compare</span></a>
+</nav>
+<p class="app-print-footer">UHC Watch dashboards – unofficial. Data: WHO/Europe UHC Watch, read on 4 October 2026.</p>
+<script type="module">
+  import { initAll } from '../javascripts/nhsuk-frontend.min.js?v=bf77a4fccd'
+  initAll()
+</script>
+<script src="../javascripts/charts.js?v=bf77a4fccd" defer></script>
+<script src="../javascripts/app.js?v=bf77a4fccd" defer></script>
+
+</body>
+</html>

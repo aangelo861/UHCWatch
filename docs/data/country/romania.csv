@@ -1,0 +1,373 @@
+country,iso3,measure,group,unit,year,value
+Romania,ROU,Households with catastrophic health spending,All,% of households,2010,10.44
+Romania,ROU,Households with catastrophic health spending,All,% of households,2015,12.52
+Romania,ROU,Households with impoverishing health spending,All,% of households,2010,4.46
+Romania,ROU,Households with impoverishing health spending,All,% of households,2015,5.64
+Romania,ROU,Unmet need for health care,All,% of people,2008,11.1
+Romania,ROU,Unmet need for health care,All,% of people,2009,8.9
+Romania,ROU,Unmet need for health care,All,% of people,2010,11.1
+Romania,ROU,Unmet need for health care,All,% of people,2011,12.2
+Romania,ROU,Unmet need for health care,All,% of people,2012,11.5
+Romania,ROU,Unmet need for health care,All,% of people,2013,10.9
+Romania,ROU,Unmet need for health care,All,% of people,2014,9.8
+Romania,ROU,Unmet need for health care,All,% of people,2015,9.4
+Romania,ROU,Unmet need for health care,All,% of people,2016,6.5
+Romania,ROU,Unmet need for health care,All,% of people,2017,4.7
+Romania,ROU,Unmet need for health care,All,% of people,2018,4.9
+Romania,ROU,Unmet need for health care,All,% of people,2019,4.9
+Romania,ROU,Unmet need for health care,All,% of people,2020,4.7
+Romania,ROU,Unmet need for health care,All,% of people,2021,4.4
+Romania,ROU,Unmet need for health care,All,% of people,2022,4.9
+Romania,ROU,Unmet need for health care,All,% of people,2023,5.2
+Romania,ROU,Unmet need for health care,All,% of people,2024,2.2
+Romania,ROU,Unmet need for health care,All,% of people,2025,2.9
+Romania,ROU,Unmet need for dental care,All,% of people,2008,11.9
+Romania,ROU,Unmet need for dental care,All,% of people,2009,12.3
+Romania,ROU,Unmet need for dental care,All,% of people,2010,11.3
+Romania,ROU,Unmet need for dental care,All,% of people,2011,12.4
+Romania,ROU,Unmet need for dental care,All,% of people,2012,10.9
+Romania,ROU,Unmet need for dental care,All,% of people,2013,10.9
+Romania,ROU,Unmet need for dental care,All,% of people,2014,9.9
+Romania,ROU,Unmet need for dental care,All,% of people,2015,8.6
+Romania,ROU,Unmet need for dental care,All,% of people,2016,6.5
+Romania,ROU,Unmet need for dental care,All,% of people,2017,5.4
+Romania,ROU,Unmet need for dental care,All,% of people,2018,5
+Romania,ROU,Unmet need for dental care,All,% of people,2019,5
+Romania,ROU,Unmet need for dental care,All,% of people,2020,4.8
+Romania,ROU,Unmet need for dental care,All,% of people,2021,4.2
+Romania,ROU,Unmet need for dental care,All,% of people,2022,5.2
+Romania,ROU,Unmet need for dental care,All,% of people,2023,6.3
+Romania,ROU,Unmet need for dental care,All,% of people,2024,3.8
+Romania,ROU,Unmet need for dental care,All,% of people,2025,4.1
+Romania,ROU,Unmet need for prescribed medicines due to cost,All,% of people needing care,2014,6.7
+Romania,ROU,Unmet need for prescribed medicines due to cost,All,% of people needing care,2019,6
+Romania,ROU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2000,19.42
+Romania,ROU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2001,18.94
+Romania,ROU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2002,17.84
+Romania,ROU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2003,15.13
+Romania,ROU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2004,24.33
+Romania,ROU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2005,18.5
+Romania,ROU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2006,19.99
+Romania,ROU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2007,17.6
+Romania,ROU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2008,18.18
+Romania,ROU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2009,20.78
+Romania,ROU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2010,19.63
+Romania,ROU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2011,24.28
+Romania,ROU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2012,22.43
+Romania,ROU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2013,20.18
+Romania,ROU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2014,20.31
+Romania,ROU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2015,21.28
+Romania,ROU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2016,20.75
+Romania,ROU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2017,20.49
+Romania,ROU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2018,19.46
+Romania,ROU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2019,18.88
+Romania,ROU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2020,19.03
+Romania,ROU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2021,20.94
+Romania,ROU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2022,21.42
+Romania,ROU,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2023,22.96
+Romania,ROU,Out-of-pocket payments as a share of household spending,All,% of household consumption,2010,4.54
+Romania,ROU,Out-of-pocket payments as a share of household spending,All,% of household consumption,2015,4.86
+Romania,ROU,Public spending on health as a share of GDP,All,% of GDP,2000,3.39
+Romania,ROU,Public spending on health as a share of GDP,All,% of GDP,2001,3.55
+Romania,ROU,Public spending on health as a share of GDP,All,% of GDP,2002,3.76
+Romania,ROU,Public spending on health as a share of GDP,All,% of GDP,2003,4.54
+Romania,ROU,Public spending on health as a share of GDP,All,% of GDP,2004,4.07
+Romania,ROU,Public spending on health as a share of GDP,All,% of GDP,2005,4.44
+Romania,ROU,Public spending on health as a share of GDP,All,% of GDP,2006,4.03
+Romania,ROU,Public spending on health as a share of GDP,All,% of GDP,2007,4.11
+Romania,ROU,Public spending on health as a share of GDP,All,% of GDP,2008,4.09
+Romania,ROU,Public spending on health as a share of GDP,All,% of GDP,2009,4.16
+Romania,ROU,Public spending on health as a share of GDP,All,% of GDP,2010,4.51
+Romania,ROU,Public spending on health as a share of GDP,All,% of GDP,2011,3.37
+Romania,ROU,Public spending on health as a share of GDP,All,% of GDP,2012,3.47
+Romania,ROU,Public spending on health as a share of GDP,All,% of GDP,2013,4.14
+Romania,ROU,Public spending on health as a share of GDP,All,% of GDP,2014,3.97
+Romania,ROU,Public spending on health as a share of GDP,All,% of GDP,2015,3.86
+Romania,ROU,Public spending on health as a share of GDP,All,% of GDP,2016,3.98
+Romania,ROU,Public spending on health as a share of GDP,All,% of GDP,2017,4.08
+Romania,ROU,Public spending on health as a share of GDP,All,% of GDP,2018,4.4
+Romania,ROU,Public spending on health as a share of GDP,All,% of GDP,2019,4.58
+Romania,ROU,Public spending on health as a share of GDP,All,% of GDP,2020,4.98
+Romania,ROU,Public spending on health as a share of GDP,All,% of GDP,2021,5.05
+Romania,ROU,Public spending on health as a share of GDP,All,% of GDP,2022,4.51
+Romania,ROU,Public spending on health as a share of GDP,All,% of GDP,2023,4.35
+Romania,ROU,Public spending on health as a share of government spending,All,% of government spending,2000,8.66
+Romania,ROU,Public spending on health as a share of government spending,All,% of government spending,2001,9.61
+Romania,ROU,Public spending on health as a share of government spending,All,% of government spending,2002,10.55
+Romania,ROU,Public spending on health as a share of government spending,All,% of government spending,2003,13
+Romania,ROU,Public spending on health as a share of government spending,All,% of government spending,2004,11.96
+Romania,ROU,Public spending on health as a share of government spending,All,% of government spending,2005,13.16
+Romania,ROU,Public spending on health as a share of government spending,All,% of government spending,2006,11.28
+Romania,ROU,Public spending on health as a share of government spending,All,% of government spending,2007,10.91
+Romania,ROU,Public spending on health as a share of government spending,All,% of government spending,2008,10.8
+Romania,ROU,Public spending on health as a share of government spending,All,% of government spending,2009,10.45
+Romania,ROU,Public spending on health as a share of government spending,All,% of government spending,2010,11.45
+Romania,ROU,Public spending on health as a share of government spending,All,% of government spending,2011,8.85
+Romania,ROU,Public spending on health as a share of government spending,All,% of government spending,2012,9.61
+Romania,ROU,Public spending on health as a share of government spending,All,% of government spending,2013,11.52
+Romania,ROU,Public spending on health as a share of government spending,All,% of government spending,2014,11.17
+Romania,ROU,Public spending on health as a share of government spending,All,% of government spending,2015,10.74
+Romania,ROU,Public spending on health as a share of government spending,All,% of government spending,2016,11.42
+Romania,ROU,Public spending on health as a share of government spending,All,% of government spending,2017,12.15
+Romania,ROU,Public spending on health as a share of government spending,All,% of government spending,2018,12.8
+Romania,ROU,Public spending on health as a share of government spending,All,% of government spending,2019,12.67
+Romania,ROU,Public spending on health as a share of government spending,All,% of government spending,2020,11.99
+Romania,ROU,Public spending on health as a share of government spending,All,% of government spending,2021,12.28
+Romania,ROU,Public spending on health as a share of government spending,All,% of government spending,2022,11.07
+Romania,ROU,Public spending on health as a share of government spending,All,% of government spending,2023,10.66
+Romania,ROU,Public spending as a share of current spending on health,All,% of current spending on health,2000,80.58
+Romania,ROU,Public spending as a share of current spending on health,All,% of current spending on health,2001,81.06
+Romania,ROU,Public spending as a share of current spending on health,All,% of current spending on health,2002,82.16
+Romania,ROU,Public spending as a share of current spending on health,All,% of current spending on health,2003,84.47
+Romania,ROU,Public spending as a share of current spending on health,All,% of current spending on health,2004,74.39
+Romania,ROU,Public spending as a share of current spending on health,All,% of current spending on health,2005,80.39
+Romania,ROU,Public spending as a share of current spending on health,All,% of current spending on health,2006,79.46
+Romania,ROU,Public spending as a share of current spending on health,All,% of current spending on health,2007,81.78
+Romania,ROU,Public spending as a share of current spending on health,All,% of current spending on health,2008,81.42
+Romania,ROU,Public spending as a share of current spending on health,All,% of current spending on health,2009,78.73
+Romania,ROU,Public spending as a share of current spending on health,All,% of current spending on health,2010,79.92
+Romania,ROU,Public spending as a share of current spending on health,All,% of current spending on health,2011,75.25
+Romania,ROU,Public spending as a share of current spending on health,All,% of current spending on health,2012,76.92
+Romania,ROU,Public spending as a share of current spending on health,All,% of current spending on health,2013,79.34
+Romania,ROU,Public spending as a share of current spending on health,All,% of current spending on health,2014,79
+Romania,ROU,Public spending as a share of current spending on health,All,% of current spending on health,2015,78.02
+Romania,ROU,Public spending as a share of current spending on health,All,% of current spending on health,2016,78.33
+Romania,ROU,Public spending as a share of current spending on health,All,% of current spending on health,2017,78.65
+Romania,ROU,Public spending as a share of current spending on health,All,% of current spending on health,2018,79.73
+Romania,ROU,Public spending as a share of current spending on health,All,% of current spending on health,2019,80.45
+Romania,ROU,Public spending as a share of current spending on health,All,% of current spending on health,2020,80.27
+Romania,ROU,Public spending as a share of current spending on health,All,% of current spending on health,2021,78.33
+Romania,ROU,Public spending as a share of current spending on health,All,% of current spending on health,2022,77.79
+Romania,ROU,Public spending as a share of current spending on health,All,% of current spending on health,2023,76.24
+Romania,ROU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2003,0.15
+Romania,ROU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2004,0.11
+Romania,ROU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2005,0.09
+Romania,ROU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2006,0.14
+Romania,ROU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2007,0.14
+Romania,ROU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2008,0.08
+Romania,ROU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2009,0.1
+Romania,ROU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2010,0.07
+Romania,ROU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2011,0.15
+Romania,ROU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2012,0.22
+Romania,ROU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2013,0.18
+Romania,ROU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2014,0.23
+Romania,ROU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2015,0.28
+Romania,ROU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2016,0.47
+Romania,ROU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2017,0.54
+Romania,ROU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2018,0.54
+Romania,ROU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2019,0.44
+Romania,ROU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2020,0.5
+Romania,ROU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2021,0.49
+Romania,ROU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2022,0.59
+Romania,ROU,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2023,0.63
+Romania,ROU,Population entitled to publicly financed health care,All,% of the population,2012,91.2
+Romania,ROU,Population entitled to publicly financed health care,All,% of the population,2013,90.5
+Romania,ROU,Population entitled to publicly financed health care,All,% of the population,2014,86.2
+Romania,ROU,Population entitled to publicly financed health care,All,% of the population,2015,86.7
+Romania,ROU,Population entitled to publicly financed health care,All,% of the population,2016,86.9
+Romania,ROU,Population entitled to publicly financed health care,All,% of the population,2017,85.3
+Romania,ROU,Population entitled to publicly financed health care,All,% of the population,2018,85.8
+Romania,ROU,Population entitled to publicly financed health care,All,% of the population,2019,85.5
+Romania,ROU,Population entitled to publicly financed health care,All,% of the population,2020,85.4
+Romania,ROU,Population entitled to publicly financed health care,All,% of the population,2021,85.5
+Romania,ROU,Population entitled to publicly financed health care,All,% of the population,2022,88.5
+Romania,ROU,Population entitled to publicly financed health care,All,% of the population,2023,89
+Romania,ROU,Population entitled to publicly financed health care,All,% of the population,2024,88.8
+Romania,ROU,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2010,27.75
+Romania,ROU,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2015,36.45
+Romania,ROU,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2010,9.45
+Romania,ROU,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2015,12.15
+Romania,ROU,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2010,5.55
+Romania,ROU,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2015,6.55
+Romania,ROU,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2010,4.8
+Romania,ROU,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2015,4.1
+Romania,ROU,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2010,4.6
+Romania,ROU,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2015,3.35
+Romania,ROU,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2010,63.83
+Romania,ROU,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2015,60.82
+Romania,ROU,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2010,2.26
+Romania,ROU,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2015,3.01
+Romania,ROU,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2010,4.21
+Romania,ROU,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2015,8.67
+Romania,ROU,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2010,15.39
+Romania,ROU,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2015,18.36
+Romania,ROU,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2010,6.44
+Romania,ROU,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2015,6.88
+Romania,ROU,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2010,7.86
+Romania,ROU,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2015,2.25
+Romania,ROU,Share of Impoverished households (all households),All,%,2010,1.46
+Romania,ROU,Share of Impoverished households (all households),All,%,2015,1.92
+Romania,ROU,Share of further impoverished households (total),All,%,2010,3
+Romania,ROU,Share of further impoverished households (total),All,%,2015,3.72
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2008,17.6
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2009,13.1
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2010,16.1
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2011,15
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2012,16.2
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2013,14.9
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2014,14.1
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2015,11.9
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2016,11.2
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2017,7.8
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2018,8
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2019,8.2
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2020,8.9
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2021,10
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2022,9.1
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2023,9.3
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2024,4.9
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2025,6
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2008,3.7
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2009,3.5
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2010,4.8
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2011,6.4
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2012,4.3
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2013,5.4
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2014,3.8
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2015,5.1
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2016,2.6
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2017,1.6
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2018,2.3
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2019,1.8
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2020,1.1
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2021,0.7
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2022,1.8
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2023,2.3
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2024,0.5
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2025,0.9
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2008,18.2
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2009,18.2
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2010,16.7
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2011,17.9
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2012,15.7
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2013,14.8
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2014,13.8
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2015,11.9
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2016,12.3
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2017,9.8
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2018,8.2
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2019,9.4
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2020,9.8
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2021,9.3
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2022,8.8
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2023,10.5
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2024,6.7
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2025,6.9
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2008,4.3
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2009,5.4
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2010,5.3
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2011,5.9
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2012,5.1
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2013,6.1
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2014,4.6
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2015,6
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2016,3.1
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2017,1.9
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2018,2.5
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2019,1.8
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2020,1.7
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2021,0.7
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2022,2
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2023,3.3
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2024,1
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2025,1.6
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2008,1.2
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2009,1.5
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2010,2.7
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2011,2.5
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2012,2.9
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2013,1.9
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2014,1.7
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2015,1.1
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2016,1.1
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2017,0.5
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2018,0.5
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2019,0.6
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2020,0.6
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2021,0.7
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2022,0.9
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2023,0.3
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2024,0
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2025,0.4
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2008,26.5
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2009,19.1
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2010,25.2
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2011,26.9
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2012,25.3
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2013,25.4
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2014,23.4
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2015,25.5
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2016,15.2
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2017,11.9
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2018,11.7
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2019,11.5
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2020,11
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2021,10.4
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2022,12.2
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2023,10.6
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2024,4.7
+Romania,ROU,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2025,5.8
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2008,4.2
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2009,4.9
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2010,4.3
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2011,4.2
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2012,4.4
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2013,3
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2014,3
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2015,4
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2016,5.8
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2017,2
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2018,0.9
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2019,1.6
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2020,0.5
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2021,1.5
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2022,1.9
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2023,1.1
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2024,0.8
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2025,1.5
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2008,17.9
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2009,17.4
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2010,17.1
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2011,17.3
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2012,17
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2013,16.8
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2014,15.7
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2015,10.9
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2016,9.1
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2017,7.9
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2018,7.4
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2019,6.6
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2020,6.4
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2021,6.1
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2022,8.7
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2023,8.7
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2024,5.3
+Romania,ROU,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2025,5.9
+Romania,ROU,Self-reported unmet need for prescribed medicines due to cost (poorest),All,%,2019,10.2
+Romania,ROU,Self-reported unmet need for prescribed medicines due to cost (richest),All,%,2019,1.5
+Romania,ROU,Self-reported unmet need for prescribed medicines due to cost (<25 years),All,%,2014,4.1
+Romania,ROU,Self-reported unmet need for prescribed medicines due to cost (<25 years),All,%,2019,1.4
+Romania,ROU,Self-reported unmet need for prescribed medicines due to cost (65+ years),All,%,2014,11.1
+Romania,ROU,Self-reported unmet need for prescribed medicines due to cost (65+ years),All,%,2019,11.7
+Romania,ROU,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2010,2.56
+Romania,ROU,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2015,3.69
+Romania,ROU,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2010,3.67
+Romania,ROU,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2015,4.52
+Romania,ROU,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2010,4.18
+Romania,ROU,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2015,4.99
+Romania,ROU,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2010,4.64
+Romania,ROU,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2015,5.16
+Romania,ROU,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2010,5.78
+Romania,ROU,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2015,5.14
+Romania,ROU,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2010,74.54
+Romania,ROU,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2015,70.37
+Romania,ROU,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2010,2.24
+Romania,ROU,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2015,2.99
+Romania,ROU,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2010,4.58
+Romania,ROU,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2015,6.09
+Romania,ROU,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2010,10.58
+Romania,ROU,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2015,13.78
+Romania,ROU,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2010,4.87
+Romania,ROU,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2015,5.9
+Romania,ROU,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2010,3.19
+Romania,ROU,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2015,0.87

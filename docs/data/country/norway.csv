@@ -1,0 +1,359 @@
+country,iso3,measure,group,unit,year,value
+Norway,NOR,Households with catastrophic health spending,All,% of households,2012,3.17
+Norway,NOR,Households with catastrophic health spending,All,% of households,2022,3.12
+Norway,NOR,Households with impoverishing health spending,All,% of households,2012,1.24
+Norway,NOR,Households with impoverishing health spending,All,% of households,2022,0.9
+Norway,NOR,Unmet need for health care,All,% of people,2008,1.3
+Norway,NOR,Unmet need for health care,All,% of people,2009,1.3
+Norway,NOR,Unmet need for health care,All,% of people,2010,1.4
+Norway,NOR,Unmet need for health care,All,% of people,2011,1.6
+Norway,NOR,Unmet need for health care,All,% of people,2012,1.3
+Norway,NOR,Unmet need for health care,All,% of people,2013,1.5
+Norway,NOR,Unmet need for health care,All,% of people,2014,0.8
+Norway,NOR,Unmet need for health care,All,% of people,2015,1.1
+Norway,NOR,Unmet need for health care,All,% of people,2016,1.1
+Norway,NOR,Unmet need for health care,All,% of people,2017,1.3
+Norway,NOR,Unmet need for health care,All,% of people,2018,1.4
+Norway,NOR,Unmet need for health care,All,% of people,2019,1
+Norway,NOR,Unmet need for health care,All,% of people,2020,0.9
+Norway,NOR,Unmet need for health care,All,% of people,2021,0.8
+Norway,NOR,Unmet need for health care,All,% of people,2022,1.2
+Norway,NOR,Unmet need for health care,All,% of people,2023,1.8
+Norway,NOR,Unmet need for health care,All,% of people,2024,1.6
+Norway,NOR,Unmet need for dental care,All,% of people,2008,5.9
+Norway,NOR,Unmet need for dental care,All,% of people,2009,6.8
+Norway,NOR,Unmet need for dental care,All,% of people,2010,5.8
+Norway,NOR,Unmet need for dental care,All,% of people,2011,5.3
+Norway,NOR,Unmet need for dental care,All,% of people,2012,5.2
+Norway,NOR,Unmet need for dental care,All,% of people,2013,5.5
+Norway,NOR,Unmet need for dental care,All,% of people,2014,3.3
+Norway,NOR,Unmet need for dental care,All,% of people,2015,4.2
+Norway,NOR,Unmet need for dental care,All,% of people,2016,3.6
+Norway,NOR,Unmet need for dental care,All,% of people,2017,4.5
+Norway,NOR,Unmet need for dental care,All,% of people,2018,4.5
+Norway,NOR,Unmet need for dental care,All,% of people,2019,5.8
+Norway,NOR,Unmet need for dental care,All,% of people,2020,4.9
+Norway,NOR,Unmet need for dental care,All,% of people,2021,3.8
+Norway,NOR,Unmet need for dental care,All,% of people,2022,5.4
+Norway,NOR,Unmet need for dental care,All,% of people,2023,7.5
+Norway,NOR,Unmet need for dental care,All,% of people,2024,7.4
+Norway,NOR,Unmet need for prescribed medicines due to cost,All,% of people needing care,2014,3.2
+Norway,NOR,Unmet need for prescribed medicines due to cost,All,% of people needing care,2019,4.3
+Norway,NOR,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2000,17.94
+Norway,NOR,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2001,16.96
+Norway,NOR,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2002,16.83
+Norway,NOR,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2003,16.6
+Norway,NOR,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2004,16.76
+Norway,NOR,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2005,16.71
+Norway,NOR,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2006,16.45
+Norway,NOR,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2007,16.07
+Norway,NOR,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2008,15.66
+Norway,NOR,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2009,15.25
+Norway,NOR,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2010,15.05
+Norway,NOR,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2011,15.21
+Norway,NOR,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2012,14.8
+Norway,NOR,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2013,14.59
+Norway,NOR,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2014,14.38
+Norway,NOR,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2015,14.14
+Norway,NOR,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2016,14.27
+Norway,NOR,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2017,14.51
+Norway,NOR,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2018,13.97
+Norway,NOR,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2019,13.92
+Norway,NOR,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2020,13.79
+Norway,NOR,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2021,13.85
+Norway,NOR,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2022,14.08
+Norway,NOR,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2023,13.69
+Norway,NOR,Out-of-pocket payments as a share of household spending,All,% of household consumption,2012,3.16
+Norway,NOR,Out-of-pocket payments as a share of household spending,All,% of household consumption,2022,2.81
+Norway,NOR,Public spending on health as a share of GDP,All,% of GDP,2000,6.29
+Norway,NOR,Public spending on health as a share of GDP,All,% of GDP,2001,6.63
+Norway,NOR,Public spending on health as a share of GDP,All,% of GDP,2002,7.45
+Norway,NOR,Public spending on health as a share of GDP,All,% of GDP,2003,7.65
+Norway,NOR,Public spending on health as a share of GDP,All,% of GDP,2004,7.3
+Norway,NOR,Public spending on health as a share of GDP,All,% of GDP,2005,6.89
+Norway,NOR,Public spending on health as a share of GDP,All,% of GDP,2006,6.57
+Norway,NOR,Public spending on health as a share of GDP,All,% of GDP,2007,6.71
+Norway,NOR,Public spending on health as a share of GDP,All,% of GDP,2008,6.66
+Norway,NOR,Public spending on health as a share of GDP,All,% of GDP,2009,7.63
+Norway,NOR,Public spending on health as a share of GDP,All,% of GDP,2010,7.5
+Norway,NOR,Public spending on health as a share of GDP,All,% of GDP,2011,7.37
+Norway,NOR,Public spending on health as a share of GDP,All,% of GDP,2012,7.39
+Norway,NOR,Public spending on health as a share of GDP,All,% of GDP,2013,7.55
+Norway,NOR,Public spending on health as a share of GDP,All,% of GDP,2014,7.92
+Norway,NOR,Public spending on health as a share of GDP,All,% of GDP,2015,8.61
+Norway,NOR,Public spending on health as a share of GDP,All,% of GDP,2016,8.99
+Norway,NOR,Public spending on health as a share of GDP,All,% of GDP,2017,8.71
+Norway,NOR,Public spending on health as a share of GDP,All,% of GDP,2018,8.54
+Norway,NOR,Public spending on health as a share of GDP,All,% of GDP,2019,8.95
+Norway,NOR,Public spending on health as a share of GDP,All,% of GDP,2020,9.82
+Norway,NOR,Public spending on health as a share of GDP,All,% of GDP,2021,8.43
+Norway,NOR,Public spending on health as a share of GDP,All,% of GDP,2022,6.78
+Norway,NOR,Public spending on health as a share of GDP,All,% of GDP,2023,8.12
+Norway,NOR,Public spending on health as a share of government spending,All,% of government spending,2000,14.85
+Norway,NOR,Public spending on health as a share of government spending,All,% of government spending,2001,15.03
+Norway,NOR,Public spending on health as a share of government spending,All,% of government spending,2002,15.81
+Norway,NOR,Public spending on health as a share of government spending,All,% of government spending,2003,15.86
+Norway,NOR,Public spending on health as a share of government spending,All,% of government spending,2004,16.12
+Norway,NOR,Public spending on health as a share of government spending,All,% of government spending,2005,16.28
+Norway,NOR,Public spending on health as a share of government spending,All,% of government spending,2006,16.01
+Norway,NOR,Public spending on health as a share of government spending,All,% of government spending,2007,16.14
+Norway,NOR,Public spending on health as a share of government spending,All,% of government spending,2008,16.51
+Norway,NOR,Public spending on health as a share of government spending,All,% of government spending,2009,16.48
+Norway,NOR,Public spending on health as a share of government spending,All,% of government spending,2010,16.61
+Norway,NOR,Public spending on health as a share of government spending,All,% of government spending,2011,16.79
+Norway,NOR,Public spending on health as a share of government spending,All,% of government spending,2012,17.18
+Norway,NOR,Public spending on health as a share of government spending,All,% of government spending,2013,17.1
+Norway,NOR,Public spending on health as a share of government spending,All,% of government spending,2014,17.23
+Norway,NOR,Public spending on health as a share of government spending,All,% of government spending,2015,17.58
+Norway,NOR,Public spending on health as a share of government spending,All,% of government spending,2016,17.55
+Norway,NOR,Public spending on health as a share of government spending,All,% of government spending,2017,17.4
+Norway,NOR,Public spending on health as a share of government spending,All,% of government spending,2018,17.6
+Norway,NOR,Public spending on health as a share of government spending,All,% of government spending,2019,17.52
+Norway,NOR,Public spending on health as a share of government spending,All,% of government spending,2020,17.05
+Norway,NOR,Public spending on health as a share of government spending,All,% of government spending,2021,17.91
+Norway,NOR,Public spending on health as a share of government spending,All,% of government spending,2022,17.76
+Norway,NOR,Public spending on health as a share of government spending,All,% of government spending,2023,17.37
+Norway,NOR,Public spending as a share of current spending on health,All,% of current spending on health,2000,81.68
+Norway,NOR,Public spending as a share of current spending on health,All,% of current spending on health,2001,82.8
+Norway,NOR,Public spending as a share of current spending on health,All,% of current spending on health,2002,82.88
+Norway,NOR,Public spending as a share of current spending on health,All,% of current spending on health,2003,83.17
+Norway,NOR,Public spending as a share of current spending on health,All,% of current spending on health,2004,83.02
+Norway,NOR,Public spending as a share of current spending on health,All,% of current spending on health,2005,83.05
+Norway,NOR,Public spending as a share of current spending on health,All,% of current spending on health,2006,83.34
+Norway,NOR,Public spending as a share of current spending on health,All,% of current spending on health,2007,83.7
+Norway,NOR,Public spending as a share of current spending on health,All,% of current spending on health,2008,84.13
+Norway,NOR,Public spending as a share of current spending on health,All,% of current spending on health,2009,84.44
+Norway,NOR,Public spending as a share of current spending on health,All,% of current spending on health,2010,84.68
+Norway,NOR,Public spending as a share of current spending on health,All,% of current spending on health,2011,84.42
+Norway,NOR,Public spending as a share of current spending on health,All,% of current spending on health,2012,84.76
+Norway,NOR,Public spending as a share of current spending on health,All,% of current spending on health,2013,85.02
+Norway,NOR,Public spending as a share of current spending on health,All,% of current spending on health,2014,85.29
+Norway,NOR,Public spending as a share of current spending on health,All,% of current spending on health,2015,85.51
+Norway,NOR,Public spending as a share of current spending on health,All,% of current spending on health,2016,85.38
+Norway,NOR,Public spending as a share of current spending on health,All,% of current spending on health,2017,85.12
+Norway,NOR,Public spending as a share of current spending on health,All,% of current spending on health,2018,85.7
+Norway,NOR,Public spending as a share of current spending on health,All,% of current spending on health,2019,85.72
+Norway,NOR,Public spending as a share of current spending on health,All,% of current spending on health,2020,85.97
+Norway,NOR,Public spending as a share of current spending on health,All,% of current spending on health,2021,85.9
+Norway,NOR,Public spending as a share of current spending on health,All,% of current spending on health,2022,85.68
+Norway,NOR,Public spending as a share of current spending on health,All,% of current spending on health,2023,86.11
+Norway,NOR,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2018,0
+Norway,NOR,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2019,0
+Norway,NOR,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2020,0
+Norway,NOR,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2021,0
+Norway,NOR,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2022,0
+Norway,NOR,Population entitled to publicly financed health care,All,% of the population,2000,100
+Norway,NOR,Population entitled to publicly financed health care,All,% of the population,2001,100
+Norway,NOR,Population entitled to publicly financed health care,All,% of the population,2002,100
+Norway,NOR,Population entitled to publicly financed health care,All,% of the population,2003,100
+Norway,NOR,Population entitled to publicly financed health care,All,% of the population,2004,100
+Norway,NOR,Population entitled to publicly financed health care,All,% of the population,2005,100
+Norway,NOR,Population entitled to publicly financed health care,All,% of the population,2006,100
+Norway,NOR,Population entitled to publicly financed health care,All,% of the population,2007,100
+Norway,NOR,Population entitled to publicly financed health care,All,% of the population,2008,100
+Norway,NOR,Population entitled to publicly financed health care,All,% of the population,2009,100
+Norway,NOR,Population entitled to publicly financed health care,All,% of the population,2010,100
+Norway,NOR,Population entitled to publicly financed health care,All,% of the population,2011,100
+Norway,NOR,Population entitled to publicly financed health care,All,% of the population,2012,100
+Norway,NOR,Population entitled to publicly financed health care,All,% of the population,2013,100
+Norway,NOR,Population entitled to publicly financed health care,All,% of the population,2014,100
+Norway,NOR,Population entitled to publicly financed health care,All,% of the population,2015,100
+Norway,NOR,Population entitled to publicly financed health care,All,% of the population,2016,100
+Norway,NOR,Population entitled to publicly financed health care,All,% of the population,2017,100
+Norway,NOR,Population entitled to publicly financed health care,All,% of the population,2018,100
+Norway,NOR,Population entitled to publicly financed health care,All,% of the population,2019,100
+Norway,NOR,Population entitled to publicly financed health care,All,% of the population,2020,100
+Norway,NOR,Population entitled to publicly financed health care,All,% of the population,2021,100
+Norway,NOR,Population entitled to publicly financed health care,All,% of the population,2022,100
+Norway,NOR,Population entitled to publicly financed health care,All,% of the population,2023,100
+Norway,NOR,Population entitled to publicly financed health care,All,% of the population,2024,100
+Norway,NOR,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2012,9.75
+Norway,NOR,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2022,6.45
+Norway,NOR,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2012,2.55
+Norway,NOR,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2022,2.75
+Norway,NOR,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2012,1.05
+Norway,NOR,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2022,1.75
+Norway,NOR,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2012,1.15
+Norway,NOR,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2022,1.9
+Norway,NOR,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2012,1.35
+Norway,NOR,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2022,2.7
+Norway,NOR,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2012,8.1
+Norway,NOR,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2022,9.06
+Norway,NOR,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2012,12.63
+Norway,NOR,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2022,46.7
+Norway,NOR,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2012,5.95
+Norway,NOR,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2022,14.48
+Norway,NOR,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2012,67.65
+Norway,NOR,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2022,29.57
+Norway,NOR,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2012,3.49
+Norway,NOR,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2022,0.2
+Norway,NOR,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2012,2.17
+Norway,NOR,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2022,0
+Norway,NOR,Share of Impoverished households (all households),All,%,2012,0.21
+Norway,NOR,Share of Impoverished households (all households),All,%,2022,0.22
+Norway,NOR,Share of further impoverished households (total),All,%,2012,1.03
+Norway,NOR,Share of further impoverished households (total),All,%,2022,0.68
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2008,2
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2009,2.2
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2010,2.3
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2011,2.7
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2012,3.2
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2013,2.6
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2014,1.7
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2015,1.9
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2016,2.4
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2017,2.7
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2018,2.5
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2019,2
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2020,1.4
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2021,1.9
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2022,2.1
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2023,4.9
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2024,4.3
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2008,1.1
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2009,0.9
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2010,0.7
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2011,1.4
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2012,0.9
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2013,1
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2014,0.5
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2015,0.7
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2016,0.4
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2017,0.7
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2018,0.6
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2019,0.3
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2020,0.7
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2021,0.7
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2022,0.7
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2023,0.6
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2024,0.5
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2008,11.2
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2009,12.8
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2010,11.8
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2011,10.6
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2012,11.9
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2013,13
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2014,9.3
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2015,12
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2016,10.2
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2017,10.5
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2018,12.1
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2019,12.1
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2020,11.9
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2021,7.8
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2022,10.9
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2023,15.9
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2024,14.5
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2008,2.9
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2009,2.4
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2010,2.6
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2011,2
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2012,1.9
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2013,2
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2014,0.4
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2015,0.8
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2016,0.5
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2017,0.5
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2018,0.2
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2019,1
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2020,0.8
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2021,1
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2022,1.5
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2023,2.3
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2024,1.3
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2008,1.9
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2009,1.9
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2010,1.5
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2011,2.4
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2012,2
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2013,1.6
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2014,0.6
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2015,0.8
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2016,1.1
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2017,1.6
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2018,2.3
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2019,1.6
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2020,1.5
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2021,0.7
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2022,1.5
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2023,2.6
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2024,2.9
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2008,1.3
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2009,0.3
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2010,0.4
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2011,0.6
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2012,0.3
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2013,1.2
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2014,0.6
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2015,0.5
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2016,1.1
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2017,0.6
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2018,1
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2019,0.3
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2020,0.4
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2021,0.4
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2022,0.4
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2023,0.6
+Norway,NOR,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2024,0.2
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2008,9.9
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2009,9.9
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2010,7.9
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2011,7.5
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2012,6.1
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2013,7.4
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2014,4.9
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2015,4.9
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2016,4.2
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2017,4.4
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2018,4.8
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2019,6
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2020,5.4
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2021,3.3
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2022,4.3
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2023,5.8
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2024,3.7
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2008,1.7
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2009,1.6
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2010,1.9
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2011,1.6
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2012,1.4
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2013,1.9
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2014,1
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2015,1.7
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2016,1.5
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2017,1.7
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2018,0.9
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2019,2.1
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2020,1.3
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2021,0.7
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2022,1.7
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2023,2.8
+Norway,NOR,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2024,2.7
+Norway,NOR,Self-reported unmet need for prescribed medicines due to cost (poorest),All,%,2019,9.5
+Norway,NOR,Self-reported unmet need for prescribed medicines due to cost (richest),All,%,2019,0.9
+Norway,NOR,Self-reported unmet need for prescribed medicines due to cost (<25 years),All,%,2014,3.7
+Norway,NOR,Self-reported unmet need for prescribed medicines due to cost (<25 years),All,%,2019,4.6
+Norway,NOR,Self-reported unmet need for prescribed medicines due to cost (65+ years),All,%,2014,0.7
+Norway,NOR,Self-reported unmet need for prescribed medicines due to cost (65+ years),All,%,2019,0.6
+Norway,NOR,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2012,3.25
+Norway,NOR,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2022,1.65
+Norway,NOR,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2012,2.97
+Norway,NOR,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2022,2.39
+Norway,NOR,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2012,3.03
+Norway,NOR,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2022,2.53
+Norway,NOR,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2012,3.21
+Norway,NOR,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2022,3
+Norway,NOR,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2012,3.23
+Norway,NOR,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2022,3.37
+Norway,NOR,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2012,28.81
+Norway,NOR,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2022,28.8
+Norway,NOR,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2012,15.98
+Norway,NOR,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2022,26.38
+Norway,NOR,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2012,14.86
+Norway,NOR,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2022,23.41
+Norway,NOR,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2012,30.26
+Norway,NOR,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2022,20.58
+Norway,NOR,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2012,6.32
+Norway,NOR,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2022,0.83
+Norway,NOR,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2012,3.77
+Norway,NOR,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2022,0

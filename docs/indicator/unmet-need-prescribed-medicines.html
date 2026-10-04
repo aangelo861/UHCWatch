@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en" class="app-html">
+<head>
+  <meta charset="utf-8">
+  <title>Unmet need for prescribed medicines due to cost – UHC Watch dashboards</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#005eb8">
+  <meta name="description" content="People aged 15 and over who needed a prescribed medicine but could not afford it, as a share of people reporting a need for care. Surveyed in 2014 and 2019 only.">
+  <link rel="icon" href="../assets/images/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="../stylesheets/app.css?v=bf77a4fccd">
+</head>
+<body class="app-body" data-root="../">
+<script>document.body.className += ' js-enabled' + ('noModule' in HTMLScriptElement.prototype ? ' nhsuk-frontend-supported' : '');</script>
+<a class="nhsuk-skip-link" href="#maincontent" data-module="nhsuk-skip-link">Skip to main content</a>
+<header class="nhsuk-header nhsuk-header--white nhsuk-header--organisation app-header" role="banner" data-module="nhsuk-header">
+  <div class="nhsuk-header__container nhsuk-width-container">
+    <div class="nhsuk-header__service">
+      <a class="nhsuk-header__service-logo app-header__brand" href="../index.html" aria-label="UHC Watch dashboards homepage">
+        <img class="app-header__mark" src="../assets/images/mark.svg" width="44" height="44" alt="">
+        <span class="app-header__names"><span class="app-header__service-name">UHC Watch dashboards</span><span class="app-header__service-descriptor">Can people afford health care? Europe and central Asia</span></span>
+      </a>
+    </div>
+  </div>
+  <nav class="nhsuk-header__navigation nhsuk-header__navigation--white app-header__nav" aria-label="Menu">
+    <div class="nhsuk-header__navigation-container nhsuk-width-container">
+      <ul class="nhsuk-header__navigation-list">
+          <li class="nhsuk-header__navigation-item"><a class="nhsuk-header__navigation-link" href="../index.html">Where do I start?</a></li>
+          <li class="nhsuk-header__navigation-item"><a class="nhsuk-header__navigation-link" href="../countries.html">Countries</a></li>
+          <li class="nhsuk-header__navigation-item nhsuk-header__navigation-item--current"><a class="nhsuk-header__navigation-link" href="../indicators.html" aria-current="page"><strong class="nhsuk-header__navigation-item-current-fallback">Indicators</strong></a></li>
+          <li class="nhsuk-header__navigation-item"><a class="nhsuk-header__navigation-link" href="../compare.html">Compare countries</a></li>
+          <li class="nhsuk-header__navigation-item"><a class="nhsuk-header__navigation-link" href="../about.html">About the data</a></li>
+        <li class="nhsuk-header__menu" hidden>
+          <button class="nhsuk-header__menu-toggle nhsuk-header__navigation-link" id="toggle-menu" aria-expanded="false"><span class="nhsuk-u-visually-hidden">Browse </span>More</button>
+        </li>
+      </ul>
+    </div>
+  </nav>
+</header>
+<div class="app-status" role="note" aria-label="Status of this site">
+  <div class="nhsuk-width-container">
+    <p class="app-status__text"><strong class="nhsuk-tag app-status__tag">Unofficial</strong> <span class="app-status__label">Not a WHO product.</span> <span class="app-status__scope">Data read from WHO/Europe UHC Watch on 4 October 2026.</span></p>
+  </div>
+</div>
+<div class="nhsuk-width-container">
+  <nav class="nhsuk-breadcrumb" aria-label="Breadcrumb">
+  <ol class="nhsuk-breadcrumb__list">
+    <li class="nhsuk-breadcrumb__list-item"><a class="nhsuk-breadcrumb__link" href="../indicators.html">Indicators</a></li>
+  </ol>
+  <a class="nhsuk-back-link" href="../indicators.html"><span class="nhsuk-u-visually-hidden">Back to </span>Indicators</a>
+</nav>
+
+  <main class="nhsuk-main-wrapper app-main" id="maincontent">
+    <div class="app-content">
+<h1 class="nhsuk-heading-l"><span class="app-page-caption">Unmet need</span>Unmet need for prescribed medicines due to cost</h1>
+<p class="app-lead">People aged 15 and over who needed a prescribed medicine but could not afford it, as a share of people reporting a need for care. Surveyed in 2014 and 2019 only.</p>
+<p><strong>Lower is better.</strong></p>
+
+<form class="app-picker">
+  <div class="nhsuk-form-group">
+    <label class="nhsuk-label nhsuk-label--s" for="focus">Put a country in focus</label>
+    <select class="nhsuk-select app-picker__control" id="focus" data-focus-select>
+      <option value="">No country</option>
+      <option value="AUT">Austria</option>
+      <option value="BGR">Bulgaria</option>
+      <option value="HRV">Croatia</option>
+      <option value="CYP">Cyprus</option>
+      <option value="CZE">Czechia</option>
+      <option value="DNK">Denmark</option>
+      <option value="EST">Estonia</option>
+      <option value="FIN">Finland</option>
+      <option value="FRA">France</option>
+      <option value="DEU">Germany</option>
+      <option value="GRC">Greece</option>
+      <option value="HUN">Hungary</option>
+      <option value="ISL">Iceland</option>
+      <option value="IRL">Ireland</option>
+      <option value="ITA">Italy</option>
+      <option value="LVA">Latvia</option>
+      <option value="LTU">Lithuania</option>
+      <option value="LUX">Luxembourg</option>
+      <option value="MLT">Malta</option>
+      <option value="NLD">Netherlands</option>
+      <option value="NOR">Norway</option>
+      <option value="POL">Poland</option>
+      <option value="PRT">Portugal</option>
+      <option value="ROU">Romania</option>
+      <option value="SRB">Serbia</option>
+      <option value="SVK">Slovakia</option>
+      <option value="SVN">Slovenia</option>
+      <option value="ESP">Spain</option>
+      <option value="SWE">Sweden</option>
+      <option value="TUR">Türkiye</option>
+      <option value="GBR">United Kingdom</option>
+    </select>
+  </div>
+</form>
+<p class="app-takeaway" data-focus-summary role="status" hidden></p>
+<script type="application/json" id="focus-sentences">{"CYP":"Cyprus: 1.0% of people needing care in 2019, lowest of 31 countries. Median: 4.7%.","ESP":"Spain: 1.1% of people needing care in 2019, 2nd lowest of 31 countries. Median: 4.7%.","NLD":"Netherlands: 1.3% of people needing care in 2019, joint 3rd lowest of 31 countries. Median: 4.7%.","GBR":"United Kingdom: 1.3% of people needing care in 2014, joint 3rd lowest of 31 countries. Median: 4.7%.","FRA":"France: 2.4% of people needing care in 2019, 5th lowest of 31 countries. Median: 4.7%.","MLT":"Malta: 2.6% of people needing care in 2019, 6th lowest of 31 countries. Median: 4.7%.","SVK":"Slovakia: 3.0% of people needing care in 2019, 7th lowest of 31 countries. Median: 4.7%.","CZE":"Czechia: 3.1% of people needing care in 2019, 8th lowest of 31 countries. Median: 4.7%.","AUT":"Austria: 3.2% of people needing care in 2019, 9th lowest of 31 countries. Median: 4.7%.","GRC":"Greece: 3.6% of people needing care in 2019, 10th lowest of 31 countries. Median: 4.7%.","LUX":"Luxembourg: 3.8% of people needing care in 2019, 11th lowest of 31 countries. Median: 4.7%.","EST":"Estonia: 4.1% of people needing care in 2019, 12th lowest of 31 countries. Median: 4.7%.","IRL":"Ireland: 4.3% of people needing care in 2019, joint 13th lowest of 31 countries. Median: 4.7%.","NOR":"Norway: 4.3% of people needing care in 2019, joint 13th lowest of 31 countries. Median: 4.7%.","ISL":"Iceland: 4.5% of people needing care in 2019, 15th lowest of 31 countries. Median: 4.7%.","DEU":"Germany: 4.7% of people needing care in 2019, 16th lowest of 31 countries. Median: 4.7%.","SVN":"Slovenia: 4.8% of people needing care in 2019, 15th highest of 31 countries. Median: 4.7%.","LTU":"Lithuania: 5.2% of people needing care in 2019, 14th highest of 31 countries. Median: 4.7%.","DNK":"Denmark: 5.5% of people needing care in 2019, joint 12th highest of 31 countries. Median: 4.7%.","HUN":"Hungary: 5.5% of people needing care in 2019, joint 12th highest of 31 countries. Median: 4.7%.","ITA":"Italy: 5.8% of people needing care in 2019, 11th highest of 31 countries. Median: 4.7%.","POL":"Poland: 5.9% of people needing care in 2019, 10th highest of 31 countries. Median: 4.7%.","ROU":"Romania: 6.0% of people needing care in 2019, 9th highest of 31 countries. Median: 4.7%.","TUR":"Türkiye: 6.2% of people needing care in 2019, 8th highest of 31 countries. Median: 4.7%.","PRT":"Portugal: 6.7% of people needing care in 2019, 7th highest of 31 countries. Median: 4.7%.","BGR":"Bulgaria: 7.2% of people needing care in 2019, 6th highest of 31 countries. Median: 4.7%.","FIN":"Finland: 8.1% of people needing care in 2019, 5th highest of 31 countries. Median: 4.7%.","SWE":"Sweden: 8.2% of people needing care in 2019, 4th highest of 31 countries. Median: 4.7%.","SRB":"Serbia: 9.9% of people needing care in 2019, 3rd highest of 31 countries. Median: 4.7%.","HRV":"Croatia: 10.7% of people needing care in 2019, 2nd highest of 31 countries. Median: 4.7%.","LVA":"Latvia: 11.8% of people needing care in 2019, highest of 31 countries. Median: 4.7%."}</script>
+
+<h2 class="nhsuk-heading-m">Latest figure for each country</h2>
+<p>31 countries, lowest first. The year of each figure is under the country name (2014 to 2019).</p>
+
+<p class="app-bars__reference"><span class="app-bars__reference-key" aria-hidden="true"></span>Median of 31 countries: 4.7%</p>
+<ol class="app-bars app-bars--reference" data-focusable aria-label="Unmet need for prescribed medicines due to cost, latest year, lowest first" style="--ref:39.83%">
+  <li class="app-bars__row" data-iso="CYP">
+    <span class="app-bars__label"><a href="../country/cyprus.html">Cyprus</a> <span class="app-bars__note">2019</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:8.47%"></span></span>
+    <span class="app-bars__value">1.0</span>
+  </li>
+  <li class="app-bars__row" data-iso="ESP">
+    <span class="app-bars__label"><a href="../country/spain.html">Spain</a> <span class="app-bars__note">2019</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:9.32%"></span></span>
+    <span class="app-bars__value">1.1</span>
+  </li>
+  <li class="app-bars__row" data-iso="NLD">
+    <span class="app-bars__label"><a href="../country/netherlands.html">Netherlands</a> <span class="app-bars__note">2019</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:11.02%"></span></span>
+    <span class="app-bars__value">1.3</span>
+  </li>
+  <li class="app-bars__row" data-iso="GBR">
+    <span class="app-bars__label"><a href="../country/united-kingdom.html">United Kingdom</a> <span class="app-bars__note">2014</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:11.02%"></span></span>
+    <span class="app-bars__value">1.3</span>
+  </li>
+  <li class="app-bars__row" data-iso="FRA">
+    <span class="app-bars__label"><a href="../country/france.html">France</a> <span class="app-bars__note">2019</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:20.34%"></span></span>
+    <span class="app-bars__value">2.4</span>
+  </li>
+  <li class="app-bars__row" data-iso="MLT">
+    <span class="app-bars__label"><a href="../country/malta.html">Malta</a> <span class="app-bars__note">2019</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:22.03%"></span></span>
+    <span class="app-bars__value">2.6</span>
+  </li>
+  <li class="app-bars__row" data-iso="SVK">
+    <span class="app-bars__label"><a href="../country/slovakia.html">Slovakia</a> <span class="app-bars__note">2019</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:25.42%"></span></span>
+    <span class="app-bars__value">3.0</span>
+  </li>
+  <li class="app-bars__row" data-iso="CZE">
+    <span class="app-bars__label"><a href="../country/czechia.html">Czechia</a> <span class="app-bars__note">2019</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:26.27%"></span></span>
+    <span class="app-bars__value">3.1</span>
+  </li>
+  <li class="app-bars__row" data-iso="AUT">
+    <span class="app-bars__label"><a href="../country/austria.html">Austria</a> <span class="app-bars__note">2019</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:27.12%"></span></span>
+    <span class="app-bars__value">3.2</span>
+  </li>
+  <li class="app-bars__row" data-iso="GRC">
+    <span class="app-bars__label"><a href="../country/greece.html">Greece</a> <span class="app-bars__note">2019</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:30.51%"></span></span>
+    <span class="app-bars__value">3.6</span>
+  </li>
+  <li class="app-bars__row" data-iso="LUX">
+    <span class="app-bars__label"><a href="../country/luxembourg.html">Luxembourg</a> <span class="app-bars__note">2019</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:32.20%"></span></span>
+    <span class="app-bars__value">3.8</span>
+  </li>
+  <li class="app-bars__row" data-iso="EST">
+    <span class="app-bars__label"><a href="../country/estonia.html">Estonia</a> <span class="app-bars__note">2019</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:34.75%"></span></span>
+    <span class="app-bars__value">4.1</span>
+  </li>
+  <li class="app-bars__row" data-iso="IRL">
+    <span class="app-bars__label"><a href="../country/ireland.html">Ireland</a> <span class="app-bars__note">2019</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:36.44%"></span></span>
+    <span class="app-bars__value">4.3</span>
+  </li>
+  <li class="app-bars__row" data-iso="NOR">
+    <span class="app-bars__label"><a href="../country/norway.html">Norway</a> <span class="app-bars__note">2019</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:36.44%"></span></span>
+    <span class="app-bars__value">4.3</span>
+  </li>
+  <li class="app-bars__row" data-iso="ISL">
+    <span class="app-bars__label"><a href="../country/iceland.html">Iceland</a> <span class="app-bars__note">2019</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:38.14%"></span></span>
+    <span class="app-bars__value">4.5</span>
+  </li>
+  <li class="app-bars__row" data-iso="DEU">
+    <span class="app-bars__label"><a href="../country/germany.html">Germany</a> <span class="app-bars__note">2019</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:39.83%"></span></span>
+    <span class="app-bars__value">4.7</span>
+  </li>
+  <li class="app-bars__row" data-iso="SVN">
+    <span class="app-bars__label"><a href="../country/slovenia.html">Slovenia</a> <span class="app-bars__note">2019</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:40.68%"></span></span>
+    <span class="app-bars__value">4.8</span>
+  </li>
+  <li class="app-bars__row" data-iso="LTU">
+    <span class="app-bars__label"><a href="../country/lithuania.html">Lithuania</a> <span class="app-bars__note">2019</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:44.07%"></span></span>
+    <span class="app-bars__value">5.2</span>
+  </li>
+  <li class="app-bars__row" data-iso="DNK">
+    <span class="app-bars__label"><a href="../country/denmark.html">Denmark</a> <span class="app-bars__note">2019</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:46.61%"></span></span>
+    <span class="app-bars__value">5.5</span>
+  </li>
+  <li class="app-bars__row" data-iso="HUN">
+    <span class="app-bars__label"><a href="../country/hungary.html">Hungary</a> <span class="app-bars__note">2019</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:46.61%"></span></span>
+    <span class="app-bars__value">5.5</span>
+  </li>
+  <li class="app-bars__row" data-iso="ITA">
+    <span class="app-bars__label"><a href="../country/italy.html">Italy</a> <span class="app-bars__note">2019</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:49.15%"></span></span>
+    <span class="app-bars__value">5.8</span>
+  </li>
+  <li class="app-bars__row" data-iso="POL">
+    <span class="app-bars__label"><a href="../country/poland.html">Poland</a> <span class="app-bars__note">2019</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:50.00%"></span></span>
+    <span class="app-bars__value">5.9</span>
+  </li>
+  <li class="app-bars__row" data-iso="ROU">
+    <span class="app-bars__label"><a href="../country/romania.html">Romania</a> <span class="app-bars__note">2019</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:50.85%"></span></span>
+    <span class="app-bars__value">6.0</span>
+  </li>
+  <li class="app-bars__row" data-iso="TUR">
+    <span class="app-bars__label"><a href="../country/turkiye.html">Türkiye</a> <span class="app-bars__note">2019</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:52.54%"></span></span>
+    <span class="app-bars__value">6.2</span>
+  </li>
+  <li class="app-bars__row" data-iso="PRT">
+    <span class="app-bars__label"><a href="../country/portugal.html">Portugal</a> <span class="app-bars__note">2019</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:56.78%"></span></span>
+    <span class="app-bars__value">6.7</span>
+  </li>
+  <li class="app-bars__row" data-iso="BGR">
+    <span class="app-bars__label"><a href="../country/bulgaria.html">Bulgaria</a> <span class="app-bars__note">2019</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:61.02%"></span></span>
+    <span class="app-bars__value">7.2</span>
+  </li>
+  <li class="app-bars__row" data-iso="FIN">
+    <span class="app-bars__label"><a href="../country/finland.html">Finland</a> <span class="app-bars__note">2019</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:68.64%"></span></span>
+    <span class="app-bars__value">8.1</span>
+  </li>
+  <li class="app-bars__row" data-iso="SWE">
+    <span class="app-bars__label"><a href="../country/sweden.html">Sweden</a> <span class="app-bars__note">2019</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:69.49%"></span></span>
+    <span class="app-bars__value">8.2</span>
+  </li>
+  <li class="app-bars__row" data-iso="SRB">
+    <span class="app-bars__label"><a href="../country/serbia.html">Serbia</a> <span class="app-bars__note">2019</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:83.90%"></span></span>
+    <span class="app-bars__value">9.9</span>
+  </li>
+  <li class="app-bars__row" data-iso="HRV">
+    <span class="app-bars__label"><a href="../country/croatia.html">Croatia</a> <span class="app-bars__note">2019</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:90.68%"></span></span>
+    <span class="app-bars__value">10.7</span>
+  </li>
+  <li class="app-bars__row" data-iso="LVA">
+    <span class="app-bars__label"><a href="../country/latvia.html">Latvia</a> <span class="app-bars__note">2019</span></span>
+    <span class="app-bars__track"><span class="app-bars__bar" style="width:100.00%"></span></span>
+    <span class="app-bars__value">11.8</span>
+  </li>
+</ol>
+
+
+<h2 class="nhsuk-heading-m">Change over time</h2>
+<figure class="app-chart">
+  <figcaption class="app-chart__caption">
+    <h3 class="app-chart__title">Unmet need for prescribed medicines due to cost, every country</h3>
+    <p class="app-chart__unit">% of people needing care</p>
+  </figcaption>
+  <ul class="app-legend" aria-label="Series">
+    <li class="app-legend__item" data-focus-legend hidden><span class="app-legend__key" style="--c:#005eb8" aria-hidden="true"></span><span data-focus-name></span></li>
+    
+    <li class="app-legend__item"><span class="app-legend__key app-legend__key--context" style="--c:#aeb7bd" aria-hidden="true"></span>Each other country</li>
+  </ul>
+  <div class="app-chart__plot" data-chart tabindex="0" role="img" aria-label="Unmet need for prescribed medicines due to cost over time, one line per country. The figures are in the CSV download below."></div>
+  <script type="application/json" class="app-chart__data">{"kind":"focus","unit":"% of people needing care","countries":[{"iso":"AUT","name":"Austria","points":[[2014,2.2],[2019,3.2]],"comparable":true},{"iso":"BGR","name":"Bulgaria","points":[[2014,9.6],[2019,7.2]],"comparable":true},{"iso":"HRV","name":"Croatia","points":[[2014,5.7],[2019,10.7]],"comparable":true},{"iso":"CYP","name":"Cyprus","points":[[2014,2],[2019,1]],"comparable":true},{"iso":"CZE","name":"Czechia","points":[[2014,3.2],[2019,3.1]],"comparable":true},{"iso":"DNK","name":"Denmark","points":[[2014,4.4],[2019,5.5]],"comparable":true},{"iso":"EST","name":"Estonia","points":[[2014,6.6],[2019,4.1]],"comparable":true},{"iso":"FIN","name":"Finland","points":[[2014,10.6],[2019,8.1]],"comparable":true},{"iso":"FRA","name":"France","points":[[2019,2.4]],"comparable":true},{"iso":"DEU","name":"Germany","points":[[2014,3.7],[2019,4.7]],"comparable":true},{"iso":"GRC","name":"Greece","points":[[2014,14.9],[2019,3.6]],"comparable":true},{"iso":"HUN","name":"Hungary","points":[[2014,5.9],[2019,5.5]],"comparable":true},{"iso":"ISL","name":"Iceland","points":[[2014,9.5],[2019,4.5]],"comparable":true},{"iso":"IRL","name":"Ireland","points":[[2014,19.4],[2019,4.3]],"comparable":true},{"iso":"ITA","name":"Italy","points":[[2014,7.2],[2019,5.8]],"comparable":true},{"iso":"LVA","name":"Latvia","points":[[2014,17.3],[2019,11.8]],"comparable":true},{"iso":"LTU","name":"Lithuania","points":[[2014,3.8],[2019,5.2]],"comparable":true},{"iso":"LUX","name":"Luxembourg","points":[[2014,6.9],[2019,3.8]],"comparable":true},{"iso":"MLT","name":"Malta","points":[[2014,3.4],[2019,2.6]],"comparable":true},{"iso":"NLD","name":"Netherlands","points":[[2014,1.9],[2019,1.3]],"comparable":true},{"iso":"NOR","name":"Norway","points":[[2014,3.2],[2019,4.3]],"comparable":true},{"iso":"POL","name":"Poland","points":[[2014,9.4],[2019,5.9]],"comparable":true},{"iso":"PRT","name":"Portugal","points":[[2014,10],[2019,6.7]],"comparable":true},{"iso":"ROU","name":"Romania","points":[[2014,6.7],[2019,6]],"comparable":true},{"iso":"SRB","name":"Serbia","points":[[2019,9.9]],"comparable":true},{"iso":"SVK","name":"Slovakia","points":[[2014,4.3],[2019,3]],"comparable":true},{"iso":"SVN","name":"Slovenia","points":[[2014,5.8],[2019,4.8]],"comparable":true},{"iso":"ESP","name":"Spain","points":[[2014,3.2],[2019,1.1]],"comparable":true},{"iso":"SWE","name":"Sweden","points":[[2014,4.5],[2019,8.2]],"comparable":true},{"iso":"TUR","name":"Türkiye","points":[[2014,11.5],[2019,6.2]],"comparable":true},{"iso":"GBR","name":"United Kingdom","points":[[2014,1.3]],"comparable":true}],"median":[],"focus":null}</script>
+  <p class="app-chart__note">Countries run their surveys in different years, so there is no median line: too few countries report in any one year.</p>
+  <p class="app-chart__source">Source: Eurostat, European health interview survey (EHIS), through UHC Watch. <a href="../data/indicator/unmet-need-prescribed-medicines.csv" download>Download every year for every country (CSV)</a></p>
+</figure>
+<details class="nhsuk-details">
+  <summary class="nhsuk-details__summary"><span class="nhsuk-details__summary-text">UHC Watch’s note on this indicator</span></summary>
+  <div class="nhsuk-details__text">
+<div class="app-quoted"><p>The denominator shown here is people aged 15 and over reporting a need for care.</p>
+<p>Source: Eurostat (EHIS).</p>
+</div>
+  </div>
+</details>
+
+
+<div class="app-source" id="source">
+  <h2 class="nhsuk-heading-s">Sources</h2>
+  <ul class="nhsuk-list">
+    <li>Eurostat, European health interview survey (EHIS), published by <a href="https://apps.who.int/dhis2/uhcwatch/indicator-explorer">UHC Watch</a>, WHO Regional Office for Europe. Data read on 4 October 2026.</li>
+    <li><a href="../about.html">About the data: how figures are chosen, ranked and compared</a></li>
+  </ul>
+</div>
+
+<nav class="nhsuk-pagination" role="navigation" aria-label="Pagination">
+  <ul class="nhsuk-list nhsuk-pagination__list">
+  <li class="nhsuk-pagination-item--previous">
+    <a class="nhsuk-pagination__link nhsuk-pagination__link--prev" href="unmet-need-dental-care.html" rel="prev">
+      <span class="nhsuk-pagination__title">Previous<span class="nhsuk-u-visually-hidden"> page</span></span>
+      <span class="nhsuk-u-visually-hidden">:</span>
+      <span class="nhsuk-pagination__page">Unmet need for dental care</span>
+      <svg class="nhsuk-icon nhsuk-icon--arrow-left" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16" focusable="false" aria-hidden="true"><path d="M10.7 6.3c.4.4.4 1 0 1.4L7.4 11H19a1 1 0 0 1 0 2H7.4l3.3 3.3c.4.4.4 1 0 1.4a1 1 0 0 1-1.4 0l-5-5A1 1 0 0 1 4 12c0-.3.1-.5.3-.7l5-5a1 1 0 0 1 1.4 0Z"/></svg>
+    </a>
+  </li>
+  <li class="nhsuk-pagination-item--next">
+    <a class="nhsuk-pagination__link nhsuk-pagination__link--next" href="out-of-pocket-share-of-health-spending.html" rel="next">
+      <span class="nhsuk-pagination__title">Next<span class="nhsuk-u-visually-hidden"> page</span></span>
+      <span class="nhsuk-u-visually-hidden">:</span>
+      <span class="nhsuk-pagination__page">Out-of-pocket share of health spending</span>
+      <svg class="nhsuk-icon nhsuk-icon--arrow-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16" focusable="false" aria-hidden="true"><path d="m14.7 6.3 5 5c.2.2.3.4.3.7 0 .3-.1.5-.3.7l-5 5a1 1 0 0 1-1.4-1.4l3.3-3.3H5a1 1 0 0 1 0-2h11.6l-3.3-3.3a1 1 0 1 1 1.4-1.4Z"/></svg>
+    </a>
+  </li>
+  </ul>
+</nav>
+
+</div>
+  </main>
+</div>
+<footer class="nhsuk-footer" role="contentinfo">
+  <div class="nhsuk-width-container">
+    <div class="app-footer__brand">
+      <img class="app-footer__mark" src="../assets/images/mark.svg" width="40" height="40" alt="">
+      <p class="nhsuk-body-s app-footer__trust">UHC Watch dashboards</p>
+    </div>
+    <div class="nhsuk-footer__meta">
+      <h2 class="nhsuk-u-visually-hidden">Support links</h2>
+      <ul class="nhsuk-footer__list">
+        <li class="nhsuk-footer__list-item"><a class="nhsuk-footer__list-item-link" href="../index.html">Where do I start?</a></li>
+        <li class="nhsuk-footer__list-item"><a class="nhsuk-footer__list-item-link" href="../countries.html">Countries</a></li>
+        <li class="nhsuk-footer__list-item"><a class="nhsuk-footer__list-item-link" href="../indicators.html">Indicators</a></li>
+        <li class="nhsuk-footer__list-item"><a class="nhsuk-footer__list-item-link" href="../compare.html">Compare countries</a></li>
+        <li class="nhsuk-footer__list-item"><a class="nhsuk-footer__list-item-link" href="../about.html">About the data</a></li>
+      </ul>
+      <p class="nhsuk-body-s">Figures come from <a class="nhsuk-footer__list-item-link" href="https://apps.who.int/dhis2/uhcwatch">UHC Watch</a>, WHO Regional Office for Europe, read on 4 October 2026. This site is not produced or endorsed by WHO. Check a figure against UHC Watch before you cite it.</p>
+    </div>
+  </div>
+</footer>
+<nav class="app-bottom-bar" aria-label="Quick links">
+    <a class="app-bottom-bar__link" href="../index.html"><svg class="nhsuk-icon nhsuk-icon--list" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16" focusable="false" aria-hidden="true"><path d="M4 6h16v2H4zm0 5h16v2H4zm0 5h16v2H4z"/></svg><span class="app-bottom-bar__label">Start</span></a>
+    <a class="app-bottom-bar__link" href="../countries.html"><svg class="nhsuk-icon nhsuk-icon--globe" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16" focusable="false" aria-hidden="true"><path d="M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zm6.93 6h-2.95c-.32-1.25-.78-2.45-1.38-3.56 1.84.63 3.37 1.91 4.33 3.56zM12 4.04c.83 1.2 1.48 2.53 1.91 3.96h-3.82c.43-1.43 1.08-2.76 1.91-3.96zM4.26 14C4.1 13.36 4 12.69 4 12s.1-1.36.26-2h3.38c-.08.66-.14 1.32-.14 2 0 .68.06 1.34.14 2H4.26zm.82 2h2.95c.32 1.25.78 2.45 1.38 3.56-1.84-.63-3.37-1.9-4.33-3.56zm2.95-8H5.08c.96-1.66 2.49-2.93 4.33-3.56C8.81 5.55 8.35 6.75 8.03 8zM12 19.96c-.83-1.2-1.48-2.53-1.91-3.96h3.82c-.43 1.43-1.08 2.76-1.91 3.96zM14.34 14H9.66c-.09-.66-.16-1.32-.16-2 0-.68.07-1.35.16-2h4.68c.09.65.16 1.32.16 2 0 .68-.07 1.34-.16 2zm.25 5.56c.6-1.11 1.06-2.31 1.38-3.56h2.95c-.96 1.65-2.49 2.93-4.33 3.56zM16.36 14c.08-.66.14-1.32.14-2 0-.68-.06-1.34-.14-2h3.38c.16.64.26 1.31.26 2s-.1 1.36-.26 2h-3.38z"/></svg><span class="app-bottom-bar__label">Countries</span></a>
+    <a class="app-bottom-bar__link app-bottom-bar__link--current" href="../indicators.html" aria-current="page"><svg class="nhsuk-icon nhsuk-icon--chart" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16" focusable="false" aria-hidden="true"><path d="M4 20V11h4v9H4Zm6 0V4h4v16h-4Zm6 0v-6h4v6h-4Z"/></svg><span class="app-bottom-bar__label">Indicators</span></a>
+    <a class="app-bottom-bar__link" href="../compare.html"><svg class="nhsuk-icon nhsuk-icon--compare" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16" focusable="false" aria-hidden="true"><path d="M9 3H4v18h5V3Zm-2 16H6V5h1v14Zm8-12h5v14h-5V7Zm2 12h1V9h-1v10ZM11 1h2v22h-2V1Z"/></svg><span class="app-bottom-bar__label">Compare</span></a>
+</nav>
+<p class="app-print-footer">UHC Watch dashboards – unofficial. Data: WHO/Europe UHC Watch, read on 4 October 2026.</p>
+<script type="module">
+  import { initAll } from '../javascripts/nhsuk-frontend.min.js?v=bf77a4fccd'
+  initAll()
+</script>
+<script src="../javascripts/charts.js?v=bf77a4fccd" defer></script>
+<script src="../javascripts/app.js?v=bf77a4fccd" defer></script>
+
+</body>
+</html>

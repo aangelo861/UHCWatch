@@ -1,0 +1,1026 @@
+// UHC Watch dashboards
+// NHS design system (nhsuk-frontend) as the component foundation, with a small
+// layer of app styles for the briefing layout, key figures, charts and the
+// bottom bar. The layout follows the Delirium policy microsite.
+
+@use "nhsuk-frontend/dist/nhsuk/index" as nhsuk with (
+  // Relative to stylesheets/app.css, so icons resolve under the GitHub Pages sub-path
+  $nhsuk-assets-path: "../assets/",
+  $nhsuk-template-background-colour: #ffffff,
+  $nhsuk-body-background-colour: #ffffff,
+  // Frutiger is licensed for NHS organisations only; this is not an NHS site
+  $nhsuk-font-family: (Arial, Helvetica, sans-serif)
+);
+
+// Tokens ---------------------------------------------------------------------
+$app-amber: #ffb81c; // NHS warm yellow – caution / unofficial status
+$app-blue: #005eb8; // NHS blue – navigation, the country in focus
+$app-dark-blue: #003087;
+$app-text: #212b32;
+$app-secondary: #4c6272;
+$app-grey-2: #768692;
+$app-grey-3: #aeb7bd;
+$app-grey-4: #d8dde0;
+$app-grey-5: #f0f4f5;
+$app-bar-height: 60px;
+
+// Chart colours. Categorical order validated for colour-blind separation
+// (worst adjacent pair ΔE 16.7 protan/deutan, 17.5 normal vision, on white).
+:root {
+  --chart-1: #005eb8; // NHS blue
+  --chart-2: #ed8b00; // NHS orange
+  --chart-3: #ae2573; // NHS pink
+  --chart-4: #41b6e6; // NHS light blue
+  --chart-5: #78be20; // NHS light green
+  --chart-6: #00a499; // NHS aqua green
+  --chart-context: #{$app-grey-3};
+  --chart-grid: #{$app-grey-4};
+  --chart-axis: #{$app-grey-3};
+  --chart-muted: #{$app-secondary};
+}
+
+// Base -----------------------------------------------------------------------
+html {
+  // nhsuk only sets the family itself when it is loading Frutiger
+  font-family: Arial, Helvetica, sans-serif;
+  scroll-padding-top: 16px;
+  scroll-padding-bottom: calc(#{$app-bar-height} + 24px);
+}
+
+body {
+  background-color: #ffffff;
+}
+
+// Larger body text on phones (18px / 1.5) without touching headings.
+@include nhsuk.nhsuk-media-query($until: tablet) {
+  .app-content p,
+  .app-content li,
+  .app-content dt,
+  .app-content dd,
+  .app-content label,
+  .app-content summary,
+  .app-content .nhsuk-list,
+  .app-content .nhsuk-details__summary-text,
+  .app-content .nhsuk-inset-text,
+  .app-content .nhsuk-action-link__text,
+  .app-content .nhsuk-button,
+  .app-content .nhsuk-select {
+    font-size: 1.125rem;
+    line-height: 1.5;
+  }
+
+  .app-content .nhsuk-body-s,
+  .app-content .nhsuk-caption-l,
+  .app-content .app-nav-row__description,
+  .app-content .app-source li,
+  .app-content .nhsuk-table td,
+  .app-content .nhsuk-table th {
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+}
+
+// Space for the fixed bottom bar and the phone safe area
+@include nhsuk.nhsuk-media-query($until: desktop) {
+  body {
+    padding-bottom: calc(#{$app-bar-height} + env(safe-area-inset-bottom, 0px));
+  }
+}
+
+// Header ---------------------------------------------------------------------
+// White header with the site mark and name in place of an organisation logo.
+.app-header {
+  border-bottom: 1px solid $app-grey-4;
+
+  .app-header__brand {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    text-decoration: none;
+  }
+
+  .app-header__mark {
+    flex: none;
+    width: 44px;
+    height: 44px;
+  }
+
+  .app-header__names {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .app-header__service-name {
+    color: $app-blue;
+    font-weight: 700;
+    font-size: 1.25rem;
+    line-height: 1.25;
+  }
+
+  .app-header__brand:hover .app-header__service-name {
+    text-decoration: underline;
+  }
+
+  .app-header__service-descriptor {
+    display: none; // keep the phone header compact
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.4;
+    color: $app-secondary;
+
+    @include nhsuk.nhsuk-media-query($from: tablet) {
+      display: block;
+    }
+  }
+}
+
+// Desktop navigation only – the bottom bar covers phones and tablets.
+@include nhsuk.nhsuk-media-query($until: desktop) {
+  .app-header__nav {
+    display: none;
+  }
+}
+
+// Status strip (every page, prints) ------------------------------------------
+.app-status {
+  background-color: $app-amber;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+  color: $app-text;
+  print-color-adjust: exact;
+  -webkit-print-color-adjust: exact;
+
+  .app-status__text {
+    margin: 0;
+    padding: 8px 0;
+    font-size: 1rem;
+    line-height: 1.5;
+  }
+
+  .app-status__tag {
+    background-color: $app-text;
+    border-color: $app-text;
+    color: #ffffff;
+    margin-right: 4px;
+  }
+
+  .app-status__label {
+    font-weight: 700;
+  }
+}
+
+// Footer brand mark ----------------------------------------------------------
+.app-footer__brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.app-footer__mark {
+  width: 40px;
+  height: 40px;
+  flex: none;
+}
+
+.app-footer__trust {
+  margin: 0;
+  font-weight: 700;
+}
+
+// Layout ---------------------------------------------------------------------
+.app-main {
+  padding-top: 24px;
+}
+
+.app-content {
+  min-width: 0;
+  max-width: 44em;
+
+  &--wide {
+    max-width: none;
+  }
+}
+
+// Long URLs must wrap rather than widen the page on phones
+.app-content a {
+  overflow-wrap: break-word;
+}
+
+.app-lead {
+  font-size: 1.25rem;
+  line-height: 1.5;
+}
+
+.app-page-caption {
+  display: block;
+  color: $app-secondary;
+  font-size: 1.125rem;
+  line-height: 1.4;
+  margin-bottom: 4px;
+}
+
+// Hub ------------------------------------------------------------------------
+.app-hub__title {
+  margin-bottom: 16px;
+}
+
+.app-nav-rows__heading {
+  margin-top: 32px;
+  margin-bottom: 8px;
+}
+
+// Compact full-width navigation rows -----------------------------------------
+.app-nav-rows {
+  list-style: none;
+  margin: 0 0 24px;
+  padding: 0;
+  border-top: 1px solid $app-grey-4;
+}
+
+.app-nav-rows__item {
+  margin: 0;
+  border-bottom: 1px solid $app-grey-4;
+
+  &[hidden] {
+    display: none;
+  }
+}
+
+.app-nav-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 48px;
+  padding: 10px 4px;
+  text-decoration: none;
+  color: $app-blue;
+
+  &:hover {
+    background-color: $app-grey-5;
+    text-decoration: underline;
+  }
+
+  &:focus {
+    @include nhsuk.nhsuk-focused-text;
+  }
+
+  .nhsuk-icon {
+    width: 28px;
+    height: 28px;
+    flex: none;
+    fill: currentcolor;
+    margin-left: 12px;
+  }
+}
+
+.app-nav-row__text {
+  display: flex;
+  flex-direction: column;
+}
+
+.app-nav-row__title {
+  font-weight: 700;
+}
+
+.app-nav-row__description {
+  color: $app-secondary;
+  font-size: 1rem;
+  line-height: 1.4;
+  margin-top: 2px;
+}
+
+// Country picker and filter (label above, control and button on one row) ------
+.app-picker {
+  margin: 24px 0 8px;
+
+  .nhsuk-form-group {
+    margin-bottom: 24px;
+  }
+}
+
+.app-picker__row {
+  display: flex;
+  gap: 8px;
+  align-items: stretch;
+}
+
+// nhsuk makes selects and buttons full width on phones; on one row the
+// control takes the space and the button keeps its own width
+.app-picker .app-picker__control {
+  flex: 1 1 0;
+  width: 100%;
+  min-width: 0;
+  max-width: none;
+}
+
+.app-picker .app-picker__button {
+  flex: none;
+  width: auto;
+  margin: 0;
+}
+
+.app-filter__empty {
+  padding: 16px 4px;
+  color: $app-secondary;
+}
+
+// Collapsible blocks with blue button headings -------------------------------
+.app-reveal {
+  margin: 0 0 12px;
+}
+
+.app-reveal__summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  list-style: none;
+  cursor: pointer;
+  min-height: 56px;
+  padding: 12px 16px;
+  background-color: $app-blue;
+  color: #ffffff;
+  border-radius: 4px;
+  box-shadow: 0 4px 0 $app-dark-blue;
+
+  &::-webkit-details-marker {
+    display: none;
+  }
+
+  &::marker {
+    content: "";
+  }
+
+  &:hover {
+    background-color: $app-dark-blue;
+  }
+
+  &:focus {
+    @include nhsuk.nhsuk-focused-button;
+  }
+
+  .nhsuk-icon {
+    width: 24px;
+    height: 24px;
+    flex: none;
+    fill: currentcolor;
+    margin-left: 12px;
+    transition: transform 0.15s ease-in-out;
+  }
+}
+
+.app-reveal[open] > .app-reveal__summary {
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+
+  .nhsuk-icon {
+    transform: rotate(180deg);
+  }
+}
+
+.app-reveal__heading {
+  margin: 0;
+  color: inherit;
+  font-size: 1.125rem;
+  line-height: 1.4;
+  font-weight: 700;
+}
+
+.app-reveal__content {
+  padding: 20px 0 8px;
+
+  > :last-child {
+    margin-bottom: 0;
+  }
+}
+
+.app-reveal-group {
+  margin: 32px 0;
+}
+
+// Key figures ----------------------------------------------------------------
+.app-figures {
+  list-style: none;
+  margin: 0 0 32px;
+  padding: 0;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 12px;
+
+  @include nhsuk.nhsuk-media-query($from: tablet) {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 16px;
+  }
+}
+
+.app-figure {
+  margin: 0;
+  padding: 14px 16px 16px;
+  border: 1px solid $app-grey-4;
+  border-radius: 4px;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+}
+
+.app-content .app-figure__label {
+  font-weight: 700;
+  font-size: 1rem;
+  line-height: 1.35;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.app-content .app-figure__value {
+  margin: 6px 0 0;
+  font-size: 2.25rem;
+  line-height: 1.1;
+  font-weight: 700;
+  color: $app-text;
+}
+
+.app-figure__unit {
+  margin-left: 6px;
+  font-size: 1rem;
+  font-weight: 400;
+  color: $app-secondary;
+}
+
+.app-content .app-figure__meta,
+.app-content .app-figure__note,
+.app-content .app-figure__none {
+  margin: 4px 0 0;
+  font-size: 1rem;
+  line-height: 1.4;
+  color: $app-secondary;
+}
+
+.app-figure--empty {
+  background-color: $app-grey-5;
+}
+
+// Position between the lowest and highest country (tick = median)
+.app-strip {
+  margin-top: auto;
+  padding-top: 10px;
+}
+
+// The median's label sits over its tick, kept inside the tile at either end
+.app-strip__mid {
+  position: relative;
+  display: block;
+  height: 1.5rem;
+  font-size: 0.875rem;
+  line-height: 1.2;
+  color: $app-secondary;
+  font-variant-numeric: tabular-nums;
+
+  span {
+    position: absolute;
+    left: clamp(3.2em, var(--at), 100% - 3.2em);
+    transform: translateX(-50%);
+    white-space: nowrap;
+  }
+}
+
+.app-strip__track {
+  position: relative;
+  display: block;
+  height: 6px;
+  border-radius: 3px;
+  background-color: $app-grey-4;
+}
+
+.app-strip__median {
+  position: absolute;
+  top: -4px;
+  width: 2px;
+  height: 14px;
+  margin-left: -1px;
+  background-color: $app-grey-2;
+}
+
+.app-strip__dot {
+  position: absolute;
+  top: 50%;
+  width: 14px;
+  height: 14px;
+  margin: -7px 0 0 -7px;
+  border-radius: 50%;
+  background-color: $app-blue;
+  box-shadow: 0 0 0 2px #ffffff;
+}
+
+.app-strip__ends {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 8px;
+  font-size: 0.875rem;
+  line-height: 1.2;
+  color: $app-secondary;
+  font-variant-numeric: tabular-nums;
+}
+
+// Bars -------------------------------------------------------------------------
+// One row per item: name, bar, value. Thin bars with a rounded data end; the
+// value is always written out, so nothing depends on hover.
+.app-bars {
+  list-style: none;
+  margin: 0 0 24px;
+  padding: 0;
+  border-top: 1px solid $app-grey-4;
+}
+
+.app-bars__row {
+  display: grid;
+  grid-template-columns: minmax(0, 8.5em) minmax(0, 1fr) 2.8em;
+  align-items: center;
+  column-gap: 10px;
+  margin: 0;
+  padding: 7px 4px;
+  border-bottom: 1px solid $app-grey-4;
+
+  @include nhsuk.nhsuk-media-query($from: tablet) {
+    grid-template-columns: minmax(0, 14em) minmax(0, 1fr) 3.5em;
+  }
+
+  &:hover {
+    background-color: $app-grey-5;
+  }
+}
+
+.app-content .app-bars__label {
+  font-size: 1rem;
+  line-height: 1.3;
+}
+
+.app-bars__note {
+  display: block;
+  color: $app-secondary;
+  font-size: 0.875rem;
+}
+
+// The track fills the row's height so the median line can run unbroken from
+// row to row; the bar itself stays 12px, centred
+.app-bars__track {
+  position: relative;
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+  min-height: 12px;
+}
+
+.app-bars__bar {
+  display: block;
+  height: 12px;
+  min-width: 2px;
+  border-radius: 0 4px 4px 0;
+  background-color: var(--chart-1);
+}
+
+.app-bars__value {
+  text-align: right;
+  font-weight: 700;
+  font-size: 1rem;
+  font-variant-numeric: tabular-nums;
+}
+
+// Countries UHC Watch says cannot be compared with the others
+.app-bars__row--muted .app-bars__bar {
+  opacity: 0.45;
+}
+
+// The median, drawn through every row
+.app-bars--reference .app-bars__track::after {
+  content: "";
+  position: absolute;
+  top: -7px;
+  bottom: -8px;
+  left: var(--ref);
+  width: 2px;
+  margin-left: -1px;
+  background-color: $app-grey-2;
+}
+
+.app-content .app-bars__reference {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0 0 8px;
+  font-size: 1rem;
+  color: $app-secondary;
+}
+
+.app-bars__reference-key {
+  display: inline-block;
+  width: 2px;
+  height: 16px;
+  background-color: $app-grey-2;
+}
+
+// When one country is in focus, it keeps the blue and the rest step back
+.app-bars--focus .app-bars__bar {
+  background-color: var(--chart-context);
+}
+
+.app-bars--focus .app-bars__row.is-focus {
+  background-color: #e8f1f8;
+
+  .app-bars__bar {
+    background-color: var(--chart-1);
+  }
+
+  .app-bars__label,
+  .app-bars__label a {
+    font-weight: 700;
+  }
+}
+
+// Charts -----------------------------------------------------------------------
+.app-chart {
+  margin: 0 0 32px;
+}
+
+.app-chart__title {
+  margin: 0;
+  font-size: 1.125rem;
+  line-height: 1.35;
+  font-weight: 700;
+}
+
+.app-content .app-chart__unit {
+  margin: 2px 0 8px;
+  font-size: 1rem;
+  color: $app-secondary;
+}
+
+.app-legend {
+  list-style: none;
+  margin: 0 0 8px;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 16px;
+}
+
+.app-content .app-legend__item {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.4;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0 6px;
+}
+
+.app-legend__key {
+  display: inline-block;
+  width: 18px;
+  height: 0;
+  border-top: 3px solid var(--c);
+  border-radius: 2px;
+
+  &--context {
+    border-top-width: 2px;
+  }
+}
+
+.app-legend__value {
+  color: $app-secondary;
+  font-variant-numeric: tabular-nums;
+}
+
+.app-chart__plot {
+  position: relative;
+  min-height: 220px;
+  touch-action: pan-y;
+  -webkit-tap-highlight-color: transparent;
+
+  &:focus {
+    outline: 4px solid #ffeb3b;
+    outline-offset: 0;
+    box-shadow: 0 0 0 2px $app-text inset;
+  }
+
+  svg {
+    display: block;
+    width: 100%;
+    height: auto;
+    overflow: visible;
+  }
+
+  text {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    fill: $app-secondary;
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+// Without JavaScript the plot is empty; the table below carries the figures
+.app-body:not(.js-enabled) .app-chart__plot {
+  display: none;
+}
+
+.app-chart__tooltip {
+  position: absolute;
+  z-index: 2;
+  top: 0;
+  left: 0;
+  max-width: 240px;
+  padding: 8px 10px;
+  background-color: #ffffff;
+  border: 1px solid $app-grey-3;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(33, 43, 50, 0.16);
+  font-size: 0.875rem;
+  line-height: 1.35;
+  color: $app-text;
+  pointer-events: none;
+}
+
+.app-chart__tooltip-year {
+  font-weight: 700;
+  margin-bottom: 2px;
+}
+
+.app-chart__tooltip-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  white-space: nowrap;
+}
+
+.app-chart__tooltip-key {
+  flex: none;
+  width: 12px;
+  border-top: 3px solid var(--c);
+  border-radius: 2px;
+}
+
+.app-chart__tooltip-value {
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+.app-chart__tooltip-name {
+  color: $app-secondary;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.app-content .app-chart__note,
+.app-content .app-chart__source {
+  margin: 8px 0 0;
+  font-size: 1rem;
+  line-height: 1.4;
+  color: $app-secondary;
+}
+
+.app-chart__details {
+  margin: 12px 0 0;
+}
+
+.app-chart__table {
+  margin-bottom: 0;
+}
+
+// Takeaways: the two or three sentences that open each block on a briefing
+.app-takeaway {
+  margin: 0 0 24px;
+  padding: 12px 16px;
+  border-left: 4px solid $app-blue;
+  background-color: $app-grey-5;
+
+  > :last-child {
+    margin-bottom: 0;
+  }
+}
+
+// UHC Watch's own words (summaries, gaps, recommendations)
+.app-quoted {
+  > :last-child {
+    margin-bottom: 0;
+  }
+}
+
+.app-recommendation {
+  margin-bottom: 20px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid $app-grey-4;
+
+  .app-recommendation__heading {
+    margin-bottom: 8px;
+  }
+
+  > :last-child {
+    margin-bottom: 0;
+  }
+}
+
+.app-source {
+  margin-top: 40px;
+  padding-top: 16px;
+  border-top: 1px solid $app-grey-4;
+
+  ul {
+    margin-bottom: 0;
+  }
+}
+
+// Compare ------------------------------------------------------------------------
+.app-compare__controls {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 12px;
+  margin-bottom: 16px;
+
+  @include nhsuk.nhsuk-media-query($from: tablet) {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .nhsuk-form-group {
+    margin-bottom: 0;
+  }
+
+  .nhsuk-select {
+    width: 100%;
+  }
+}
+
+.app-compare__label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.app-compare__swatch {
+  display: inline-block;
+  width: 18px;
+  border-top: 4px solid var(--c);
+  border-radius: 2px;
+}
+
+// On the compare page each indicator's title is a link to its ranking
+.app-chart__title a {
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.app-compare__year {
+  display: block;
+  color: $app-secondary;
+  font-size: 0.875rem;
+  font-weight: 400;
+}
+
+// Tables -------------------------------------------------------------------------
+.app-scroll {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+
+  &:focus {
+    @include nhsuk.nhsuk-focused-text;
+  }
+
+  .nhsuk-table {
+    margin-bottom: 0;
+  }
+}
+
+// Bottom bar (phones and tablets) ---------------------------------------------
+.app-bottom-bar {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 10;
+  display: flex;
+  background-color: #ffffff;
+  border-top: 1px solid $app-grey-3;
+  box-shadow: 0 -2px 6px rgba(0, 0, 0, 0.08);
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+
+.app-bottom-bar__link {
+  flex: 1 1 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: $app-bar-height;
+  padding: 6px 4px;
+  color: $app-blue;
+  text-decoration: none;
+  font-size: 0.875rem;
+  line-height: 1.2;
+  font-weight: 700;
+
+  .nhsuk-icon {
+    width: 26px;
+    height: 26px;
+    fill: currentcolor;
+    margin-bottom: 4px;
+  }
+
+  &:visited {
+    color: $app-blue;
+  }
+
+  &--current,
+  &--current:visited {
+    color: $app-text;
+    box-shadow: inset 0 3px 0 $app-blue;
+  }
+
+  &:focus {
+    @include nhsuk.nhsuk-focused-text;
+  }
+}
+
+@include nhsuk.nhsuk-media-query($from: desktop) {
+  .app-bottom-bar {
+    display: none;
+  }
+}
+
+// Print -----------------------------------------------------------------------
+.app-print-footer {
+  display: none;
+}
+
+@media print {
+  .app-header__nav,
+  .app-bottom-bar,
+  .nhsuk-pagination,
+  .nhsuk-breadcrumb,
+  .nhsuk-skip-link,
+  .app-picker,
+  .nhsuk-footer__list {
+    display: none !important;
+  }
+
+  .app-content {
+    max-width: none;
+  }
+
+  .app-status {
+    border: 2px solid #000000;
+    padding: 0 8px;
+  }
+
+  .app-print-footer {
+    display: block;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    font-size: 9pt;
+    border-top: 1px solid #000000;
+    padding-top: 4px;
+    margin: 0;
+    background: #ffffff;
+  }
+
+  body {
+    padding-bottom: 24pt;
+  }
+
+  .app-figure,
+  .app-chart,
+  .app-bars__row,
+  .nhsuk-card {
+    break-inside: avoid;
+  }
+
+  .app-bars__bar,
+  .app-strip__track,
+  .app-strip__dot,
+  .app-strip__median {
+    print-color-adjust: exact;
+    -webkit-print-color-adjust: exact;
+  }
+
+  // Collapsible blocks print as plain headings (app.js opens them first)
+  .app-reveal__summary {
+    background: none;
+    color: #000000;
+    box-shadow: none;
+    border-bottom: 2px solid #000000;
+    border-radius: 0;
+    padding: 8px 0;
+
+    .nhsuk-icon {
+      display: none;
+    }
+  }
+
+  .app-reveal__heading {
+    font-size: 16pt;
+  }
+}

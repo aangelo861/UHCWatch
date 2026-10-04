@@ -1,0 +1,380 @@
+country,iso3,measure,group,unit,year,value
+France,FRA,Households with catastrophic health spending,All,% of households,2011,1.97
+France,FRA,Households with catastrophic health spending,All,% of households,2017,2.07
+France,FRA,Households with impoverishing health spending,All,% of households,2011,1.41
+France,FRA,Households with impoverishing health spending,All,% of households,2017,1.49
+France,FRA,Unmet need for health care,All,% of people,2008,1.9
+France,FRA,Unmet need for health care,All,% of people,2009,1.9
+France,FRA,Unmet need for health care,All,% of people,2010,1.9
+France,FRA,Unmet need for health care,All,% of people,2011,2.3
+France,FRA,Unmet need for health care,All,% of people,2012,2.2
+France,FRA,Unmet need for health care,All,% of people,2013,2.6
+France,FRA,Unmet need for health care,All,% of people,2014,2.8
+France,FRA,Unmet need for health care,All,% of people,2015,1.2
+France,FRA,Unmet need for health care,All,% of people,2016,1.3
+France,FRA,Unmet need for health care,All,% of people,2017,1
+France,FRA,Unmet need for health care,All,% of people,2018,1.2
+France,FRA,Unmet need for health care,All,% of people,2019,1.2
+France,FRA,Unmet need for health care,All,% of people,2020,2.7
+France,FRA,Unmet need for health care,All,% of people,2021,2.8
+France,FRA,Unmet need for health care,All,% of people,2022,3.2
+France,FRA,Unmet need for health care,All,% of people,2023,3.7
+France,FRA,Unmet need for health care,All,% of people,2024,4.1
+France,FRA,Unmet need for dental care,All,% of people,2008,4.2
+France,FRA,Unmet need for dental care,All,% of people,2009,4.6
+France,FRA,Unmet need for dental care,All,% of people,2010,4.6
+France,FRA,Unmet need for dental care,All,% of people,2011,4.6
+France,FRA,Unmet need for dental care,All,% of people,2012,5
+France,FRA,Unmet need for dental care,All,% of people,2013,5.4
+France,FRA,Unmet need for dental care,All,% of people,2014,5.6
+France,FRA,Unmet need for dental care,All,% of people,2015,3.4
+France,FRA,Unmet need for dental care,All,% of people,2016,3.4
+France,FRA,Unmet need for dental care,All,% of people,2017,3
+France,FRA,Unmet need for dental care,All,% of people,2018,3.2
+France,FRA,Unmet need for dental care,All,% of people,2019,2.7
+France,FRA,Unmet need for dental care,All,% of people,2020,6.4
+France,FRA,Unmet need for dental care,All,% of people,2021,5.3
+France,FRA,Unmet need for dental care,All,% of people,2022,6.1
+France,FRA,Unmet need for dental care,All,% of people,2023,6.6
+France,FRA,Unmet need for dental care,All,% of people,2024,7
+France,FRA,Unmet need for prescribed medicines due to cost,All,% of people needing care,2019,2.4
+France,FRA,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2000,7.27
+France,FRA,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2001,7.34
+France,FRA,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2002,7.14
+France,FRA,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2003,7.38
+France,FRA,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2004,7.25
+France,FRA,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2005,7.37
+France,FRA,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2006,9.36
+France,FRA,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2007,9.53
+France,FRA,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2008,10.03
+France,FRA,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2009,10.17
+France,FRA,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2010,11.44
+France,FRA,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2011,11.45
+France,FRA,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2012,11.33
+France,FRA,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2013,10.18
+France,FRA,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2014,11.1
+France,FRA,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2015,10.98
+France,FRA,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2016,10.71
+France,FRA,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2017,10.64
+France,FRA,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2018,10.45
+France,FRA,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2019,10.32
+France,FRA,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2020,9.42
+France,FRA,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2021,9.17
+France,FRA,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2022,9.25
+France,FRA,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2023,9.26
+France,FRA,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2024,9.23
+France,FRA,Out-of-pocket payments as a share of household spending,All,% of household consumption,2011,1.78
+France,FRA,Out-of-pocket payments as a share of household spending,All,% of household consumption,2017,1.82
+France,FRA,Public spending on health as a share of GDP,All,% of GDP,2000,7.59
+France,FRA,Public spending on health as a share of GDP,All,% of GDP,2001,7.7
+France,FRA,Public spending on health as a share of GDP,All,% of GDP,2002,7.98
+France,FRA,Public spending on health as a share of GDP,All,% of GDP,2003,7.98
+France,FRA,Public spending on health as a share of GDP,All,% of GDP,2004,8.05
+France,FRA,Public spending on health as a share of GDP,All,% of GDP,2005,8.06
+France,FRA,Public spending on health as a share of GDP,All,% of GDP,2006,8.03
+France,FRA,Public spending on health as a share of GDP,All,% of GDP,2007,7.96
+France,FRA,Public spending on health as a share of GDP,All,% of GDP,2008,8.04
+France,FRA,Public spending on health as a share of GDP,All,% of GDP,2009,8.64
+France,FRA,Public spending on health as a share of GDP,All,% of GDP,2010,8.46
+France,FRA,Public spending on health as a share of GDP,All,% of GDP,2011,8.41
+France,FRA,Public spending on health as a share of GDP,All,% of GDP,2012,8.54
+France,FRA,Public spending on health as a share of GDP,All,% of GDP,2013,8.65
+France,FRA,Public spending on health as a share of GDP,All,% of GDP,2014,8.76
+France,FRA,Public spending on health as a share of GDP,All,% of GDP,2015,8.71
+France,FRA,Public spending on health as a share of GDP,All,% of GDP,2016,9.5
+France,FRA,Public spending on health as a share of GDP,All,% of GDP,2017,9.43
+France,FRA,Public spending on health as a share of GDP,All,% of GDP,2018,9.34
+France,FRA,Public spending on health as a share of GDP,All,% of GDP,2019,9.26
+France,FRA,Public spending on health as a share of GDP,All,% of GDP,2020,10.22
+France,FRA,Public spending on health as a share of GDP,All,% of GDP,2021,10.36
+France,FRA,Public spending on health as a share of GDP,All,% of GDP,2022,10
+France,FRA,Public spending on health as a share of GDP,All,% of GDP,2023,9.73
+France,FRA,Public spending on health as a share of GDP,All,% of GDP,2024,9.74
+France,FRA,Public spending on health as a share of government spending,All,% of government spending,2000,13.5
+France,FRA,Public spending on health as a share of government spending,All,% of government spending,2001,13.65
+France,FRA,Public spending on health as a share of government spending,All,% of government spending,2002,13.86
+France,FRA,Public spending on health as a share of government spending,All,% of government spending,2003,13.75
+France,FRA,Public spending on health as a share of government spending,All,% of government spending,2004,13.94
+France,FRA,Public spending on health as a share of government spending,All,% of government spending,2005,13.91
+France,FRA,Public spending on health as a share of government spending,All,% of government spending,2006,14
+France,FRA,Public spending on health as a share of government spending,All,% of government spending,2007,13.95
+France,FRA,Public spending on health as a share of government spending,All,% of government spending,2008,13.92
+France,FRA,Public spending on health as a share of government spending,All,% of government spending,2009,13.96
+France,FRA,Public spending on health as a share of government spending,All,% of government spending,2010,13.75
+France,FRA,Public spending on health as a share of government spending,All,% of government spending,2011,13.82
+France,FRA,Public spending on health as a share of government spending,All,% of government spending,2012,13.82
+France,FRA,Public spending on health as a share of government spending,All,% of government spending,2013,13.98
+France,FRA,Public spending on health as a share of government spending,All,% of government spending,2014,14.15
+France,FRA,Public spending on health as a share of government spending,All,% of government spending,2015,14.52
+France,FRA,Public spending on health as a share of government spending,All,% of government spending,2016,15.17
+France,FRA,Public spending on health as a share of government spending,All,% of government spending,2017,15.21
+France,FRA,Public spending on health as a share of government spending,All,% of government spending,2018,15.22
+France,FRA,Public spending on health as a share of government spending,All,% of government spending,2019,15.05
+France,FRA,Public spending on health as a share of government spending,All,% of government spending,2020,15
+France,FRA,Public spending on health as a share of government spending,All,% of government spending,2021,15.56
+France,FRA,Public spending on health as a share of government spending,All,% of government spending,2022,15.25
+France,FRA,Public spending on health as a share of government spending,All,% of government spending,2023,13.7
+France,FRA,Public spending on health as a share of government spending,All,% of government spending,2024,13.81
+France,FRA,Public spending as a share of current spending on health,All,% of current spending on health,2000,78.88
+France,FRA,Public spending as a share of current spending on health,All,% of current spending on health,2001,78.91
+France,FRA,Public spending as a share of current spending on health,All,% of current spending on health,2002,79.18
+France,FRA,Public spending as a share of current spending on health,All,% of current spending on health,2003,78.78
+France,FRA,Public spending as a share of current spending on health,All,% of current spending on health,2004,78.79
+France,FRA,Public spending as a share of current spending on health,All,% of current spending on health,2005,78.68
+France,FRA,Public spending as a share of current spending on health,All,% of current spending on health,2006,77.23
+France,FRA,Public spending as a share of current spending on health,All,% of current spending on health,2007,77.02
+France,FRA,Public spending as a share of current spending on health,All,% of current spending on health,2008,76.49
+France,FRA,Public spending as a share of current spending on health,All,% of current spending on health,2009,76.51
+France,FRA,Public spending as a share of current spending on health,All,% of current spending on health,2010,75.41
+France,FRA,Public spending as a share of current spending on health,All,% of current spending on health,2011,75.21
+France,FRA,Public spending as a share of current spending on health,All,% of current spending on health,2012,75.34
+France,FRA,Public spending as a share of current spending on health,All,% of current spending on health,2013,75.99
+France,FRA,Public spending as a share of current spending on health,All,% of current spending on health,2014,75.67
+France,FRA,Public spending as a share of current spending on health,All,% of current spending on health,2015,75.77
+France,FRA,Public spending as a share of current spending on health,All,% of current spending on health,2016,82.11
+France,FRA,Public spending as a share of current spending on health,All,% of current spending on health,2017,82.4
+France,FRA,Public spending as a share of current spending on health,All,% of current spending on health,2018,82.6
+France,FRA,Public spending as a share of current spending on health,All,% of current spending on health,2019,82.86
+France,FRA,Public spending as a share of current spending on health,All,% of current spending on health,2020,84.27
+France,FRA,Public spending as a share of current spending on health,All,% of current spending on health,2021,84.55
+France,FRA,Public spending as a share of current spending on health,All,% of current spending on health,2022,84.51
+France,FRA,Public spending as a share of current spending on health,All,% of current spending on health,2023,84.42
+France,FRA,Public spending as a share of current spending on health,All,% of current spending on health,2024,84.42
+France,FRA,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2000,13.13
+France,FRA,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2001,13.04
+France,FRA,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2002,12.97
+France,FRA,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2003,13.12
+France,FRA,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2004,13.25
+France,FRA,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2005,13.24
+France,FRA,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2006,12.72
+France,FRA,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2007,12.77
+France,FRA,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2008,12.8
+France,FRA,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2009,12.65
+France,FRA,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2010,12.5
+France,FRA,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2011,12.69
+France,FRA,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2012,12.71
+France,FRA,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2013,13.19
+France,FRA,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2014,12.5
+France,FRA,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2015,12.54
+France,FRA,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2016,6.48
+France,FRA,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2017,6.33
+France,FRA,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2018,6.32
+France,FRA,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2019,6.19
+France,FRA,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2020,5.71
+France,FRA,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2021,5.71
+France,FRA,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2022,5.67
+France,FRA,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2023,5.75
+France,FRA,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2024,5.81
+France,FRA,Population entitled to publicly financed health care,All,% of the population,2000,99.9
+France,FRA,Population entitled to publicly financed health care,All,% of the population,2001,99.9
+France,FRA,Population entitled to publicly financed health care,All,% of the population,2002,99.9
+France,FRA,Population entitled to publicly financed health care,All,% of the population,2003,99.9
+France,FRA,Population entitled to publicly financed health care,All,% of the population,2004,99.9
+France,FRA,Population entitled to publicly financed health care,All,% of the population,2005,99.9
+France,FRA,Population entitled to publicly financed health care,All,% of the population,2006,99.9
+France,FRA,Population entitled to publicly financed health care,All,% of the population,2007,99.9
+France,FRA,Population entitled to publicly financed health care,All,% of the population,2008,99.9
+France,FRA,Population entitled to publicly financed health care,All,% of the population,2009,99.9
+France,FRA,Population entitled to publicly financed health care,All,% of the population,2010,99.9
+France,FRA,Population entitled to publicly financed health care,All,% of the population,2011,99.9
+France,FRA,Population entitled to publicly financed health care,All,% of the population,2012,99.9
+France,FRA,Population entitled to publicly financed health care,All,% of the population,2013,99.9
+France,FRA,Population entitled to publicly financed health care,All,% of the population,2014,99.9
+France,FRA,Population entitled to publicly financed health care,All,% of the population,2015,99.9
+France,FRA,Population entitled to publicly financed health care,All,% of the population,2016,99.9
+France,FRA,Population entitled to publicly financed health care,All,% of the population,2017,99.9
+France,FRA,Population entitled to publicly financed health care,All,% of the population,2018,99.9
+France,FRA,Population entitled to publicly financed health care,All,% of the population,2019,99.9
+France,FRA,Population entitled to publicly financed health care,All,% of the population,2020,99.9
+France,FRA,Population entitled to publicly financed health care,All,% of the population,2021,99.9
+France,FRA,Population entitled to publicly financed health care,All,% of the population,2022,99.9
+France,FRA,Population entitled to publicly financed health care,All,% of the population,2023,99.9
+France,FRA,Population entitled to publicly financed health care,All,% of the population,2024,99.9
+France,FRA,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2011,9.15
+France,FRA,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2017,9.2
+France,FRA,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2011,0.3
+France,FRA,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2017,0.15
+France,FRA,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2011,0.1
+France,FRA,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2017,0.35
+France,FRA,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2011,0.25
+France,FRA,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2017,0.45
+France,FRA,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2011,0.05
+France,FRA,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2017,0.2
+France,FRA,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2011,16.56
+France,FRA,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2017,17.43
+France,FRA,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2011,16.89
+France,FRA,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2017,19.81
+France,FRA,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2011,16.97
+France,FRA,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2017,23.85
+France,FRA,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2011,24.93
+France,FRA,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2017,12.72
+France,FRA,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2011,22.8
+France,FRA,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2017,21.41
+France,FRA,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2011,1.85
+France,FRA,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2017,4.78
+France,FRA,Share of Impoverished households (all households),All,%,2011,0.19
+France,FRA,Share of Impoverished households (all households),All,%,2017,0.15
+France,FRA,Share of further impoverished households (total),All,%,2011,1.22
+France,FRA,Share of further impoverished households (total),All,%,2017,1.34
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2008,4.5
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2009,4.7
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2010,5.3
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2011,5.7
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2012,5.4
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2013,5.6
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2014,6.7
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2015,3.1
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2016,3.4
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2017,2.2
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2018,2.6
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2019,2.4
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2020,5.3
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2021,4.5
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2022,5.9
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2023,5.3
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2024,6.3
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2008,0.2
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2009,0.6
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2010,0.6
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2011,0.8
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2012,0.7
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2013,0.7
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2014,0.8
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2015,0.3
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2016,0.5
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2017,0.3
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2018,0.4
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2019,0.4
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2020,0.8
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2021,1.5
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2022,1.4
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2023,1.9
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2024,2.2
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2008,8.4
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2009,9.3
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2010,10.4
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2011,9.8
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2012,10.1
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2013,10.5
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2014,12.3
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2015,7.9
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2016,7.3
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2017,6.1
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2018,6.8
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2019,6.1
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2020,11.6
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2021,9.4
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2022,10.9
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2023,10.8
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2024,11.7
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2008,1
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2009,1.7
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2010,1.4
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2011,1.5
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2012,1.7
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2013,2.3
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2014,1.6
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2015,1.1
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2016,1.3
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2017,0.8
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2018,0.9
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2019,0.7
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2020,1.6
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2021,2.2
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2022,2.2
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2023,2.5
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2024,2.6
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2008,1.7
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2009,2
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2010,1.7
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2011,2.8
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2012,2.3
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2013,2.4
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2014,2.1
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2015,1.6
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2016,0.9
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2017,1.1
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2018,1.2
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2019,1.2
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2020,1.5
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2021,2.4
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2022,1.7
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2023,2.3
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2024,3
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2008,1.3
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2009,1.4
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2010,0.9
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2011,1.3
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2012,1.3
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2013,1.9
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2014,1.8
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2015,0.6
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2016,1.1
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2017,0.4
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2018,0.3
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2019,0.7
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2020,2.2
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2021,2.1
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2022,2.6
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2023,2.9
+France,FRA,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2024,3
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2008,2.5
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2009,2.5
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2010,2.8
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2011,3.1
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2012,3.3
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2013,2.7
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2014,2.9
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2015,2
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2016,3.2
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2017,0.9
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2018,1.4
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2019,1
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2020,2.6
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2021,2.8
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2022,3.1
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2023,3.1
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2024,2.9
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2008,4
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2009,4.7
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2010,4.5
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2011,4.1
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2012,4.2
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2013,5
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2014,5.4
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2015,3.9
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2016,3.9
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2017,3.6
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2018,3.5
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2019,3
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2020,5.6
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2021,4.9
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2022,5.2
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2023,5.5
+France,FRA,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2024,6.3
+France,FRA,Self-reported unmet need for prescribed medicines due to cost (poorest),All,%,2019,4.6
+France,FRA,Self-reported unmet need for prescribed medicines due to cost (richest),All,%,2019,0.6
+France,FRA,Self-reported unmet need for prescribed medicines due to cost (<25 years),All,%,2019,1.8
+France,FRA,Self-reported unmet need for prescribed medicines due to cost (65+ years),All,%,2019,1.8
+France,FRA,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2011,2.13
+France,FRA,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2017,1.72
+France,FRA,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2011,1.98
+France,FRA,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2017,1.86
+France,FRA,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2011,1.86
+France,FRA,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2017,1.95
+France,FRA,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2011,1.8
+France,FRA,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2017,1.98
+France,FRA,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2011,1.56
+France,FRA,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2017,1.67
+France,FRA,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2011,23.3
+France,FRA,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2017,26.51
+France,FRA,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2011,24.26
+France,FRA,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2017,24.66
+France,FRA,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2011,21.61
+France,FRA,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2017,20.48
+France,FRA,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2011,12.27
+France,FRA,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2017,12.27
+France,FRA,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2011,12.76
+France,FRA,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2017,11.12
+France,FRA,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2011,5.79
+France,FRA,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2017,4.96

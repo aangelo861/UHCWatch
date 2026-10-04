@@ -1,0 +1,776 @@
+country,iso3,measure,group,unit,year,value
+Greece,GRC,Households with catastrophic health spending,All,% of households,2004,7.76
+Greece,GRC,Households with catastrophic health spending,All,% of households,2008,7.24
+Greece,GRC,Households with catastrophic health spending,All,% of households,2009,8.51
+Greece,GRC,Households with catastrophic health spending,All,% of households,2010,7.16
+Greece,GRC,Households with catastrophic health spending,All,% of households,2011,7.51
+Greece,GRC,Households with catastrophic health spending,All,% of households,2012,7.85
+Greece,GRC,Households with catastrophic health spending,All,% of households,2013,9.4
+Greece,GRC,Households with catastrophic health spending,All,% of households,2014,10.12
+Greece,GRC,Households with catastrophic health spending,All,% of households,2015,10.54
+Greece,GRC,Households with catastrophic health spending,All,% of households,2016,9.71
+Greece,GRC,Households with catastrophic health spending,All,% of households,2017,9.93
+Greece,GRC,Households with catastrophic health spending,All,% of households,2018,9.75
+Greece,GRC,Households with catastrophic health spending,All,% of households,2019,8.86
+Greece,GRC,Households with catastrophic health spending,All,% of households,2020,10.63
+Greece,GRC,Households with catastrophic health spending,All,% of households,2021,10.24
+Greece,GRC,Households with catastrophic health spending,All,% of households,2022,9.85
+Greece,GRC,Households with catastrophic health spending,All,% of households,2023,9.51
+Greece,GRC,Households with impoverishing health spending,All,% of households,2004,1.81
+Greece,GRC,Households with impoverishing health spending,All,% of households,2008,2.03
+Greece,GRC,Households with impoverishing health spending,All,% of households,2009,2.03
+Greece,GRC,Households with impoverishing health spending,All,% of households,2010,2.05
+Greece,GRC,Households with impoverishing health spending,All,% of households,2011,2.18
+Greece,GRC,Households with impoverishing health spending,All,% of households,2012,2.7
+Greece,GRC,Households with impoverishing health spending,All,% of households,2013,2.86
+Greece,GRC,Households with impoverishing health spending,All,% of households,2014,3.07
+Greece,GRC,Households with impoverishing health spending,All,% of households,2015,2.87
+Greece,GRC,Households with impoverishing health spending,All,% of households,2016,2.54
+Greece,GRC,Households with impoverishing health spending,All,% of households,2017,3.17
+Greece,GRC,Households with impoverishing health spending,All,% of households,2018,2.22
+Greece,GRC,Households with impoverishing health spending,All,% of households,2019,2.57
+Greece,GRC,Households with impoverishing health spending,All,% of households,2020,3.28
+Greece,GRC,Households with impoverishing health spending,All,% of households,2021,2.83
+Greece,GRC,Households with impoverishing health spending,All,% of households,2022,3.61
+Greece,GRC,Households with impoverishing health spending,All,% of households,2023,3.39
+Greece,GRC,Unmet need for health care,All,% of people,2008,5.4
+Greece,GRC,Unmet need for health care,All,% of people,2009,5.5
+Greece,GRC,Unmet need for health care,All,% of people,2010,5.5
+Greece,GRC,Unmet need for health care,All,% of people,2011,7.5
+Greece,GRC,Unmet need for health care,All,% of people,2012,8
+Greece,GRC,Unmet need for health care,All,% of people,2013,9
+Greece,GRC,Unmet need for health care,All,% of people,2014,10.9
+Greece,GRC,Unmet need for health care,All,% of people,2015,12.3
+Greece,GRC,Unmet need for health care,All,% of people,2016,13.1
+Greece,GRC,Unmet need for health care,All,% of people,2017,10
+Greece,GRC,Unmet need for health care,All,% of people,2018,8.8
+Greece,GRC,Unmet need for health care,All,% of people,2019,8.1
+Greece,GRC,Unmet need for health care,All,% of people,2020,6.5
+Greece,GRC,Unmet need for health care,All,% of people,2021,6.4
+Greece,GRC,Unmet need for health care,All,% of people,2022,9
+Greece,GRC,Unmet need for health care,All,% of people,2023,11.6
+Greece,GRC,Unmet need for health care,All,% of people,2024,12.1
+Greece,GRC,Unmet need for dental care,All,% of people,2008,5.9
+Greece,GRC,Unmet need for dental care,All,% of people,2009,6.1
+Greece,GRC,Unmet need for dental care,All,% of people,2010,6
+Greece,GRC,Unmet need for dental care,All,% of people,2011,7
+Greece,GRC,Unmet need for dental care,All,% of people,2012,7.4
+Greece,GRC,Unmet need for dental care,All,% of people,2013,8.7
+Greece,GRC,Unmet need for dental care,All,% of people,2014,12.9
+Greece,GRC,Unmet need for dental care,All,% of people,2015,12.5
+Greece,GRC,Unmet need for dental care,All,% of people,2016,13.8
+Greece,GRC,Unmet need for dental care,All,% of people,2017,10
+Greece,GRC,Unmet need for dental care,All,% of people,2018,9.7
+Greece,GRC,Unmet need for dental care,All,% of people,2019,8.8
+Greece,GRC,Unmet need for dental care,All,% of people,2020,7.2
+Greece,GRC,Unmet need for dental care,All,% of people,2021,7.8
+Greece,GRC,Unmet need for dental care,All,% of people,2022,12.1
+Greece,GRC,Unmet need for dental care,All,% of people,2023,12.9
+Greece,GRC,Unmet need for dental care,All,% of people,2024,12.9
+Greece,GRC,Unmet need for prescribed medicines due to cost,All,% of people needing care,2014,14.9
+Greece,GRC,Unmet need for prescribed medicines due to cost,All,% of people needing care,2019,3.6
+Greece,GRC,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2000,36.27
+Greece,GRC,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2001,34.78
+Greece,GRC,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2002,37.38
+Greece,GRC,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2003,37.9
+Greece,GRC,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2004,38.96
+Greece,GRC,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2005,36.88
+Greece,GRC,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2006,36.05
+Greece,GRC,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2007,34.22
+Greece,GRC,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2008,32.21
+Greece,GRC,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2009,29.5
+Greece,GRC,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2010,28.26
+Greece,GRC,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2011,31.16
+Greece,GRC,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2012,30.45
+Greece,GRC,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2013,33.74
+Greece,GRC,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2014,37.2
+Greece,GRC,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2015,36.03
+Greece,GRC,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2016,34.31
+Greece,GRC,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2017,35
+Greece,GRC,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2018,36.08
+Greece,GRC,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2019,33.64
+Greece,GRC,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2020,33.45
+Greece,GRC,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2021,33.32
+Greece,GRC,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2022,33.54
+Greece,GRC,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2023,34.3
+Greece,GRC,Out-of-pocket payments as a share of household spending,All,% of household consumption,2004,6.86
+Greece,GRC,Out-of-pocket payments as a share of household spending,All,% of household consumption,2008,6.32
+Greece,GRC,Out-of-pocket payments as a share of household spending,All,% of household consumption,2009,6.06
+Greece,GRC,Out-of-pocket payments as a share of household spending,All,% of household consumption,2010,6.18
+Greece,GRC,Out-of-pocket payments as a share of household spending,All,% of household consumption,2011,6.35
+Greece,GRC,Out-of-pocket payments as a share of household spending,All,% of household consumption,2012,6.43
+Greece,GRC,Out-of-pocket payments as a share of household spending,All,% of household consumption,2013,6.92
+Greece,GRC,Out-of-pocket payments as a share of household spending,All,% of household consumption,2014,7.29
+Greece,GRC,Out-of-pocket payments as a share of household spending,All,% of household consumption,2015,7.63
+Greece,GRC,Out-of-pocket payments as a share of household spending,All,% of household consumption,2016,7.48
+Greece,GRC,Out-of-pocket payments as a share of household spending,All,% of household consumption,2017,7.35
+Greece,GRC,Out-of-pocket payments as a share of household spending,All,% of household consumption,2018,7.5
+Greece,GRC,Out-of-pocket payments as a share of household spending,All,% of household consumption,2019,7.09
+Greece,GRC,Out-of-pocket payments as a share of household spending,All,% of household consumption,2020,8.05
+Greece,GRC,Out-of-pocket payments as a share of household spending,All,% of household consumption,2021,8.17
+Greece,GRC,Out-of-pocket payments as a share of household spending,All,% of household consumption,2022,7.62
+Greece,GRC,Out-of-pocket payments as a share of household spending,All,% of household consumption,2023,7.73
+Greece,GRC,Public spending on health as a share of GDP,All,% of GDP,2000,4.63
+Greece,GRC,Public spending on health as a share of GDP,All,% of GDP,2001,5.21
+Greece,GRC,Public spending on health as a share of GDP,All,% of GDP,2002,5.12
+Greece,GRC,Public spending on health as a share of GDP,All,% of GDP,2003,5.2
+Greece,GRC,Public spending on health as a share of GDP,All,% of GDP,2004,4.87
+Greece,GRC,Public spending on health as a share of GDP,All,% of GDP,2005,5.33
+Greece,GRC,Public spending on health as a share of GDP,All,% of GDP,2006,5.17
+Greece,GRC,Public spending on health as a share of GDP,All,% of GDP,2007,5.4
+Greece,GRC,Public spending on health as a share of GDP,All,% of GDP,2008,5.85
+Greece,GRC,Public spending on health as a share of GDP,All,% of GDP,2009,6.51
+Greece,GRC,Public spending on health as a share of GDP,All,% of GDP,2010,6.63
+Greece,GRC,Public spending on health as a share of GDP,All,% of GDP,2011,6.04
+Greece,GRC,Public spending on health as a share of GDP,All,% of GDP,2012,5.98
+Greece,GRC,Public spending on health as a share of GDP,All,% of GDP,2013,5.29
+Greece,GRC,Public spending on health as a share of GDP,All,% of GDP,2014,4.57
+Greece,GRC,Public spending on health as a share of GDP,All,% of GDP,2015,4.83
+Greece,GRC,Public spending on health as a share of GDP,All,% of GDP,2016,5.19
+Greece,GRC,Public spending on health as a share of GDP,All,% of GDP,2017,4.91
+Greece,GRC,Public spending on health as a share of GDP,All,% of GDP,2018,4.78
+Greece,GRC,Public spending on health as a share of GDP,All,% of GDP,2019,4.99
+Greece,GRC,Public spending on health as a share of GDP,All,% of GDP,2020,5.8
+Greece,GRC,Public spending on health as a share of GDP,All,% of GDP,2021,5.61
+Greece,GRC,Public spending on health as a share of GDP,All,% of GDP,2022,5.23
+Greece,GRC,Public spending on health as a share of GDP,All,% of GDP,2023,5.11
+Greece,GRC,Public spending on health as a share of government spending,All,% of government spending,2000,9.61
+Greece,GRC,Public spending on health as a share of government spending,All,% of government spending,2001,10.98
+Greece,GRC,Public spending on health as a share of government spending,All,% of government spending,2002,10.87
+Greece,GRC,Public spending on health as a share of government spending,All,% of government spending,2003,10.86
+Greece,GRC,Public spending on health as a share of government spending,All,% of government spending,2004,9.97
+Greece,GRC,Public spending on health as a share of government spending,All,% of government spending,2005,11.44
+Greece,GRC,Public spending on health as a share of government spending,All,% of government spending,2006,11.28
+Greece,GRC,Public spending on health as a share of government spending,All,% of government spending,2007,11.3
+Greece,GRC,Public spending on health as a share of government spending,All,% of government spending,2008,11.34
+Greece,GRC,Public spending on health as a share of government spending,All,% of government spending,2009,11.88
+Greece,GRC,Public spending on health as a share of government spending,All,% of government spending,2010,12.49
+Greece,GRC,Public spending on health as a share of government spending,All,% of government spending,2011,10.96
+Greece,GRC,Public spending on health as a share of government spending,All,% of government spending,2012,9.93
+Greece,GRC,Public spending on health as a share of government spending,All,% of government spending,2013,8.19
+Greece,GRC,Public spending on health as a share of government spending,All,% of government spending,2014,8.77
+Greece,GRC,Public spending on health as a share of government spending,All,% of government spending,2015,8.71
+Greece,GRC,Public spending on health as a share of government spending,All,% of government spending,2016,8.81
+Greece,GRC,Public spending on health as a share of government spending,All,% of government spending,2017,8.84
+Greece,GRC,Public spending on health as a share of government spending,All,% of government spending,2018,8.59
+Greece,GRC,Public spending on health as a share of government spending,All,% of government spending,2019,8.3
+Greece,GRC,Public spending on health as a share of government spending,All,% of government spending,2020,8.54
+Greece,GRC,Public spending on health as a share of government spending,All,% of government spending,2021,9.49
+Greece,GRC,Public spending on health as a share of government spending,All,% of government spending,2022,8.65
+Greece,GRC,Public spending on health as a share of government spending,All,% of government spending,2023,8.58
+Greece,GRC,Public spending as a share of current spending on health,All,% of current spending on health,2000,61.63
+Greece,GRC,Public spending as a share of current spending on health,All,% of current spending on health,2001,63.21
+Greece,GRC,Public spending as a share of current spending on health,All,% of current spending on health,2002,60.46
+Greece,GRC,Public spending as a share of current spending on health,All,% of current spending on health,2003,59.86
+Greece,GRC,Public spending as a share of current spending on health,All,% of current spending on health,2004,58.62
+Greece,GRC,Public spending as a share of current spending on health,All,% of current spending on health,2005,60.83
+Greece,GRC,Public spending as a share of current spending on health,All,% of current spending on health,2006,61.61
+Greece,GRC,Public spending as a share of current spending on health,All,% of current spending on health,2007,63.34
+Greece,GRC,Public spending as a share of current spending on health,All,% of current spending on health,2008,65.34
+Greece,GRC,Public spending as a share of current spending on health,All,% of current spending on health,2009,68.32
+Greece,GRC,Public spending as a share of current spending on health,All,% of current spending on health,2010,68.91
+Greece,GRC,Public spending as a share of current spending on health,All,% of current spending on health,2011,65.7
+Greece,GRC,Public spending as a share of current spending on health,All,% of current spending on health,2012,66.11
+Greece,GRC,Public spending as a share of current spending on health,All,% of current spending on health,2013,62.08
+Greece,GRC,Public spending as a share of current spending on health,All,% of current spending on health,2014,57.56
+Greece,GRC,Public spending as a share of current spending on health,All,% of current spending on health,2015,58.42
+Greece,GRC,Public spending as a share of current spending on health,All,% of current spending on health,2016,61.39
+Greece,GRC,Public spending as a share of current spending on health,All,% of current spending on health,2017,60.56
+Greece,GRC,Public spending as a share of current spending on health,All,% of current spending on health,2018,59.22
+Greece,GRC,Public spending as a share of current spending on health,All,% of current spending on health,2019,61.51
+Greece,GRC,Public spending as a share of current spending on health,All,% of current spending on health,2020,61.82
+Greece,GRC,Public spending as a share of current spending on health,All,% of current spending on health,2021,62.14
+Greece,GRC,Public spending as a share of current spending on health,All,% of current spending on health,2022,61.96
+Greece,GRC,Public spending as a share of current spending on health,All,% of current spending on health,2023,60.87
+Greece,GRC,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2000,2.1
+Greece,GRC,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2001,2.02
+Greece,GRC,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2002,2.16
+Greece,GRC,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2003,2.24
+Greece,GRC,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2004,2.41
+Greece,GRC,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2005,2.29
+Greece,GRC,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2006,2.35
+Greece,GRC,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2007,2.44
+Greece,GRC,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2008,2.46
+Greece,GRC,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2009,1.94
+Greece,GRC,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2010,2.5
+Greece,GRC,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2011,2.86
+Greece,GRC,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2012,3.13
+Greece,GRC,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2013,3.26
+Greece,GRC,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2014,3.83
+Greece,GRC,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2015,3.73
+Greece,GRC,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2016,3.85
+Greece,GRC,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2017,4.02
+Greece,GRC,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2018,4.32
+Greece,GRC,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2019,4.47
+Greece,GRC,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2020,4.32
+Greece,GRC,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2021,4.16
+Greece,GRC,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2022,4.06
+Greece,GRC,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2023,4.33
+Greece,GRC,Population entitled to publicly financed health care,All,% of the population,2000,100
+Greece,GRC,Population entitled to publicly financed health care,All,% of the population,2001,100
+Greece,GRC,Population entitled to publicly financed health care,All,% of the population,2002,100
+Greece,GRC,Population entitled to publicly financed health care,All,% of the population,2003,100
+Greece,GRC,Population entitled to publicly financed health care,All,% of the population,2004,100
+Greece,GRC,Population entitled to publicly financed health care,All,% of the population,2005,100
+Greece,GRC,Population entitled to publicly financed health care,All,% of the population,2006,100
+Greece,GRC,Population entitled to publicly financed health care,All,% of the population,2007,100
+Greece,GRC,Population entitled to publicly financed health care,All,% of the population,2008,100
+Greece,GRC,Population entitled to publicly financed health care,All,% of the population,2016,100
+Greece,GRC,Population entitled to publicly financed health care,All,% of the population,2017,100
+Greece,GRC,Population entitled to publicly financed health care,All,% of the population,2018,100
+Greece,GRC,Population entitled to publicly financed health care,All,% of the population,2019,100
+Greece,GRC,Population entitled to publicly financed health care,All,% of the population,2020,100
+Greece,GRC,Population entitled to publicly financed health care,All,% of the population,2021,100
+Greece,GRC,Population entitled to publicly financed health care,All,% of the population,2022,100
+Greece,GRC,Population entitled to publicly financed health care,All,% of the population,2023,100
+Greece,GRC,Population entitled to publicly financed health care,All,% of the population,2024,100
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2004,26.7
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2008,23.1
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2009,29.55
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2010,25.05
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2011,26.1
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2012,26.55
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2013,29.95
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2014,28.75
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2015,29.1
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2016,30.2
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2017,30.75
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2018,27.8
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2019,26.4
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2020,31.4
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2021,27.6
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2022,30.1
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2023,31.55
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2004,5.5
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2008,5.25
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2009,7.1
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2010,4.95
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2011,5.5
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2012,6.1
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2013,7.05
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2014,11.25
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2015,10.85
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2016,8.1
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2017,6.1
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2018,8.65
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2019,7.4
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2020,8.45
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2021,10.55
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2022,7.95
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2023,5.85
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2004,3.3
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2008,3.8
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2009,2.3
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2010,2.35
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2011,1.55
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2012,2.9
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2013,5.25
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2014,5.35
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2015,5.4
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2016,4.8
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2017,5.1
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2018,5.45
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2019,4.35
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2020,5.8
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2021,4
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2022,4.65
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2023,4.6
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2004,1.7
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2008,2.65
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2009,2.1
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2010,1.75
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2011,2.1
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2012,2.3
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2013,3.05
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2014,3.25
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2015,3.7
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2016,3.1
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2017,4.05
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2018,3.45
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2019,3.15
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2020,2.95
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2021,4.95
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2022,3.45
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2023,2.35
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2004,1.55
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2008,1.4
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2009,1.45
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2010,1.7
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2011,2.15
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2012,1.35
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2013,1.7
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2014,2.05
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2015,3.65
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2016,2.35
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2017,3.65
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2018,3.35
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2019,3
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2020,4.45
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2021,4
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2022,3.05
+Greece,GRC,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2023,3.1
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2004,20.67
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2008,25.13
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2009,23.7
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2010,28.22
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2011,38.14
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2012,41.97
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2013,40.63
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2014,46.79
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2015,29.01
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2016,43.64
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2017,41.52
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2018,36.06
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2019,41.74
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2020,39.26
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2021,35.49
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2022,31.43
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2023,33.91
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2004,1.87
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2008,2.04
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2009,6.66
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2010,2.86
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2011,2.87
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2012,2.16
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2013,1.57
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2014,3.46
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2015,1.96
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2016,3.91
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2017,1.7
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2018,2.16
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2019,2.48
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2020,3.82
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2021,4.72
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2022,4.89
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2023,4.19
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2004,21.45
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2008,21.52
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2009,22.55
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2010,17.5
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2011,17.32
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2012,7.79
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2013,10.16
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2014,7.45
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2015,6.73
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2016,9.7
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2017,10.46
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2018,9.33
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2019,9.33
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2020,7.64
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2021,8.96
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2022,7.8
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2023,8.36
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2004,16.02
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2008,17.47
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2009,10.94
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2010,24.02
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2011,10.63
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2012,10.58
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2013,10.81
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2014,10.75
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2015,7.69
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2016,11.45
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2017,10.34
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2018,6.44
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2019,8.43
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2020,7.5
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2021,7.81
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2022,8.86
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2023,14.15
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2004,11.73
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2008,7.52
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2009,8.89
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2010,5.41
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2011,8.84
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2012,5.51
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2013,6.29
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2014,5.34
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2015,5.61
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2016,5.94
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2017,4.51
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2018,4.78
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2019,4.25
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2020,3.96
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2021,4.4
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2022,4.7
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2023,3.71
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2004,28.26
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2008,26.32
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2009,27.25
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2010,21.99
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2011,22.19
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2012,31.99
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2013,30.54
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2014,26.2
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2015,49
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2016,25.37
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2017,31.49
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2018,41.23
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2019,33.77
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2020,37.83
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2021,38.61
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2022,42.33
+Greece,GRC,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2023,35.67
+Greece,GRC,Share of Impoverished households (all households),All,%,2004,1.09
+Greece,GRC,Share of Impoverished households (all households),All,%,2008,1.12
+Greece,GRC,Share of Impoverished households (all households),All,%,2009,1.23
+Greece,GRC,Share of Impoverished households (all households),All,%,2010,0.98
+Greece,GRC,Share of Impoverished households (all households),All,%,2011,0.91
+Greece,GRC,Share of Impoverished households (all households),All,%,2012,1.02
+Greece,GRC,Share of Impoverished households (all households),All,%,2013,1.19
+Greece,GRC,Share of Impoverished households (all households),All,%,2014,1.27
+Greece,GRC,Share of Impoverished households (all households),All,%,2015,1.21
+Greece,GRC,Share of Impoverished households (all households),All,%,2016,1
+Greece,GRC,Share of Impoverished households (all households),All,%,2017,1.08
+Greece,GRC,Share of Impoverished households (all households),All,%,2018,0.94
+Greece,GRC,Share of Impoverished households (all households),All,%,2019,0.93
+Greece,GRC,Share of Impoverished households (all households),All,%,2020,1.55
+Greece,GRC,Share of Impoverished households (all households),All,%,2021,1.24
+Greece,GRC,Share of Impoverished households (all households),All,%,2022,1.29
+Greece,GRC,Share of Impoverished households (all households),All,%,2023,1.08
+Greece,GRC,Share of further impoverished households (total),All,%,2004,0.71
+Greece,GRC,Share of further impoverished households (total),All,%,2008,0.91
+Greece,GRC,Share of further impoverished households (total),All,%,2009,0.8
+Greece,GRC,Share of further impoverished households (total),All,%,2010,1.07
+Greece,GRC,Share of further impoverished households (total),All,%,2011,1.28
+Greece,GRC,Share of further impoverished households (total),All,%,2012,1.68
+Greece,GRC,Share of further impoverished households (total),All,%,2013,1.67
+Greece,GRC,Share of further impoverished households (total),All,%,2014,1.8
+Greece,GRC,Share of further impoverished households (total),All,%,2015,1.65
+Greece,GRC,Share of further impoverished households (total),All,%,2016,1.55
+Greece,GRC,Share of further impoverished households (total),All,%,2017,2.09
+Greece,GRC,Share of further impoverished households (total),All,%,2018,1.28
+Greece,GRC,Share of further impoverished households (total),All,%,2019,1.63
+Greece,GRC,Share of further impoverished households (total),All,%,2020,1.73
+Greece,GRC,Share of further impoverished households (total),All,%,2021,1.58
+Greece,GRC,Share of further impoverished households (total),All,%,2022,2.32
+Greece,GRC,Share of further impoverished households (total),All,%,2023,2.3
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2008,8.8
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2009,11.3
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2010,9
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2011,11.7
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2012,12.1
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2013,14.8
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2014,17.1
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2015,18.3
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2016,35.2
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2017,18.6
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2018,19.9
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2019,17.6
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2020,17.2
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2021,11.5
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2022,14.3
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2023,23
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2024,17.5
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2008,1.8
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2009,1.6
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2010,2.1
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2011,3.6
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2012,4.8
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2013,1
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2014,1.1
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2015,4
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2016,1
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2017,3
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2018,1
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2019,1
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2020,1.2
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2021,3.3
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2022,4.3
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2023,3.4
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2024,5.2
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2008,11
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2009,12
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2010,10.8
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2011,9.6
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2012,13
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2013,14.8
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2014,17.8
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2015,19.7
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2016,26.5
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2017,20.1
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2018,18.6
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2019,15.2
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2020,14.1
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2021,9.9
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2022,17.4
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2023,21.2
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2024,19.6
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2008,1.5
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2009,1.2
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2010,1.7
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2011,3.5
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2012,3.3
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2013,1.9
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2014,6
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2015,5.8
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2016,0.4
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2017,2
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2018,1.5
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2019,2.2
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2020,1.1
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2021,4.8
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2022,6
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2023,4.8
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2024,5.2
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2008,1.2
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2009,1.9
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2010,1.4
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2011,2.7
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2012,2.1
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2013,3.5
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2014,4.8
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2015,3.7
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2016,9.3
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2017,3.1
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2018,4.5
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2019,2.2
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2020,2.4
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2021,1.3
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2022,0.7
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2023,0.8
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2024,2.2
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2008,10
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2009,10.8
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2010,10.2
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2011,13.3
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2012,11.7
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2013,12.3
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2014,15.5
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2015,17.9
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2016,16.6
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2017,18.9
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2018,13
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2019,13.6
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2020,12.7
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2021,15.3
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2022,19.7
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2023,31.1
+Greece,GRC,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2024,28.2
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2008,3.4
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2009,4.1
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2010,3.5
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2011,3
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2012,3.3
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2013,4.1
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2014,7.3
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2015,5
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2016,14.3
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2017,7.8
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2018,8.8
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2019,7
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2020,8
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2021,5.7
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2022,10.3
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2023,11.6
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2024,7.2
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2008,5.8
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2009,6.9
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2010,5.5
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2011,7.7
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2012,6.9
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2013,8.7
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2014,12.7
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2015,12.4
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2016,12.3
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2017,9.9
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2018,7.1
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2019,5
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2020,6.3
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2021,5.9
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2022,7.5
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2023,14.5
+Greece,GRC,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2024,16.6
+Greece,GRC,Self-reported unmet need for prescribed medicines due to cost (poorest),All,%,2019,9.7
+Greece,GRC,Self-reported unmet need for prescribed medicines due to cost (richest),All,%,2019,0
+Greece,GRC,Self-reported unmet need for prescribed medicines due to cost (<25 years),All,%,2014,13.8
+Greece,GRC,Self-reported unmet need for prescribed medicines due to cost (<25 years),All,%,2019,2.3
+Greece,GRC,Self-reported unmet need for prescribed medicines due to cost (65+ years),All,%,2014,18.8
+Greece,GRC,Self-reported unmet need for prescribed medicines due to cost (65+ years),All,%,2019,4.7
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2004,8.23
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2008,7.16
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2009,8.44
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2010,6.67
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2011,5.68
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2012,5.47
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2013,7.03
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2014,6
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2015,5.9
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2016,6.41
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2017,6.15
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2018,6.66
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2019,5.41
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2020,5.83
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2021,6.05
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2022,6.18
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2023,5.74
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2004,7.21
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2008,6.66
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2009,6.23
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2010,5.68
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2011,5.3
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2012,5.53
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2013,6.06
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2014,7.34
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2015,7.44
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2016,6.83
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2017,6.25
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2018,6.89
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2019,6.27
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2020,6.22
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2021,7.55
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2022,7.24
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2023,6.3
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2004,6.79
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2008,6.42
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2009,5.97
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2010,5.51
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2011,4.61
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2012,5.22
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2013,6.52
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2014,7.22
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2015,7.64
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2016,6.73
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2017,6.83
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2018,6.96
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2019,6.63
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2020,6.64
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2021,7.08
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2022,7.23
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2023,6.4
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2004,6.32
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2008,6.56
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2009,6.4
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2010,5.81
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2011,6.27
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2012,6.59
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2013,6.99
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2014,6.63
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2015,7.44
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2016,6.74
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2017,7.1
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2018,6.99
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2019,6.27
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2020,7.26
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2021,8.35
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2022,7.73
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2023,6.65
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2004,6.84
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2008,5.85
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2009,5.37
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2010,6.75
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2011,7.61
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2012,7.32
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2013,7.35
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2014,7.94
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2015,8.22
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2016,8.76
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2017,8.47
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2018,8.45
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2019,8.41
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2020,10.48
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2021,9.34
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2022,8.23
+Greece,GRC,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2023,9.88
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2004,16.4
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2008,19.2
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2009,19.11
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2010,21.98
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2011,22.1
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2012,27.31
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2013,32.34
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2014,33.17
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2015,33.38
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2016,34.48
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2017,34.15
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2018,32.64
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2019,34.12
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2020,34.06
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2021,31.32
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2022,31.22
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2023,31.97
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2004,3.5
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2008,3.98
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2009,4.01
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2010,3.83
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2011,4.8
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2012,3.65
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2013,3.18
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2014,3.79
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2015,3.29
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2016,3.31
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2017,3.27
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2018,3.27
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2019,3.56
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2020,7.65
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2021,9.65
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2022,9.3
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2023,6.33
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2004,23.25
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2008,21.18
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2009,19.97
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2010,17.99
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2011,17.32
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2012,14.28
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2013,11.75
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2014,10.76
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2015,10.83
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2016,11.27
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2017,11.43
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2018,11.81
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2019,12.29
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2020,10.8
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2021,11.08
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2022,11.01
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2023,11.61
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2004,31.09
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2008,29.76
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2009,29.34
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2010,26.72
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2011,23.26
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2012,18.85
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2013,16.06
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2014,15.07
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2015,13.02
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2016,12.73
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2017,13.54
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2018,12.92
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2019,12.49
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2020,11.49
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2021,10.56
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2022,11.13
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2023,11.05
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2004,11.25
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2008,10.73
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2009,9.71
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2010,9.29
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2011,9.24
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2012,8.48
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2013,8.7
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2014,7.7
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2015,7.11
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2016,6.74
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2017,6.1
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2018,5.92
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2019,5.81
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2020,4.59
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2021,5.1
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2022,5.04
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2023,4.76
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2004,14.51
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2008,15.16
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2009,17.87
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2010,20.18
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2011,23.28
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2012,27.43
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2013,27.96
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2014,29.51
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2015,32.37
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2016,31.47
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2017,31.5
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2018,33.43
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2019,31.73
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2020,31.41
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2021,32.3
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2022,32.29
+Greece,GRC,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2023,34.27

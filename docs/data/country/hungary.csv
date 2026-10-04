@@ -1,0 +1,674 @@
+country,iso3,measure,group,unit,year,value
+Hungary,HUN,Households with catastrophic health spending,All,% of households,2003,5.05
+Hungary,HUN,Households with catastrophic health spending,All,% of households,2004,7.63
+Hungary,HUN,Households with catastrophic health spending,All,% of households,2005,6.72
+Hungary,HUN,Households with catastrophic health spending,All,% of households,2006,5.38
+Hungary,HUN,Households with catastrophic health spending,All,% of households,2007,6.9
+Hungary,HUN,Households with catastrophic health spending,All,% of households,2008,8.01
+Hungary,HUN,Households with catastrophic health spending,All,% of households,2009,8.4
+Hungary,HUN,Households with catastrophic health spending,All,% of households,2010,8.42
+Hungary,HUN,Households with catastrophic health spending,All,% of households,2011,7.81
+Hungary,HUN,Households with catastrophic health spending,All,% of households,2012,9.52
+Hungary,HUN,Households with catastrophic health spending,All,% of households,2013,9.1
+Hungary,HUN,Households with catastrophic health spending,All,% of households,2014,7.39
+Hungary,HUN,Households with catastrophic health spending,All,% of households,2015,11.63
+Hungary,HUN,Households with impoverishing health spending,All,% of households,2003,1.73
+Hungary,HUN,Households with impoverishing health spending,All,% of households,2004,2.84
+Hungary,HUN,Households with impoverishing health spending,All,% of households,2005,2.67
+Hungary,HUN,Households with impoverishing health spending,All,% of households,2006,1.9
+Hungary,HUN,Households with impoverishing health spending,All,% of households,2007,2.92
+Hungary,HUN,Households with impoverishing health spending,All,% of households,2008,3.75
+Hungary,HUN,Households with impoverishing health spending,All,% of households,2009,3.45
+Hungary,HUN,Households with impoverishing health spending,All,% of households,2010,3.66
+Hungary,HUN,Households with impoverishing health spending,All,% of households,2011,3.8
+Hungary,HUN,Households with impoverishing health spending,All,% of households,2012,4.86
+Hungary,HUN,Households with impoverishing health spending,All,% of households,2013,4.7
+Hungary,HUN,Households with impoverishing health spending,All,% of households,2014,3.25
+Hungary,HUN,Households with impoverishing health spending,All,% of households,2015,5.92
+Hungary,HUN,Unmet need for health care,All,% of people,2008,3.4
+Hungary,HUN,Unmet need for health care,All,% of people,2009,2.1
+Hungary,HUN,Unmet need for health care,All,% of people,2010,1.7
+Hungary,HUN,Unmet need for health care,All,% of people,2011,2.7
+Hungary,HUN,Unmet need for health care,All,% of people,2012,2.9
+Hungary,HUN,Unmet need for health care,All,% of people,2013,2.6
+Hungary,HUN,Unmet need for health care,All,% of people,2014,2.5
+Hungary,HUN,Unmet need for health care,All,% of people,2015,2.6
+Hungary,HUN,Unmet need for health care,All,% of people,2016,1.3
+Hungary,HUN,Unmet need for health care,All,% of people,2017,1
+Hungary,HUN,Unmet need for health care,All,% of people,2018,0.8
+Hungary,HUN,Unmet need for health care,All,% of people,2019,1
+Hungary,HUN,Unmet need for health care,All,% of people,2020,0.7
+Hungary,HUN,Unmet need for health care,All,% of people,2021,1.1
+Hungary,HUN,Unmet need for health care,All,% of people,2022,1.4
+Hungary,HUN,Unmet need for health care,All,% of people,2023,1
+Hungary,HUN,Unmet need for health care,All,% of people,2024,1
+Hungary,HUN,Unmet need for dental care,All,% of people,2008,4
+Hungary,HUN,Unmet need for dental care,All,% of people,2009,3.5
+Hungary,HUN,Unmet need for dental care,All,% of people,2010,3.3
+Hungary,HUN,Unmet need for dental care,All,% of people,2011,4.6
+Hungary,HUN,Unmet need for dental care,All,% of people,2012,4.9
+Hungary,HUN,Unmet need for dental care,All,% of people,2013,4.5
+Hungary,HUN,Unmet need for dental care,All,% of people,2014,4.1
+Hungary,HUN,Unmet need for dental care,All,% of people,2015,4
+Hungary,HUN,Unmet need for dental care,All,% of people,2016,2.2
+Hungary,HUN,Unmet need for dental care,All,% of people,2017,1.8
+Hungary,HUN,Unmet need for dental care,All,% of people,2018,1.7
+Hungary,HUN,Unmet need for dental care,All,% of people,2019,1.6
+Hungary,HUN,Unmet need for dental care,All,% of people,2020,1.1
+Hungary,HUN,Unmet need for dental care,All,% of people,2021,0.8
+Hungary,HUN,Unmet need for dental care,All,% of people,2022,1.1
+Hungary,HUN,Unmet need for dental care,All,% of people,2023,0.6
+Hungary,HUN,Unmet need for dental care,All,% of people,2024,0.6
+Hungary,HUN,Unmet need for prescribed medicines due to cost,All,% of people needing care,2014,5.9
+Hungary,HUN,Unmet need for prescribed medicines due to cost,All,% of people needing care,2019,5.5
+Hungary,HUN,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2000,27.33
+Hungary,HUN,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2001,28.81
+Hungary,HUN,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2002,27.51
+Hungary,HUN,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2003,26.36
+Hungary,HUN,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2004,25.83
+Hungary,HUN,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2005,25.76
+Hungary,HUN,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2006,25.01
+Hungary,HUN,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2007,26.26
+Hungary,HUN,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2008,26.35
+Hungary,HUN,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2009,26.23
+Hungary,HUN,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2010,27.42
+Hungary,HUN,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2011,28.22
+Hungary,HUN,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2012,29.37
+Hungary,HUN,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2013,28.36
+Hungary,HUN,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2014,28.34
+Hungary,HUN,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2015,27.49
+Hungary,HUN,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2016,27.69
+Hungary,HUN,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2017,27.25
+Hungary,HUN,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2018,26.79
+Hungary,HUN,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2019,27.79
+Hungary,HUN,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2020,26.15
+Hungary,HUN,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2021,24.64
+Hungary,HUN,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2022,24.01
+Hungary,HUN,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2023,23.06
+Hungary,HUN,Out-of-pocket payments as a share of household spending,All,% of household consumption,2003,3.65
+Hungary,HUN,Out-of-pocket payments as a share of household spending,All,% of household consumption,2004,3.83
+Hungary,HUN,Out-of-pocket payments as a share of household spending,All,% of household consumption,2005,3.9
+Hungary,HUN,Out-of-pocket payments as a share of household spending,All,% of household consumption,2006,3.73
+Hungary,HUN,Out-of-pocket payments as a share of household spending,All,% of household consumption,2007,4.2
+Hungary,HUN,Out-of-pocket payments as a share of household spending,All,% of household consumption,2008,4.29
+Hungary,HUN,Out-of-pocket payments as a share of household spending,All,% of household consumption,2009,4.54
+Hungary,HUN,Out-of-pocket payments as a share of household spending,All,% of household consumption,2010,4.73
+Hungary,HUN,Out-of-pocket payments as a share of household spending,All,% of household consumption,2011,4.56
+Hungary,HUN,Out-of-pocket payments as a share of household spending,All,% of household consumption,2012,4.85
+Hungary,HUN,Out-of-pocket payments as a share of household spending,All,% of household consumption,2013,4.95
+Hungary,HUN,Out-of-pocket payments as a share of household spending,All,% of household consumption,2014,4.93
+Hungary,HUN,Out-of-pocket payments as a share of household spending,All,% of household consumption,2015,4.79
+Hungary,HUN,Public spending on health as a share of GDP,All,% of GDP,2000,4.71
+Hungary,HUN,Public spending on health as a share of GDP,All,% of GDP,2001,4.65
+Hungary,HUN,Public spending on health as a share of GDP,All,% of GDP,2002,4.95
+Hungary,HUN,Public spending on health as a share of GDP,All,% of GDP,2003,5.74
+Hungary,HUN,Public spending on health as a share of GDP,All,% of GDP,2004,5.47
+Hungary,HUN,Public spending on health as a share of GDP,All,% of GDP,2005,5.65
+Hungary,HUN,Public spending on health as a share of GDP,All,% of GDP,2006,5.51
+Hungary,HUN,Public spending on health as a share of GDP,All,% of GDP,2007,4.97
+Hungary,HUN,Public spending on health as a share of GDP,All,% of GDP,2008,4.89
+Hungary,HUN,Public spending on health as a share of GDP,All,% of GDP,2009,4.95
+Hungary,HUN,Public spending on health as a share of GDP,All,% of GDP,2010,5.01
+Hungary,HUN,Public spending on health as a share of GDP,All,% of GDP,2011,4.98
+Hungary,HUN,Public spending on health as a share of GDP,All,% of GDP,2012,4.87
+Hungary,HUN,Public spending on health as a share of GDP,All,% of GDP,2013,4.82
+Hungary,HUN,Public spending on health as a share of GDP,All,% of GDP,2014,4.72
+Hungary,HUN,Public spending on health as a share of GDP,All,% of GDP,2015,4.67
+Hungary,HUN,Public spending on health as a share of GDP,All,% of GDP,2016,4.74
+Hungary,HUN,Public spending on health as a share of GDP,All,% of GDP,2017,4.64
+Hungary,HUN,Public spending on health as a share of GDP,All,% of GDP,2018,4.56
+Hungary,HUN,Public spending on health as a share of GDP,All,% of GDP,2019,4.29
+Hungary,HUN,Public spending on health as a share of GDP,All,% of GDP,2020,5.12
+Hungary,HUN,Public spending on health as a share of GDP,All,% of GDP,2021,5.31
+Hungary,HUN,Public spending on health as a share of GDP,All,% of GDP,2022,4.85
+Hungary,HUN,Public spending on health as a share of GDP,All,% of GDP,2023,4.69
+Hungary,HUN,Public spending on health as a share of government spending,All,% of government spending,2000,9.86
+Hungary,HUN,Public spending on health as a share of government spending,All,% of government spending,2001,9.66
+Hungary,HUN,Public spending on health as a share of government spending,All,% of government spending,2002,9.67
+Hungary,HUN,Public spending on health as a share of government spending,All,% of government spending,2003,11.57
+Hungary,HUN,Public spending on health as a share of government spending,All,% of government spending,2004,11.09
+Hungary,HUN,Public spending on health as a share of government spending,All,% of government spending,2005,11.36
+Hungary,HUN,Public spending on health as a share of government spending,All,% of government spending,2006,10.66
+Hungary,HUN,Public spending on health as a share of government spending,All,% of government spending,2007,9.79
+Hungary,HUN,Public spending on health as a share of government spending,All,% of government spending,2008,9.85
+Hungary,HUN,Public spending on health as a share of government spending,All,% of government spending,2009,9.71
+Hungary,HUN,Public spending on health as a share of government spending,All,% of government spending,2010,10.17
+Hungary,HUN,Public spending on health as a share of government spending,All,% of government spending,2011,10.1
+Hungary,HUN,Public spending on health as a share of government spending,All,% of government spending,2012,9.78
+Hungary,HUN,Public spending on health as a share of government spending,All,% of government spending,2013,9.57
+Hungary,HUN,Public spending on health as a share of government spending,All,% of government spending,2014,9.39
+Hungary,HUN,Public spending on health as a share of government spending,All,% of government spending,2015,9.22
+Hungary,HUN,Public spending on health as a share of government spending,All,% of government spending,2016,10.11
+Hungary,HUN,Public spending on health as a share of government spending,All,% of government spending,2017,9.88
+Hungary,HUN,Public spending on health as a share of government spending,All,% of government spending,2018,9.88
+Hungary,HUN,Public spending on health as a share of government spending,All,% of government spending,2019,9.31
+Hungary,HUN,Public spending on health as a share of government spending,All,% of government spending,2020,9.99
+Hungary,HUN,Public spending on health as a share of government spending,All,% of government spending,2021,11.02
+Hungary,HUN,Public spending on health as a share of government spending,All,% of government spending,2022,9.92
+Hungary,HUN,Public spending on health as a share of government spending,All,% of government spending,2023,9.51
+Hungary,HUN,Public spending as a share of current spending on health,All,% of current spending on health,2000,69.65
+Hungary,HUN,Public spending as a share of current spending on health,All,% of current spending on health,2001,68.17
+Hungary,HUN,Public spending as a share of current spending on health,All,% of current spending on health,2002,69.57
+Hungary,HUN,Public spending as a share of current spending on health,All,% of current spending on health,2003,70.54
+Hungary,HUN,Public spending as a share of current spending on health,All,% of current spending on health,2004,70.39
+Hungary,HUN,Public spending as a share of current spending on health,All,% of current spending on health,2005,70.69
+Hungary,HUN,Public spending as a share of current spending on health,All,% of current spending on health,2006,70.78
+Hungary,HUN,Public spending as a share of current spending on health,All,% of current spending on health,2007,68.9
+Hungary,HUN,Public spending as a share of current spending on health,All,% of current spending on health,2008,68.9
+Hungary,HUN,Public spending as a share of current spending on health,All,% of current spending on health,2009,68.34
+Hungary,HUN,Public spending as a share of current spending on health,All,% of current spending on health,2010,67.11
+Hungary,HUN,Public spending as a share of current spending on health,All,% of current spending on health,2011,66.52
+Hungary,HUN,Public spending as a share of current spending on health,All,% of current spending on health,2012,65.53
+Hungary,HUN,Public spending as a share of current spending on health,All,% of current spending on health,2013,66.65
+Hungary,HUN,Public spending as a share of current spending on health,All,% of current spending on health,2014,67.1
+Hungary,HUN,Public spending as a share of current spending on health,All,% of current spending on health,2015,68.17
+Hungary,HUN,Public spending as a share of current spending on health,All,% of current spending on health,2016,68.08
+Hungary,HUN,Public spending as a share of current spending on health,All,% of current spending on health,2017,68.9
+Hungary,HUN,Public spending as a share of current spending on health,All,% of current spending on health,2018,69.55
+Hungary,HUN,Public spending as a share of current spending on health,All,% of current spending on health,2019,68.67
+Hungary,HUN,Public spending as a share of current spending on health,All,% of current spending on health,2020,70.79
+Hungary,HUN,Public spending as a share of current spending on health,All,% of current spending on health,2021,72.45
+Hungary,HUN,Public spending as a share of current spending on health,All,% of current spending on health,2022,72.97
+Hungary,HUN,Public spending as a share of current spending on health,All,% of current spending on health,2023,73.71
+Hungary,HUN,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2000,0.6
+Hungary,HUN,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2001,0.6
+Hungary,HUN,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2002,0.58
+Hungary,HUN,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2003,0.61
+Hungary,HUN,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2004,1.14
+Hungary,HUN,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2005,1.13
+Hungary,HUN,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2006,1.59
+Hungary,HUN,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2007,2.11
+Hungary,HUN,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2008,2.18
+Hungary,HUN,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2009,2.78
+Hungary,HUN,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2010,2.82
+Hungary,HUN,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2011,2.67
+Hungary,HUN,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2012,2.75
+Hungary,HUN,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2013,2.74
+Hungary,HUN,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2014,2.56
+Hungary,HUN,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2015,2.35
+Hungary,HUN,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2016,2.25
+Hungary,HUN,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2017,2.01
+Hungary,HUN,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2018,1.9
+Hungary,HUN,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2019,1.75
+Hungary,HUN,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2020,1.54
+Hungary,HUN,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2021,1.51
+Hungary,HUN,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2022,1.57
+Hungary,HUN,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2023,1.78
+Hungary,HUN,Population entitled to publicly financed health care,All,% of the population,2000,100
+Hungary,HUN,Population entitled to publicly financed health care,All,% of the population,2001,100
+Hungary,HUN,Population entitled to publicly financed health care,All,% of the population,2002,100
+Hungary,HUN,Population entitled to publicly financed health care,All,% of the population,2003,100
+Hungary,HUN,Population entitled to publicly financed health care,All,% of the population,2004,100
+Hungary,HUN,Population entitled to publicly financed health care,All,% of the population,2005,100
+Hungary,HUN,Population entitled to publicly financed health care,All,% of the population,2006,100
+Hungary,HUN,Population entitled to publicly financed health care,All,% of the population,2007,100
+Hungary,HUN,Population entitled to publicly financed health care,All,% of the population,2008,97
+Hungary,HUN,Population entitled to publicly financed health care,All,% of the population,2009,97
+Hungary,HUN,Population entitled to publicly financed health care,All,% of the population,2010,97
+Hungary,HUN,Population entitled to publicly financed health care,All,% of the population,2011,97
+Hungary,HUN,Population entitled to publicly financed health care,All,% of the population,2012,96
+Hungary,HUN,Population entitled to publicly financed health care,All,% of the population,2013,96
+Hungary,HUN,Population entitled to publicly financed health care,All,% of the population,2014,96
+Hungary,HUN,Population entitled to publicly financed health care,All,% of the population,2015,95
+Hungary,HUN,Population entitled to publicly financed health care,All,% of the population,2016,95
+Hungary,HUN,Population entitled to publicly financed health care,All,% of the population,2017,95
+Hungary,HUN,Population entitled to publicly financed health care,All,% of the population,2018,95
+Hungary,HUN,Population entitled to publicly financed health care,All,% of the population,2019,95
+Hungary,HUN,Population entitled to publicly financed health care,All,% of the population,2020,95
+Hungary,HUN,Population entitled to publicly financed health care,All,% of the population,2021,96
+Hungary,HUN,Population entitled to publicly financed health care,All,% of the population,2022,96
+Hungary,HUN,Population entitled to publicly financed health care,All,% of the population,2023,96
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2003,19.4
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2004,28.85
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2005,25.75
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2006,21.95
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2007,26.7
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2008,31.2
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2009,30.95
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2010,31.6
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2011,29.35
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2012,36.15
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2013,35.15
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2014,27.2
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2015,44.2
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2003,3.4
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2004,4.95
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2005,5.15
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2006,3.25
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2007,4.4
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2008,4.35
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2009,5.7
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2010,5.4
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2011,5.3
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2012,6.3
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2013,5
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2014,4.55
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2015,9.05
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2003,1.55
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2004,2.3
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2005,1.5
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2006,1
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2007,2.25
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2008,2.6
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2009,3.15
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2010,2.8
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2011,2.2
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2012,3
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2013,2.6
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2014,2.5
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2015,2.7
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2003,0.7
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2004,1.3
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2005,0.85
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2006,0.45
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2007,0.55
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2008,1.55
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2009,1.5
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2010,1.25
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2011,1.5
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2012,1.2
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2013,1.55
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2014,1.8
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2015,1.45
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2003,0.2
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2004,0.75
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2005,0.35
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2006,0.2
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2007,0.65
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2008,0.3
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2009,0.7
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2010,1
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2011,0.7
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2012,0.9
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2013,1.2
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2014,0.9
+Hungary,HUN,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2015,0.7
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2003,78.49
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2004,75.41
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2005,73.52
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2006,74.1
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2007,75.56
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2008,79.38
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2009,74.89
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2010,74.02
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2011,77.83
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2012,74.55
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2013,71.33
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2014,71.04
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2015,72.19
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2003,6.47
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2004,8.29
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2005,8.13
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2006,7.89
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2007,8.12
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2008,7.05
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2009,8.19
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2010,7.79
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2011,7.24
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2012,9.63
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2013,11
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2014,10.63
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2015,10.47
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2003,6.36
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2004,6.19
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2005,5.75
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2006,6.41
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2007,5.18
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2008,3.74
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2009,5.17
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2010,4.84
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2011,4.46
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2012,3.99
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2013,4.94
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2014,3.86
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2015,6.75
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2003,0.77
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2004,1.76
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2005,2.88
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2006,4.37
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2007,4.47
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2008,3.27
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2009,5.11
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2010,4.11
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2011,1.68
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2012,2.96
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2013,4.58
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2014,4.05
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2015,5.84
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2003,2.72
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2004,3.76
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2005,3.17
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2006,1.79
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2007,2.23
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2008,3.18
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2009,1.93
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2010,1.74
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2011,2.75
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2012,1.55
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2013,4.3
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2014,2.92
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2015,1.57
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2003,5.19
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2004,4.58
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2005,6.55
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2006,5.44
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2007,4.45
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2008,3.38
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2009,4.72
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2010,7.51
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2011,6.03
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2012,7.33
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2013,3.86
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2014,7.51
+Hungary,HUN,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2015,3.18
+Hungary,HUN,Share of Impoverished households (all households),All,%,2003,0.62
+Hungary,HUN,Share of Impoverished households (all households),All,%,2004,1.08
+Hungary,HUN,Share of Impoverished households (all households),All,%,2005,0.87
+Hungary,HUN,Share of Impoverished households (all households),All,%,2006,0.61
+Hungary,HUN,Share of Impoverished households (all households),All,%,2007,0.75
+Hungary,HUN,Share of Impoverished households (all households),All,%,2008,1.23
+Hungary,HUN,Share of Impoverished households (all households),All,%,2009,0.93
+Hungary,HUN,Share of Impoverished households (all households),All,%,2010,0.99
+Hungary,HUN,Share of Impoverished households (all households),All,%,2011,0.86
+Hungary,HUN,Share of Impoverished households (all households),All,%,2012,1.43
+Hungary,HUN,Share of Impoverished households (all households),All,%,2013,0.98
+Hungary,HUN,Share of Impoverished households (all households),All,%,2014,0.88
+Hungary,HUN,Share of Impoverished households (all households),All,%,2015,2.12
+Hungary,HUN,Share of further impoverished households (total),All,%,2003,1.11
+Hungary,HUN,Share of further impoverished households (total),All,%,2004,1.76
+Hungary,HUN,Share of further impoverished households (total),All,%,2005,1.81
+Hungary,HUN,Share of further impoverished households (total),All,%,2006,1.28
+Hungary,HUN,Share of further impoverished households (total),All,%,2007,2.17
+Hungary,HUN,Share of further impoverished households (total),All,%,2008,2.52
+Hungary,HUN,Share of further impoverished households (total),All,%,2009,2.52
+Hungary,HUN,Share of further impoverished households (total),All,%,2010,2.67
+Hungary,HUN,Share of further impoverished households (total),All,%,2011,2.93
+Hungary,HUN,Share of further impoverished households (total),All,%,2012,3.42
+Hungary,HUN,Share of further impoverished households (total),All,%,2013,3.72
+Hungary,HUN,Share of further impoverished households (total),All,%,2014,2.37
+Hungary,HUN,Share of further impoverished households (total),All,%,2015,3.8
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2008,7.1
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2009,4.6
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2010,3.9
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2011,6.5
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2012,7
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2013,7.4
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2014,7.4
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2015,7
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2016,2.7
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2017,1.5
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2018,2.1
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2019,1.5
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2020,1.4
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2021,1.5
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2022,2.1
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2023,1.8
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2024,1.6
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2008,1.4
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2009,0.9
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2010,0.6
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2011,0.5
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2012,1.2
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2013,0.5
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2014,0.3
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2015,0.8
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2016,0.1
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2017,0.4
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2018,0.3
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2019,0.3
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2020,0.5
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2021,0.6
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2022,0.9
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2023,0.6
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2024,0.9
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2008,6.9
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2009,6.4
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2010,7.1
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2011,9.6
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2012,10.5
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2013,10.7
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2014,10
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2015,9.6
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2016,5.1
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2017,3.2
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2018,4.1
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2019,3
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2020,2.7
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2021,1.5
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2022,2.6
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2023,1.5
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2024,1.3
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2008,2.2
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2009,1.1
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2010,1
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2011,1.5
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2012,2.1
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2013,0.9
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2014,1.3
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2015,1
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2016,0.4
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2017,0.2
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2018,0.4
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2019,0.3
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2020,0.3
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2021,0.5
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2022,0.6
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2023,0.2
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2024,0.1
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2008,1.4
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2009,0.6
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2010,0.6
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2011,0.9
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2012,1
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2013,1
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2014,0.7
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2015,0.6
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2016,0.4
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2017,0.1
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2018,0.2
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2019,0.1
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2020,0
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2021,0.2
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2022,0.1
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2023,0.2
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2024,0.4
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2008,4
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2009,2.3
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2010,2.3
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2011,3.6
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2012,3.4
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2013,2.5
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2014,2.4
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2015,3.2
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2016,2.5
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2017,2.1
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2018,1.6
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2019,2.2
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2020,1.7
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2021,2.1
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2022,3
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2023,2.4
+Hungary,HUN,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2024,1.6
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2008,1.2
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2009,0.8
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2010,1
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2011,1.6
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2012,1.7
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2013,1.7
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2014,0.9
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2015,0.9
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2016,2.2
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2017,0.4
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2018,0.4
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2019,0.1
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2020,0.3
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2021,0.3
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2022,0.3
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2023,0.3
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2024,0.1
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2008,3.3
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2009,3
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2010,2.8
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2011,3.4
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2012,3.9
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2013,3.4
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2014,2.2
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2015,2.7
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2016,1.8
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2017,1.5
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2018,1.6
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2019,1.7
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2020,1.3
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2021,0.7
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2022,1.3
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2023,0.5
+Hungary,HUN,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2024,0.5
+Hungary,HUN,Self-reported unmet need for prescribed medicines due to cost (poorest),All,%,2019,9.4
+Hungary,HUN,Self-reported unmet need for prescribed medicines due to cost (richest),All,%,2019,4.3
+Hungary,HUN,Self-reported unmet need for prescribed medicines due to cost (<25 years),All,%,2014,3.5
+Hungary,HUN,Self-reported unmet need for prescribed medicines due to cost (<25 years),All,%,2019,5.7
+Hungary,HUN,Self-reported unmet need for prescribed medicines due to cost (65+ years),All,%,2014,4.5
+Hungary,HUN,Self-reported unmet need for prescribed medicines due to cost (65+ years),All,%,2019,6.2
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2003,4.55
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2004,4.69
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2005,4.59
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2006,4.33
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2007,4.56
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2008,4.19
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2009,4.11
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2010,4.26
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2011,3.91
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2012,4.23
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2013,4.15
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2014,4.06
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2015,5.93
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2003,4.81
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2004,4.57
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2005,4.88
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2006,4.4
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2007,4.74
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2008,4.75
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2009,4.97
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2010,5.02
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2011,4.84
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2012,5.1
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2013,4.97
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2014,5.02
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2015,5.67
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2003,4.42
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2004,4.44
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2005,4.65
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2006,4.26
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2007,4.8
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2008,4.82
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2009,5.17
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2010,5.25
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2011,4.98
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2012,5.04
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2013,5.43
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2014,5.3
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2015,4.97
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2003,3.76
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2004,3.91
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2005,3.98
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2006,3.71
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2007,4.1
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2008,4.5
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2009,4.74
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2010,4.85
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2011,4.9
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2012,4.8
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2013,5.26
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2014,5.37
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2015,4.64
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2003,2.6
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2004,2.93
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2005,2.94
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2006,2.99
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2007,3.57
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2008,3.71
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2009,4.04
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2010,4.4
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2011,4.24
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2012,4.92
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2013,4.74
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2014,4.69
+Hungary,HUN,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2015,3.97
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2003,64.65
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2004,64.85
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2005,65.64
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2006,64.97
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2007,68.57
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2008,71.48
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2009,70.96
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2010,71.41
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2011,71.55
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2012,70.75
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2013,71.64
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2014,70.12
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2015,67.78
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2003,17.97
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2004,16.9
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2005,10.87
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2006,12.1
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2007,10.35
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2008,10.53
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2009,10.34
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2010,9.82
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2011,10.46
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2012,10.52
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2013,10.48
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2014,12.48
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2015,9.23
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2003,7.51
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2004,6.89
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2005,6.68
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2006,7.56
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2007,7.47
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2008,5.37
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2009,5.33
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2010,5.93
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2011,5.62
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2012,5.61
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2013,5.74
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2014,5.78
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2015,8.11
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2003,3.83
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2004,4.11
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2005,9.49
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2006,9.94
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2007,8.63
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2008,7.03
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2009,7.39
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2010,6.54
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2011,6.27
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2012,7.01
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2013,6.28
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2014,6.42
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2015,9.28
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2003,1.4
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2004,2.79
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2005,2.92
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2006,1.3
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2007,1.2
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2008,1.96
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2009,1.41
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2010,1.32
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2011,1.45
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2012,1.21
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2013,1.56
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2014,1.74
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2015,1.71
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2003,4.64
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2004,4.46
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2005,4.39
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2006,4.13
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2007,3.77
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2008,3.62
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2009,4.57
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2010,4.98
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2011,4.65
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2012,4.9
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2013,4.3
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2014,3.47
+Hungary,HUN,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2015,3.9

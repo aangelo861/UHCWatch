@@ -1,0 +1,645 @@
+country,iso3,measure,group,unit,year,value
+Slovakia,SVK,Households with catastrophic health spending,All,% of households,2005,4.85
+Slovakia,SVK,Households with catastrophic health spending,All,% of households,2006,5.04
+Slovakia,SVK,Households with catastrophic health spending,All,% of households,2007,4.31
+Slovakia,SVK,Households with catastrophic health spending,All,% of households,2008,4.2
+Slovakia,SVK,Households with catastrophic health spending,All,% of households,2009,3.62
+Slovakia,SVK,Households with catastrophic health spending,All,% of households,2010,5.33
+Slovakia,SVK,Households with catastrophic health spending,All,% of households,2011,3.76
+Slovakia,SVK,Households with catastrophic health spending,All,% of households,2012,3.02
+Slovakia,SVK,Households with catastrophic health spending,All,% of households,2015,5.09
+Slovakia,SVK,Households with catastrophic health spending,All,% of households,2020,3.62
+Slovakia,SVK,Households with catastrophic health spending,All,% of households,2021,3.41
+Slovakia,SVK,Households with catastrophic health spending,All,% of households,2022,3.22
+Slovakia,SVK,Households with catastrophic health spending,All,% of households,2023,4.36
+Slovakia,SVK,Households with impoverishing health spending,All,% of households,2005,2.95
+Slovakia,SVK,Households with impoverishing health spending,All,% of households,2006,2.66
+Slovakia,SVK,Households with impoverishing health spending,All,% of households,2007,2.47
+Slovakia,SVK,Households with impoverishing health spending,All,% of households,2008,2
+Slovakia,SVK,Households with impoverishing health spending,All,% of households,2009,1.52
+Slovakia,SVK,Households with impoverishing health spending,All,% of households,2010,2.99
+Slovakia,SVK,Households with impoverishing health spending,All,% of households,2011,1.76
+Slovakia,SVK,Households with impoverishing health spending,All,% of households,2012,1.24
+Slovakia,SVK,Households with impoverishing health spending,All,% of households,2015,3.28
+Slovakia,SVK,Households with impoverishing health spending,All,% of households,2020,2.21
+Slovakia,SVK,Households with impoverishing health spending,All,% of households,2021,2.16
+Slovakia,SVK,Households with impoverishing health spending,All,% of households,2022,2.3
+Slovakia,SVK,Households with impoverishing health spending,All,% of households,2023,3.34
+Slovakia,SVK,Unmet need for health care,All,% of people,2008,1.3
+Slovakia,SVK,Unmet need for health care,All,% of people,2009,1.7
+Slovakia,SVK,Unmet need for health care,All,% of people,2010,1.7
+Slovakia,SVK,Unmet need for health care,All,% of people,2011,2.2
+Slovakia,SVK,Unmet need for health care,All,% of people,2012,2.2
+Slovakia,SVK,Unmet need for health care,All,% of people,2013,1.9
+Slovakia,SVK,Unmet need for health care,All,% of people,2014,2.1
+Slovakia,SVK,Unmet need for health care,All,% of people,2015,2.1
+Slovakia,SVK,Unmet need for health care,All,% of people,2016,2.3
+Slovakia,SVK,Unmet need for health care,All,% of people,2017,2.4
+Slovakia,SVK,Unmet need for health care,All,% of people,2018,2.6
+Slovakia,SVK,Unmet need for health care,All,% of people,2019,2.7
+Slovakia,SVK,Unmet need for health care,All,% of people,2020,3.2
+Slovakia,SVK,Unmet need for health care,All,% of people,2021,2.9
+Slovakia,SVK,Unmet need for health care,All,% of people,2022,2.8
+Slovakia,SVK,Unmet need for health care,All,% of people,2023,3.2
+Slovakia,SVK,Unmet need for health care,All,% of people,2024,1.6
+Slovakia,SVK,Unmet need for dental care,All,% of people,2008,1.5
+Slovakia,SVK,Unmet need for dental care,All,% of people,2009,1.6
+Slovakia,SVK,Unmet need for dental care,All,% of people,2010,1.9
+Slovakia,SVK,Unmet need for dental care,All,% of people,2011,1.9
+Slovakia,SVK,Unmet need for dental care,All,% of people,2012,2.1
+Slovakia,SVK,Unmet need for dental care,All,% of people,2013,2.3
+Slovakia,SVK,Unmet need for dental care,All,% of people,2014,2.4
+Slovakia,SVK,Unmet need for dental care,All,% of people,2015,2.7
+Slovakia,SVK,Unmet need for dental care,All,% of people,2016,2.3
+Slovakia,SVK,Unmet need for dental care,All,% of people,2017,1.9
+Slovakia,SVK,Unmet need for dental care,All,% of people,2018,2.4
+Slovakia,SVK,Unmet need for dental care,All,% of people,2019,2.1
+Slovakia,SVK,Unmet need for dental care,All,% of people,2020,2.8
+Slovakia,SVK,Unmet need for dental care,All,% of people,2021,2
+Slovakia,SVK,Unmet need for dental care,All,% of people,2022,2.1
+Slovakia,SVK,Unmet need for dental care,All,% of people,2023,2.2
+Slovakia,SVK,Unmet need for dental care,All,% of people,2024,1.4
+Slovakia,SVK,Unmet need for prescribed medicines due to cost,All,% of people needing care,2014,4.3
+Slovakia,SVK,Unmet need for prescribed medicines due to cost,All,% of people needing care,2019,3
+Slovakia,SVK,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2000,10.84
+Slovakia,SVK,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2001,10.9
+Slovakia,SVK,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2002,11.02
+Slovakia,SVK,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2003,12.21
+Slovakia,SVK,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2004,21.23
+Slovakia,SVK,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2005,23.61
+Slovakia,SVK,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2006,26.59
+Slovakia,SVK,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2007,27.37
+Slovakia,SVK,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2008,21.02
+Slovakia,SVK,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2009,22.42
+Slovakia,SVK,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2010,22.8
+Slovakia,SVK,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2011,23.57
+Slovakia,SVK,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2012,23.23
+Slovakia,SVK,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2013,23.32
+Slovakia,SVK,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2014,18.01
+Slovakia,SVK,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2015,18.44
+Slovakia,SVK,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2016,17.89
+Slovakia,SVK,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2017,18.71
+Slovakia,SVK,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2018,18.91
+Slovakia,SVK,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2019,19.16
+Slovakia,SVK,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2020,18.75
+Slovakia,SVK,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2021,19.4
+Slovakia,SVK,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2022,19.26
+Slovakia,SVK,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2023,20.15
+Slovakia,SVK,Out-of-pocket payments as a share of household spending,All,% of household consumption,2005,2.91
+Slovakia,SVK,Out-of-pocket payments as a share of household spending,All,% of household consumption,2006,2.77
+Slovakia,SVK,Out-of-pocket payments as a share of household spending,All,% of household consumption,2007,2.66
+Slovakia,SVK,Out-of-pocket payments as a share of household spending,All,% of household consumption,2008,2.96
+Slovakia,SVK,Out-of-pocket payments as a share of household spending,All,% of household consumption,2009,3.02
+Slovakia,SVK,Out-of-pocket payments as a share of household spending,All,% of household consumption,2010,3.5
+Slovakia,SVK,Out-of-pocket payments as a share of household spending,All,% of household consumption,2011,3.2
+Slovakia,SVK,Out-of-pocket payments as a share of household spending,All,% of household consumption,2012,3.45
+Slovakia,SVK,Out-of-pocket payments as a share of household spending,All,% of household consumption,2015,3.19
+Slovakia,SVK,Out-of-pocket payments as a share of household spending,All,% of household consumption,2020,2.9
+Slovakia,SVK,Out-of-pocket payments as a share of household spending,All,% of household consumption,2021,2.9
+Slovakia,SVK,Out-of-pocket payments as a share of household spending,All,% of household consumption,2022,2.64
+Slovakia,SVK,Out-of-pocket payments as a share of household spending,All,% of household consumption,2023,2.36
+Slovakia,SVK,Public spending on health as a share of GDP,All,% of GDP,2000,4.73
+Slovakia,SVK,Public spending on health as a share of GDP,All,% of GDP,2001,4.76
+Slovakia,SVK,Public spending on health as a share of GDP,All,% of GDP,2002,4.91
+Slovakia,SVK,Public spending on health as a share of GDP,All,% of GDP,2003,4.81
+Slovakia,SVK,Public spending on health as a share of GDP,All,% of GDP,2004,5.04
+Slovakia,SVK,Public spending on health as a share of GDP,All,% of GDP,2005,4.98
+Slovakia,SVK,Public spending on health as a share of GDP,All,% of GDP,2006,4.8
+Slovakia,SVK,Public spending on health as a share of GDP,All,% of GDP,2007,4.97
+Slovakia,SVK,Public spending on health as a share of GDP,All,% of GDP,2008,5.25
+Slovakia,SVK,Public spending on health as a share of GDP,All,% of GDP,2009,5.84
+Slovakia,SVK,Public spending on health as a share of GDP,All,% of GDP,2010,5.52
+Slovakia,SVK,Public spending on health as a share of GDP,All,% of GDP,2011,5.4
+Slovakia,SVK,Public spending on health as a share of GDP,All,% of GDP,2012,5.43
+Slovakia,SVK,Public spending on health as a share of GDP,All,% of GDP,2013,5.55
+Slovakia,SVK,Public spending on health as a share of GDP,All,% of GDP,2014,5.51
+Slovakia,SVK,Public spending on health as a share of GDP,All,% of GDP,2015,5.37
+Slovakia,SVK,Public spending on health as a share of GDP,All,% of GDP,2016,5.7
+Slovakia,SVK,Public spending on health as a share of GDP,All,% of GDP,2017,5.38
+Slovakia,SVK,Public spending on health as a share of GDP,All,% of GDP,2018,5.32
+Slovakia,SVK,Public spending on health as a share of GDP,All,% of GDP,2019,5.51
+Slovakia,SVK,Public spending on health as a share of GDP,All,% of GDP,2020,5.67
+Slovakia,SVK,Public spending on health as a share of GDP,All,% of GDP,2021,6.08
+Slovakia,SVK,Public spending on health as a share of GDP,All,% of GDP,2022,6.15
+Slovakia,SVK,Public spending on health as a share of GDP,All,% of GDP,2023,5.8
+Slovakia,SVK,Public spending on health as a share of government spending,All,% of government spending,2000,8.72
+Slovakia,SVK,Public spending on health as a share of government spending,All,% of government spending,2001,10.18
+Slovakia,SVK,Public spending on health as a share of government spending,All,% of government spending,2002,10.55
+Slovakia,SVK,Public spending on health as a share of government spending,All,% of government spending,2003,11.91
+Slovakia,SVK,Public spending on health as a share of government spending,All,% of government spending,2004,13.11
+Slovakia,SVK,Public spending on health as a share of government spending,All,% of government spending,2005,12.7
+Slovakia,SVK,Public spending on health as a share of government spending,All,% of government spending,2006,12.5
+Slovakia,SVK,Public spending on health as a share of government spending,All,% of government spending,2007,13.73
+Slovakia,SVK,Public spending on health as a share of government spending,All,% of government spending,2008,14.25
+Slovakia,SVK,Public spending on health as a share of government spending,All,% of government spending,2009,13.18
+Slovakia,SVK,Public spending on health as a share of government spending,All,% of government spending,2010,13.27
+Slovakia,SVK,Public spending on health as a share of government spending,All,% of government spending,2011,12.93
+Slovakia,SVK,Public spending on health as a share of government spending,All,% of government spending,2012,13.37
+Slovakia,SVK,Public spending on health as a share of government spending,All,% of government spending,2013,13.34
+Slovakia,SVK,Public spending on health as a share of government spending,All,% of government spending,2014,12.98
+Slovakia,SVK,Public spending on health as a share of government spending,All,% of government spending,2015,12.03
+Slovakia,SVK,Public spending on health as a share of government spending,All,% of government spending,2016,13.81
+Slovakia,SVK,Public spending on health as a share of government spending,All,% of government spending,2017,13.38
+Slovakia,SVK,Public spending on health as a share of government spending,All,% of government spending,2018,13.26
+Slovakia,SVK,Public spending on health as a share of government spending,All,% of government spending,2019,13.4
+Slovakia,SVK,Public spending on health as a share of government spending,All,% of government spending,2020,12.74
+Slovakia,SVK,Public spending on health as a share of government spending,All,% of government spending,2021,13.55
+Slovakia,SVK,Public spending on health as a share of government spending,All,% of government spending,2022,14.31
+Slovakia,SVK,Public spending on health as a share of government spending,All,% of government spending,2023,12.1
+Slovakia,SVK,Public spending as a share of current spending on health,All,% of current spending on health,2000,89.16
+Slovakia,SVK,Public spending as a share of current spending on health,All,% of current spending on health,2001,89.1
+Slovakia,SVK,Public spending as a share of current spending on health,All,% of current spending on health,2002,88.98
+Slovakia,SVK,Public spending as a share of current spending on health,All,% of current spending on health,2003,87.79
+Slovakia,SVK,Public spending as a share of current spending on health,All,% of current spending on health,2004,78.77
+Slovakia,SVK,Public spending as a share of current spending on health,All,% of current spending on health,2005,75.29
+Slovakia,SVK,Public spending as a share of current spending on health,All,% of current spending on health,2006,69.98
+Slovakia,SVK,Public spending as a share of current spending on health,All,% of current spending on health,2007,69.3
+Slovakia,SVK,Public spending as a share of current spending on health,All,% of current spending on health,2008,75.36
+Slovakia,SVK,Public spending as a share of current spending on health,All,% of current spending on health,2009,73.49
+Slovakia,SVK,Public spending as a share of current spending on health,All,% of current spending on health,2010,71.91
+Slovakia,SVK,Public spending as a share of current spending on health,All,% of current spending on health,2011,73.78
+Slovakia,SVK,Public spending as a share of current spending on health,All,% of current spending on health,2012,72.17
+Slovakia,SVK,Public spending as a share of current spending on health,All,% of current spending on health,2013,74.21
+Slovakia,SVK,Public spending as a share of current spending on health,All,% of current spending on health,2014,80.23
+Slovakia,SVK,Public spending as a share of current spending on health,All,% of current spending on health,2015,79.72
+Slovakia,SVK,Public spending as a share of current spending on health,All,% of current spending on health,2016,80.69
+Slovakia,SVK,Public spending as a share of current spending on health,All,% of current spending on health,2017,79.94
+Slovakia,SVK,Public spending as a share of current spending on health,All,% of current spending on health,2018,80.13
+Slovakia,SVK,Public spending as a share of current spending on health,All,% of current spending on health,2019,79.79
+Slovakia,SVK,Public spending as a share of current spending on health,All,% of current spending on health,2020,80.27
+Slovakia,SVK,Public spending as a share of current spending on health,All,% of current spending on health,2021,79.73
+Slovakia,SVK,Public spending as a share of current spending on health,All,% of current spending on health,2022,79.88
+Slovakia,SVK,Public spending as a share of current spending on health,All,% of current spending on health,2023,78.95
+Slovakia,SVK,Population entitled to publicly financed health care,All,% of the population,2000,98.8
+Slovakia,SVK,Population entitled to publicly financed health care,All,% of the population,2001,97.9
+Slovakia,SVK,Population entitled to publicly financed health care,All,% of the population,2002,97.3
+Slovakia,SVK,Population entitled to publicly financed health care,All,% of the population,2003,96.9
+Slovakia,SVK,Population entitled to publicly financed health care,All,% of the population,2004,95.6
+Slovakia,SVK,Population entitled to publicly financed health care,All,% of the population,2005,97.6
+Slovakia,SVK,Population entitled to publicly financed health care,All,% of the population,2006,96.3
+Slovakia,SVK,Population entitled to publicly financed health care,All,% of the population,2007,95.5
+Slovakia,SVK,Population entitled to publicly financed health care,All,% of the population,2008,95.4
+Slovakia,SVK,Population entitled to publicly financed health care,All,% of the population,2009,95.2
+Slovakia,SVK,Population entitled to publicly financed health care,All,% of the population,2010,94.8
+Slovakia,SVK,Population entitled to publicly financed health care,All,% of the population,2011,95.2
+Slovakia,SVK,Population entitled to publicly financed health care,All,% of the population,2012,95
+Slovakia,SVK,Population entitled to publicly financed health care,All,% of the population,2013,94.6
+Slovakia,SVK,Population entitled to publicly financed health care,All,% of the population,2014,94.2
+Slovakia,SVK,Population entitled to publicly financed health care,All,% of the population,2015,93.8
+Slovakia,SVK,Population entitled to publicly financed health care,All,% of the population,2016,94.5
+Slovakia,SVK,Population entitled to publicly financed health care,All,% of the population,2017,94.6
+Slovakia,SVK,Population entitled to publicly financed health care,All,% of the population,2018,94.5
+Slovakia,SVK,Population entitled to publicly financed health care,All,% of the population,2019,94.6
+Slovakia,SVK,Population entitled to publicly financed health care,All,% of the population,2020,94.6
+Slovakia,SVK,Population entitled to publicly financed health care,All,% of the population,2021,95
+Slovakia,SVK,Population entitled to publicly financed health care,All,% of the population,2022,95.3
+Slovakia,SVK,Population entitled to publicly financed health care,All,% of the population,2023,95.5
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2005,20.65
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2006,21.45
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2007,18.35
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2008,17.05
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2009,14.35
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2010,22.1
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2011,14.55
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2012,11
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2015,23.4
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2020,16.7
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2021,15.6
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2022,15.7
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2023,20.85
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2005,1.25
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2006,1.5
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2007,1.05
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2008,0.95
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2009,1.25
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2010,1.15
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2011,1.5
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2012,0.8
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2015,1.45
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2020,0.75
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2021,0.75
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2022,0.15
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2023,0.45
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2005,0.7
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2006,0.65
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2007,0.55
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2008,1.1
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2009,0.55
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2010,1.05
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2011,0.7
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2012,0.4
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2015,0.35
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2020,0.15
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2021,0.15
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2022,0
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2023,0.1
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2005,0.75
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2006,0.35
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2007,0.6
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2008,0.6
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2009,0.8
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2010,0.75
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2011,1.05
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2012,1.05
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2020,0.35
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2021,0.35
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2022,0.15
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2023,0.15
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2005,0.95
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2006,1.3
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2007,0.95
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2008,1.25
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2009,1.1
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2010,1.55
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2011,1
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2012,1.85
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2015,0.25
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2020,0.2
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2021,0.2
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2022,0.1
+Slovakia,SVK,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2023,0.2
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2005,36.55
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2006,35.53
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2007,31.98
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2008,25.42
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2009,36.22
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2010,30.45
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2011,31.79
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2012,19.87
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2015,74.49
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2020,55.37
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2021,52.42
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2022,61.75
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2023,55.78
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2005,13.68
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2006,15.02
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2007,14.86
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2008,15.69
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2009,11.45
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2010,19.69
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2011,9.49
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2012,11.94
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2015,2.01
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2020,0.87
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2021,0.81
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2022,0.71
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2023,0.27
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2005,2.28
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2006,1.76
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2007,1.33
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2008,0.32
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2009,0.71
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2010,3.48
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2011,0.9
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2012,9.75
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2015,1.83
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2020,0.11
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2021,0.12
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2022,0.8
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2023,0.93
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2005,30.92
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2006,30.37
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2007,43.38
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2008,40.47
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2009,34.91
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2010,39.86
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2011,34.78
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2012,31.58
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2015,20.71
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2020,35.77
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2021,38.49
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2022,34.38
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2023,37.71
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2005,13.57
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2006,11.24
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2007,5.7
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2008,15.16
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2009,12.52
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2010,5.04
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2011,13.05
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2012,9.09
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2015,0.54
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2020,3.67
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2021,3.9
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2022,0.06
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2023,0.36
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2005,3
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2006,6.08
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2007,2.76
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2008,2.94
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2009,4.19
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2010,1.47
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2011,9.99
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2012,17.78
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2015,0.43
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2020,4.2
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2021,4.26
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2022,2.31
+Slovakia,SVK,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2023,4.95
+Slovakia,SVK,Share of Impoverished households (all households),All,%,2005,0.75
+Slovakia,SVK,Share of Impoverished households (all households),All,%,2006,0.63
+Slovakia,SVK,Share of Impoverished households (all households),All,%,2007,0.64
+Slovakia,SVK,Share of Impoverished households (all households),All,%,2008,0.41
+Slovakia,SVK,Share of Impoverished households (all households),All,%,2009,0.37
+Slovakia,SVK,Share of Impoverished households (all households),All,%,2010,0.6
+Slovakia,SVK,Share of Impoverished households (all households),All,%,2011,0.29
+Slovakia,SVK,Share of Impoverished households (all households),All,%,2012,0.36
+Slovakia,SVK,Share of Impoverished households (all households),All,%,2015,0.64
+Slovakia,SVK,Share of Impoverished households (all households),All,%,2020,0.46
+Slovakia,SVK,Share of Impoverished households (all households),All,%,2021,0.3
+Slovakia,SVK,Share of Impoverished households (all households),All,%,2022,0.38
+Slovakia,SVK,Share of Impoverished households (all households),All,%,2023,0.68
+Slovakia,SVK,Share of further impoverished households (total),All,%,2005,2.19
+Slovakia,SVK,Share of further impoverished households (total),All,%,2006,2.02
+Slovakia,SVK,Share of further impoverished households (total),All,%,2007,1.84
+Slovakia,SVK,Share of further impoverished households (total),All,%,2008,1.59
+Slovakia,SVK,Share of further impoverished households (total),All,%,2009,1.14
+Slovakia,SVK,Share of further impoverished households (total),All,%,2010,2.39
+Slovakia,SVK,Share of further impoverished households (total),All,%,2011,1.47
+Slovakia,SVK,Share of further impoverished households (total),All,%,2012,0.88
+Slovakia,SVK,Share of further impoverished households (total),All,%,2015,2.64
+Slovakia,SVK,Share of further impoverished households (total),All,%,2020,1.75
+Slovakia,SVK,Share of further impoverished households (total),All,%,2021,1.85
+Slovakia,SVK,Share of further impoverished households (total),All,%,2022,1.92
+Slovakia,SVK,Share of further impoverished households (total),All,%,2023,2.66
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2008,2.5
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2009,3.4
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2010,3.7
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2011,3.8
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2012,4.1
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2013,2.9
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2014,3.8
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2015,3.1
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2016,3
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2017,4
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2018,4
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2019,4.1
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2020,5.9
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2021,4.6
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2022,5.4
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2023,5.3
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2024,1.4
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2008,0.9
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2009,1
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2010,1
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2011,1.4
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2012,1.3
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2013,1.3
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2014,1.7
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2015,1.1
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2016,0.9
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2017,1.2
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2018,1.6
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2019,2.1
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2020,2
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2021,1.5
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2022,1.3
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2023,2.2
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2024,1.4
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2008,2
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2009,2.6
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2010,4
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2011,4.2
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2012,5.3
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2013,4.4
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2014,6.1
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2015,5.8
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2016,4.9
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2017,3.7
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2018,3.7
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2019,3.9
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2020,6.2
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2021,3.8
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2022,3.8
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2023,4
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2024,3.1
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2008,1.2
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2009,1.1
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2010,1
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2011,1
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2012,1.1
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2013,1.3
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2014,1.4
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2015,1.1
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2016,0.8
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2017,0.7
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2018,2
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2019,1.1
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2020,1.5
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2021,1.2
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2022,1.2
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2023,1.5
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2024,0.6
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2008,0.3
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2009,0.5
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2010,0.5
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2011,1.1
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2012,0.7
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2013,0.6
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2014,0.9
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2015,0.9
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2016,1.2
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2017,1.6
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2018,0.8
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2019,1
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2020,2.2
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2021,0.5
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2022,1.4
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2023,1.1
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2024,0.6
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2008,3.1
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2009,3.7
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2010,2.9
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2011,4
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2012,4.6
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2013,3.6
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2014,3.1
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2015,3.9
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2016,3.8
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2017,4.2
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2018,4.2
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2019,4.7
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2020,5.9
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2021,5.5
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2022,5.6
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2023,6.1
+Slovakia,SVK,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2024,2.4
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2008,0.7
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2009,1
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2010,1.1
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2011,1
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2012,1.4
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2013,1.1
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2014,1.2
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2015,1.2
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2016,2.3
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2017,1
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2018,1.2
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2019,1
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2020,2
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2021,1
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2022,1.1
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2023,2.2
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2024,0.9
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2008,1.1
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2009,1.1
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2010,1
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2011,1.9
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2012,1.8
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2013,2
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2014,2.2
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2015,2.5
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2016,2.3
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2017,1.8
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2018,2.4
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2019,2.2
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2020,3.7
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2021,2.9
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2022,3
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2023,3.5
+Slovakia,SVK,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2024,1.5
+Slovakia,SVK,Self-reported unmet need for prescribed medicines due to cost (poorest),All,%,2019,6.3
+Slovakia,SVK,Self-reported unmet need for prescribed medicines due to cost (richest),All,%,2019,1.1
+Slovakia,SVK,Self-reported unmet need for prescribed medicines due to cost (<25 years),All,%,2014,2.5
+Slovakia,SVK,Self-reported unmet need for prescribed medicines due to cost (<25 years),All,%,2019,0
+Slovakia,SVK,Self-reported unmet need for prescribed medicines due to cost (65+ years),All,%,2014,5.4
+Slovakia,SVK,Self-reported unmet need for prescribed medicines due to cost (65+ years),All,%,2019,4.8
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2005,2.96
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2006,2.79
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2007,2.86
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2008,2.82
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2009,2.87
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2010,2.8
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2011,2.91
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2012,2.68
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2015,3.93
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2020,2.71
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2022,2.69
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2023,2.18
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2005,2.97
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2006,2.98
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2007,2.71
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2008,2.96
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2010,3.34
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2011,3.11
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2012,3.18
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2015,3.53
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2020,2.93
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2021,2.95
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2022,2.65
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2023,2.13
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2005,3
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2006,2.81
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2007,2.82
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2008,2.97
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2009,3.18
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2010,3.36
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2011,3.34
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2015,3.25
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2020,3.09
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2022,2.78
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2023,2.48
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2005,3.32
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2006,2.79
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2007,2.62
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2008,2.87
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2009,3.17
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2010,3.72
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2011,3.25
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2012,3.7
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2015,3.13
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2020,3.07
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2021,3.14
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2022,2.71
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2023,2.46
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2005,2.59
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2006,2.64
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2007,2.52
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2008,3.06
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2009,2.93
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2010,3.8
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2011,3.26
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2012,3.86
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2015,2.73
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2020,2.74
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2021,2.67
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2022,2.47
+Slovakia,SVK,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2023,2.41
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2005,64.31
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2006,66.86
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2007,66.7
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2008,62.08
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2009,65.52
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2010,62.77
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2011,67.26
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2012,63.09
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2015,75.84
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2020,69.05
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2021,68.39
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2022,69.47
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2023,64.74
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2005,10.53
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2006,10.1
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2007,10.57
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2008,11.74
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2009,9.2
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2010,10.69
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2011,8.99
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2012,9.62
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2015,5.54
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2020,2.87
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2021,2.98
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2022,3.44
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2023,2.65
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2005,5.1
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2006,3.92
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2007,2.01
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2008,2.28
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2009,3.72
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2010,2.58
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2011,2.55
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2012,3.91
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2015,2.61
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2020,2.49
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2021,2.46
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2022,2.1
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2023,3.05
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2005,13.32
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2006,14.09
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2007,17.14
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2008,19.37
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2009,17.54
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2010,20.41
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2011,16.6
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2012,16.84
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2015,13.16
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2020,20.78
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2021,21.38
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2022,20.57
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2023,24.45
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2005,3.99
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2006,2.76
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2007,2.55
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2008,3.51
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2009,2.68
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2010,2.63
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2011,2.98
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2012,3.14
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2015,2.18
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2020,0.46
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2021,0.46
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2022,0.27
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2023,0.38
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2005,2.76
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2006,2.26
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2007,1.03
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2008,1.02
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2009,1.33
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2010,0.92
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2011,1.62
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2012,3.4
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2015,0.67
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2020,4.35
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2021,4.33
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2022,4.15
+Slovakia,SVK,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2023,4.73

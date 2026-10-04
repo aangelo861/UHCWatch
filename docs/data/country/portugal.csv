@@ -1,0 +1,468 @@
+country,iso3,measure,group,unit,year,value
+Portugal,PRT,Households with catastrophic health spending,All,% of households,2000,10.13
+Portugal,PRT,Households with catastrophic health spending,All,% of households,2005,10.64
+Portugal,PRT,Households with catastrophic health spending,All,% of households,2010,11.19
+Portugal,PRT,Households with catastrophic health spending,All,% of households,2015,9.13
+Portugal,PRT,Households with catastrophic health spending,All,% of households,2022,7.45
+Portugal,PRT,Households with impoverishing health spending,All,% of households,2000,3.31
+Portugal,PRT,Households with impoverishing health spending,All,% of households,2005,2.44
+Portugal,PRT,Households with impoverishing health spending,All,% of households,2010,3.69
+Portugal,PRT,Households with impoverishing health spending,All,% of households,2015,3
+Portugal,PRT,Households with impoverishing health spending,All,% of households,2022,3.33
+Portugal,PRT,Unmet need for health care,All,% of people,2008,1.1
+Portugal,PRT,Unmet need for health care,All,% of people,2009,3.3
+Portugal,PRT,Unmet need for health care,All,% of people,2010,2
+Portugal,PRT,Unmet need for health care,All,% of people,2011,1.4
+Portugal,PRT,Unmet need for health care,All,% of people,2012,3.3
+Portugal,PRT,Unmet need for health care,All,% of people,2013,3
+Portugal,PRT,Unmet need for health care,All,% of people,2014,3.5
+Portugal,PRT,Unmet need for health care,All,% of people,2015,3
+Portugal,PRT,Unmet need for health care,All,% of people,2016,2.4
+Portugal,PRT,Unmet need for health care,All,% of people,2017,2.3
+Portugal,PRT,Unmet need for health care,All,% of people,2018,2.1
+Portugal,PRT,Unmet need for health care,All,% of people,2019,1.7
+Portugal,PRT,Unmet need for health care,All,% of people,2020,1.6
+Portugal,PRT,Unmet need for health care,All,% of people,2021,2.3
+Portugal,PRT,Unmet need for health care,All,% of people,2022,2.9
+Portugal,PRT,Unmet need for health care,All,% of people,2023,2.8
+Portugal,PRT,Unmet need for health care,All,% of people,2024,2.5
+Portugal,PRT,Unmet need for health care,All,% of people,2025,2.5
+Portugal,PRT,Unmet need for dental care,All,% of people,2008,7.3
+Portugal,PRT,Unmet need for dental care,All,% of people,2009,12
+Portugal,PRT,Unmet need for dental care,All,% of people,2010,11.5
+Portugal,PRT,Unmet need for dental care,All,% of people,2011,9.1
+Portugal,PRT,Unmet need for dental care,All,% of people,2012,13.8
+Portugal,PRT,Unmet need for dental care,All,% of people,2013,14.3
+Portugal,PRT,Unmet need for dental care,All,% of people,2014,15.7
+Portugal,PRT,Unmet need for dental care,All,% of people,2015,14.6
+Portugal,PRT,Unmet need for dental care,All,% of people,2016,14
+Portugal,PRT,Unmet need for dental care,All,% of people,2017,11.6
+Portugal,PRT,Unmet need for dental care,All,% of people,2018,10.9
+Portugal,PRT,Unmet need for dental care,All,% of people,2019,9.8
+Portugal,PRT,Unmet need for dental care,All,% of people,2020,8.2
+Portugal,PRT,Unmet need for dental care,All,% of people,2021,9
+Portugal,PRT,Unmet need for dental care,All,% of people,2022,8.2
+Portugal,PRT,Unmet need for dental care,All,% of people,2023,8.7
+Portugal,PRT,Unmet need for dental care,All,% of people,2024,7.5
+Portugal,PRT,Unmet need for dental care,All,% of people,2025,7.9
+Portugal,PRT,Unmet need for prescribed medicines due to cost,All,% of people needing care,2014,10
+Portugal,PRT,Unmet need for prescribed medicines due to cost,All,% of people needing care,2019,6.7
+Portugal,PRT,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2000,25.71
+Portugal,PRT,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2001,25.11
+Portugal,PRT,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2002,23.18
+Portugal,PRT,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2003,23.69
+Portugal,PRT,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2004,23.51
+Portugal,PRT,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2005,23.68
+Portugal,PRT,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2006,25.52
+Portugal,PRT,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2007,25.91
+Portugal,PRT,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2008,26.39
+Portugal,PRT,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2009,25.1
+Portugal,PRT,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2010,24.71
+Portugal,PRT,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2011,26.65
+Portugal,PRT,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2012,29.58
+Portugal,PRT,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2013,28.79
+Portugal,PRT,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2014,29.33
+Portugal,PRT,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2015,29.53
+Portugal,PRT,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2016,29.43
+Portugal,PRT,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2017,29.69
+Portugal,PRT,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2018,29.92
+Portugal,PRT,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2019,30.61
+Portugal,PRT,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2020,28.02
+Portugal,PRT,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2021,29.12
+Portugal,PRT,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2022,29.14
+Portugal,PRT,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2023,29.31
+Portugal,PRT,Out-of-pocket payments as a share of current spending on health,All,% of current spending on health,2024,28.19
+Portugal,PRT,Out-of-pocket payments as a share of household spending,All,% of household consumption,2000,5.88
+Portugal,PRT,Out-of-pocket payments as a share of household spending,All,% of household consumption,2005,7.47
+Portugal,PRT,Out-of-pocket payments as a share of household spending,All,% of household consumption,2010,7.11
+Portugal,PRT,Out-of-pocket payments as a share of household spending,All,% of household consumption,2015,6.93
+Portugal,PRT,Out-of-pocket payments as a share of household spending,All,% of household consumption,2022,5.29
+Portugal,PRT,Public spending on health as a share of GDP,All,% of GDP,2000,6
+Portugal,PRT,Public spending on health as a share of GDP,All,% of GDP,2001,6.06
+Portugal,PRT,Public spending on health as a share of GDP,All,% of GDP,2002,6.33
+Portugal,PRT,Public spending on health as a share of GDP,All,% of GDP,2003,6.45
+Portugal,PRT,Public spending on health as a share of GDP,All,% of GDP,2004,6.73
+Portugal,PRT,Public spending on health as a share of GDP,All,% of GDP,2005,6.85
+Portugal,PRT,Public spending on health as a share of GDP,All,% of GDP,2006,5.94
+Portugal,PRT,Public spending on health as a share of GDP,All,% of GDP,2007,5.81
+Portugal,PRT,Public spending on health as a share of GDP,All,% of GDP,2008,5.99
+Portugal,PRT,Public spending on health as a share of GDP,All,% of GDP,2009,6.47
+Portugal,PRT,Public spending on health as a share of GDP,All,% of GDP,2010,6.67
+Portugal,PRT,Public spending on health as a share of GDP,All,% of GDP,2011,6.27
+Portugal,PRT,Public spending on health as a share of GDP,All,% of GDP,2012,5.91
+Portugal,PRT,Public spending on health as a share of GDP,All,% of GDP,2013,5.86
+Portugal,PRT,Public spending on health as a share of GDP,All,% of GDP,2014,5.77
+Portugal,PRT,Public spending on health as a share of GDP,All,% of GDP,2015,5.76
+Portugal,PRT,Public spending on health as a share of GDP,All,% of GDP,2016,5.8
+Portugal,PRT,Public spending on health as a share of GDP,All,% of GDP,2017,5.71
+Portugal,PRT,Public spending on health as a share of GDP,All,% of GDP,2018,5.77
+Portugal,PRT,Public spending on health as a share of GDP,All,% of GDP,2019,5.79
+Portugal,PRT,Public spending on health as a share of GDP,All,% of GDP,2020,6.76
+Portugal,PRT,Public spending on health as a share of GDP,All,% of GDP,2021,7.02
+Portugal,PRT,Public spending on health as a share of GDP,All,% of GDP,2022,6.58
+Portugal,PRT,Public spending on health as a share of GDP,All,% of GDP,2023,6.17
+Portugal,PRT,Public spending on health as a share of GDP,All,% of GDP,2024,6.37
+Portugal,PRT,Public spending on health as a share of government spending,All,% of government spending,2000,14.06
+Portugal,PRT,Public spending on health as a share of government spending,All,% of government spending,2001,13.72
+Portugal,PRT,Public spending on health as a share of government spending,All,% of government spending,2002,14.46
+Portugal,PRT,Public spending on health as a share of government spending,All,% of government spending,2003,14.18
+Portugal,PRT,Public spending on health as a share of government spending,All,% of government spending,2004,14.54
+Portugal,PRT,Public spending on health as a share of government spending,All,% of government spending,2005,14.63
+Portugal,PRT,Public spending on health as a share of government spending,All,% of government spending,2006,13.12
+Portugal,PRT,Public spending on health as a share of government spending,All,% of government spending,2007,13.03
+Portugal,PRT,Public spending on health as a share of government spending,All,% of government spending,2008,13.17
+Portugal,PRT,Public spending on health as a share of government spending,All,% of government spending,2009,12.86
+Portugal,PRT,Public spending on health as a share of government spending,All,% of government spending,2010,12.84
+Portugal,PRT,Public spending on health as a share of government spending,All,% of government spending,2011,12.53
+Portugal,PRT,Public spending on health as a share of government spending,All,% of government spending,2012,12.1
+Portugal,PRT,Public spending on health as a share of government spending,All,% of government spending,2013,11.71
+Portugal,PRT,Public spending on health as a share of government spending,All,% of government spending,2014,11.15
+Portugal,PRT,Public spending on health as a share of government spending,All,% of government spending,2015,11.91
+Portugal,PRT,Public spending on health as a share of government spending,All,% of government spending,2016,12.9
+Portugal,PRT,Public spending on health as a share of government spending,All,% of government spending,2017,12.54
+Portugal,PRT,Public spending on health as a share of government spending,All,% of government spending,2018,13.31
+Portugal,PRT,Public spending on health as a share of government spending,All,% of government spending,2019,13.6
+Portugal,PRT,Public spending on health as a share of government spending,All,% of government spending,2020,13.76
+Portugal,PRT,Public spending on health as a share of government spending,All,% of government spending,2021,14.79
+Portugal,PRT,Public spending on health as a share of government spending,All,% of government spending,2022,14.99
+Portugal,PRT,Public spending on health as a share of government spending,All,% of government spending,2023,14.56
+Portugal,PRT,Public spending as a share of current spending on health,All,% of current spending on health,2000,69.78
+Portugal,PRT,Public spending as a share of current spending on health,All,% of current spending on health,2001,70.21
+Portugal,PRT,Public spending as a share of current spending on health,All,% of current spending on health,2002,72.04
+Portugal,PRT,Public spending as a share of current spending on health,All,% of current spending on health,2003,70.65
+Portugal,PRT,Public spending as a share of current spending on health,All,% of current spending on health,2004,70.61
+Portugal,PRT,Public spending as a share of current spending on health,All,% of current spending on health,2005,70.94
+Portugal,PRT,Public spending as a share of current spending on health,All,% of current spending on health,2006,63.48
+Portugal,PRT,Public spending as a share of current spending on health,All,% of current spending on health,2007,62.75
+Portugal,PRT,Public spending as a share of current spending on health,All,% of current spending on health,2008,62.55
+Portugal,PRT,Public spending as a share of current spending on health,All,% of current spending on health,2009,63.86
+Portugal,PRT,Public spending as a share of current spending on health,All,% of current spending on health,2010,66.56
+Portugal,PRT,Public spending as a share of current spending on health,All,% of current spending on health,2011,64.56
+Portugal,PRT,Public spending as a share of current spending on health,All,% of current spending on health,2012,61.34
+Portugal,PRT,Public spending as a share of current spending on health,All,% of current spending on health,2013,62.35
+Portugal,PRT,Public spending as a share of current spending on health,All,% of current spending on health,2014,61.8
+Portugal,PRT,Public spending as a share of current spending on health,All,% of current spending on health,2015,61.73
+Portugal,PRT,Public spending as a share of current spending on health,All,% of current spending on health,2016,61.66
+Portugal,PRT,Public spending as a share of current spending on health,All,% of current spending on health,2017,61.23
+Portugal,PRT,Public spending as a share of current spending on health,All,% of current spending on health,2018,61.23
+Portugal,PRT,Public spending as a share of current spending on health,All,% of current spending on health,2019,60.85
+Portugal,PRT,Public spending as a share of current spending on health,All,% of current spending on health,2020,64.3
+Portugal,PRT,Public spending as a share of current spending on health,All,% of current spending on health,2021,62.52
+Portugal,PRT,Public spending as a share of current spending on health,All,% of current spending on health,2022,62.41
+Portugal,PRT,Public spending as a share of current spending on health,All,% of current spending on health,2023,61.51
+Portugal,PRT,Public spending as a share of current spending on health,All,% of current spending on health,2024,62.2
+Portugal,PRT,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2000,3.58
+Portugal,PRT,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2001,3.75
+Portugal,PRT,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2002,3.94
+Portugal,PRT,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2003,4.78
+Portugal,PRT,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2004,5.01
+Portugal,PRT,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2005,4.53
+Portugal,PRT,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2006,10.14
+Portugal,PRT,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2007,10.49
+Portugal,PRT,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2008,10.13
+Portugal,PRT,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2009,10.15
+Portugal,PRT,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2010,7.76
+Portugal,PRT,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2011,7.79
+Portugal,PRT,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2012,8.1
+Portugal,PRT,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2013,7.96
+Portugal,PRT,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2014,7.98
+Portugal,PRT,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2015,7.81
+Portugal,PRT,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2016,7.99
+Portugal,PRT,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2017,8.16
+Portugal,PRT,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2018,7.96
+Portugal,PRT,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2019,7.64
+Portugal,PRT,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2020,6.79
+Portugal,PRT,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2021,7.39
+Portugal,PRT,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2022,7.51
+Portugal,PRT,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2023,8.2
+Portugal,PRT,Voluntary health insurance as a share of current spending on health,All,% of current spending on health,2024,8.61
+Portugal,PRT,Population entitled to publicly financed health care,All,% of the population,2000,100
+Portugal,PRT,Population entitled to publicly financed health care,All,% of the population,2001,100
+Portugal,PRT,Population entitled to publicly financed health care,All,% of the population,2002,100
+Portugal,PRT,Population entitled to publicly financed health care,All,% of the population,2003,100
+Portugal,PRT,Population entitled to publicly financed health care,All,% of the population,2004,100
+Portugal,PRT,Population entitled to publicly financed health care,All,% of the population,2005,100
+Portugal,PRT,Population entitled to publicly financed health care,All,% of the population,2006,100
+Portugal,PRT,Population entitled to publicly financed health care,All,% of the population,2007,100
+Portugal,PRT,Population entitled to publicly financed health care,All,% of the population,2008,100
+Portugal,PRT,Population entitled to publicly financed health care,All,% of the population,2009,100
+Portugal,PRT,Population entitled to publicly financed health care,All,% of the population,2010,100
+Portugal,PRT,Population entitled to publicly financed health care,All,% of the population,2011,100
+Portugal,PRT,Population entitled to publicly financed health care,All,% of the population,2012,100
+Portugal,PRT,Population entitled to publicly financed health care,All,% of the population,2013,100
+Portugal,PRT,Population entitled to publicly financed health care,All,% of the population,2014,100
+Portugal,PRT,Population entitled to publicly financed health care,All,% of the population,2015,100
+Portugal,PRT,Population entitled to publicly financed health care,All,% of the population,2016,100
+Portugal,PRT,Population entitled to publicly financed health care,All,% of the population,2017,100
+Portugal,PRT,Population entitled to publicly financed health care,All,% of the population,2018,100
+Portugal,PRT,Population entitled to publicly financed health care,All,% of the population,2019,100
+Portugal,PRT,Population entitled to publicly financed health care,All,% of the population,2020,100
+Portugal,PRT,Population entitled to publicly financed health care,All,% of the population,2021,100
+Portugal,PRT,Population entitled to publicly financed health care,All,% of the population,2022,100
+Portugal,PRT,Population entitled to publicly financed health care,All,% of the population,2023,100
+Portugal,PRT,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2000,28.15
+Portugal,PRT,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2005,23.75
+Portugal,PRT,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2010,29.95
+Portugal,PRT,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2015,31.95
+Portugal,PRT,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Poorest,%,2022,29.05
+Portugal,PRT,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2000,11.8
+Portugal,PRT,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2005,13.1
+Portugal,PRT,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2010,12
+Portugal,PRT,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2015,7.8
+Portugal,PRT,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),2nd,%,2022,3.65
+Portugal,PRT,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2000,6.15
+Portugal,PRT,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2005,8
+Portugal,PRT,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2010,7.25
+Portugal,PRT,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2015,4.25
+Portugal,PRT,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),3rd,%,2022,3
+Portugal,PRT,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2000,2.75
+Portugal,PRT,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2005,5.4
+Portugal,PRT,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2010,4.3
+Portugal,PRT,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2015,1.55
+Portugal,PRT,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),4th,%,2022,1
+Portugal,PRT,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2000,1.75
+Portugal,PRT,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2005,2.85
+Portugal,PRT,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2010,2.5
+Portugal,PRT,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2015,0.1
+Portugal,PRT,Households with catastrophic health spending within each consumption fifth (UHC Watch contribution × 5),Richest,%,2022,0.55
+Portugal,PRT,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2000,46.84
+Portugal,PRT,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2005,57.17
+Portugal,PRT,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2010,50.25
+Portugal,PRT,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2015,57.87
+Portugal,PRT,Breakdown of catastrophic health spending by type of health care (total),Medicines,%,2022,42.35
+Portugal,PRT,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2000,9.27
+Portugal,PRT,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2005,6.03
+Portugal,PRT,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2010,6.29
+Portugal,PRT,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2015,6.05
+Portugal,PRT,Breakdown of catastrophic health spending by type of health care (total),Medical products,%,2022,17.79
+Portugal,PRT,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2000,15.15
+Portugal,PRT,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2005,11.92
+Portugal,PRT,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2010,10.03
+Portugal,PRT,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2015,13.22
+Portugal,PRT,Breakdown of catastrophic health spending by type of health care (total),Outpatient care,%,2022,8.89
+Portugal,PRT,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2000,9.29
+Portugal,PRT,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2005,8.96
+Portugal,PRT,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2010,21.34
+Portugal,PRT,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2015,11.65
+Portugal,PRT,Breakdown of catastrophic health spending by type of health care (total),Dental care,%,2022,17.63
+Portugal,PRT,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2000,12.73
+Portugal,PRT,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2005,9.82
+Portugal,PRT,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2010,8.48
+Portugal,PRT,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2015,9.4
+Portugal,PRT,Breakdown of catastrophic health spending by type of health care (total),Diagnostic tests,%,2022,2.77
+Portugal,PRT,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2000,6.72
+Portugal,PRT,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2005,6.1
+Portugal,PRT,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2010,3.62
+Portugal,PRT,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2015,1.82
+Portugal,PRT,Breakdown of catastrophic health spending by type of health care (total),Inpatient care,%,2022,10.58
+Portugal,PRT,Share of Impoverished households (all households),All,%,2000,1.7
+Portugal,PRT,Share of Impoverished households (all households),All,%,2005,1.4
+Portugal,PRT,Share of Impoverished households (all households),All,%,2010,1.55
+Portugal,PRT,Share of Impoverished households (all households),All,%,2015,1.33
+Portugal,PRT,Share of Impoverished households (all households),All,%,2022,1.16
+Portugal,PRT,Share of further impoverished households (total),All,%,2000,1.61
+Portugal,PRT,Share of further impoverished households (total),All,%,2005,1.04
+Portugal,PRT,Share of further impoverished households (total),All,%,2010,2.14
+Portugal,PRT,Share of further impoverished households (total),All,%,2015,1.67
+Portugal,PRT,Share of further impoverished households (total),All,%,2022,2.17
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2008,2.6
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2009,7
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2010,4.4
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2011,2.2
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2012,5.9
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2013,4.9
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2014,7.2
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2015,6.4
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2016,4.7
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2017,5.1
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2018,4.2
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2019,3.5
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2020,3.2
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2021,4.8
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2022,6.7
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2023,5.9
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2024,4.8
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Poorest,%,2025,4.2
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2008,0.3
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2009,0.6
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2010,0.1
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2011,0.1
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2012,0.8
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2013,1.1
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2014,0.6
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2015,0.6
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2016,0.5
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2017,0.3
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2018,0.3
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2019,0.2
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2020,0.2
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2021,0.6
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2022,0.3
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2023,0.9
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2024,0.9
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (quintile)",Richest,%,2025,1
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2008,13
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2009,20.8
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2010,20.1
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2011,15.5
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2012,22.6
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2013,23.8
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2014,29.7
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2015,27.6
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2016,27
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2017,23.7
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2018,21.9
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2019,20.6
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2020,17.5
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2021,18.1
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2022,17.5
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2023,19.3
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2024,15.4
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Poorest,%,2025,16.9
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2008,1.2
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2009,1.9
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2010,2.5
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2011,2.1
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2012,3.9
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2013,3.9
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2014,3.1
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2015,2.6
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2016,2.7
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2017,1.9
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2018,1.4
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2019,1.8
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2020,1.1
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2021,0.6
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2022,0.8
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2023,1.4
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2024,1.2
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (quintile)",Richest,%,2025,1.6
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2008,0.4
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2009,1.6
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2010,0.8
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2011,0.5
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2012,1.9
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2013,1.4
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2014,1.8
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2015,1.4
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2016,1.2
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2017,1.2
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2018,1
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2019,0.6
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2020,0.8
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2021,1.3
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2022,1.3
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2023,1.2
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (<25 years)",All,%,2024,1.5
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2008,1.3
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2009,3.4
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2010,2.1
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2011,2.1
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2012,4
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2013,2.9
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2014,4
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2015,3.2
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2016,2.9
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2017,2.7
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2018,3
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2019,2.6
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2020,2
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2021,3.1
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2022,3.8
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2023,3.8
+Portugal,PRT,"Self-reported unmet need for health care due to cost, distance and waiting time (65+ years)",All,%,2024,3.5
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2008,5
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2009,8.2
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2010,5.6
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2011,4.5
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2012,9.1
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2013,8.4
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2014,9.1
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2015,7.9
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2016,14
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2017,6.5
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2018,6.3
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2019,5.5
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2020,3.6
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2021,5.3
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2022,3.5
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2023,4.9
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (<25 years)",All,%,2024,3.2
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2008,7.3
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2009,11.7
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2010,10.1
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2011,9.3
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2012,11.9
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2013,11.8
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2014,14.4
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2015,15.4
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2016,14.2
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2017,12.1
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2018,12.6
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2019,11.5
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2020,8.9
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2021,9.4
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2022,9.6
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2023,9.7
+Portugal,PRT,"Self-reported unmet need for dental care due to cost, distance and waiting time (65+ years)",All,%,2024,9.1
+Portugal,PRT,Self-reported unmet need for prescribed medicines due to cost (poorest),All,%,2019,13.8
+Portugal,PRT,Self-reported unmet need for prescribed medicines due to cost (richest),All,%,2019,2.1
+Portugal,PRT,Self-reported unmet need for prescribed medicines due to cost (<25 years),All,%,2014,6.3
+Portugal,PRT,Self-reported unmet need for prescribed medicines due to cost (<25 years),All,%,2019,3.2
+Portugal,PRT,Self-reported unmet need for prescribed medicines due to cost (65+ years),All,%,2014,9.8
+Portugal,PRT,Self-reported unmet need for prescribed medicines due to cost (65+ years),All,%,2019,6.1
+Portugal,PRT,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2000,6.85
+Portugal,PRT,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2005,6.66
+Portugal,PRT,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2010,7.43
+Portugal,PRT,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2015,8.34
+Portugal,PRT,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Poorest,%,2022,6.6
+Portugal,PRT,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2000,6.87
+Portugal,PRT,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2005,8.32
+Portugal,PRT,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2010,7.98
+Portugal,PRT,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2015,7.91
+Portugal,PRT,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),2nd,%,2022,5.47
+Portugal,PRT,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2000,6.54
+Portugal,PRT,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2005,8.13
+Portugal,PRT,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2010,7.66
+Portugal,PRT,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2015,7.38
+Portugal,PRT,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),3rd,%,2022,5.69
+Portugal,PRT,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2000,6.12
+Portugal,PRT,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2005,7.88
+Portugal,PRT,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2010,7.71
+Portugal,PRT,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2015,7.27
+Portugal,PRT,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),4th,%,2022,5.38
+Portugal,PRT,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2000,5.13
+Portugal,PRT,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2005,6.86
+Portugal,PRT,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2010,6.25
+Portugal,PRT,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2015,5.88
+Portugal,PRT,Out-of-pocket payments for health care as a share of household consumption (by consumption quintile),Richest,%,2022,4.61
+Portugal,PRT,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2000,42.98
+Portugal,PRT,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2005,45.99
+Portugal,PRT,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2010,46.71
+Portugal,PRT,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2015,49.9
+Portugal,PRT,Breakdown of out-of-pocket payments by type of health care (total),Medicines,%,2022,40.35
+Portugal,PRT,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2000,12.22
+Portugal,PRT,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2005,11.69
+Portugal,PRT,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2010,8.94
+Portugal,PRT,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2015,8.55
+Portugal,PRT,Breakdown of out-of-pocket payments by type of health care (total),Medical products,%,2022,20.25
+Portugal,PRT,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2000,20.34
+Portugal,PRT,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2005,15.47
+Portugal,PRT,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2010,14.98
+Portugal,PRT,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2015,16.21
+Portugal,PRT,Breakdown of out-of-pocket payments by type of health care (total),Outpatient care,%,2022,12.75
+Portugal,PRT,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2000,10.07
+Portugal,PRT,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2005,13.22
+Portugal,PRT,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2010,17.48
+Portugal,PRT,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2015,13.42
+Portugal,PRT,Breakdown of out-of-pocket payments by type of health care (total),Dental care,%,2022,20.35
+Portugal,PRT,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2000,9.67
+Portugal,PRT,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2005,8.42
+Portugal,PRT,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2010,8.61
+Portugal,PRT,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2015,8.82
+Portugal,PRT,Breakdown of out-of-pocket payments by type of health care (total),Diagnostic tests,%,2022,2.38
+Portugal,PRT,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2000,4.72
+Portugal,PRT,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2005,5.2
+Portugal,PRT,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2010,3.27
+Portugal,PRT,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2015,3.11
+Portugal,PRT,Breakdown of out-of-pocket payments by type of health care (total),Inpatient care,%,2022,3.92
